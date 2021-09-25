@@ -1,0 +1,781 @@
+Technology,Power Plant Name,Fuel Category,Primary Fuel,Region,Country,Total Capacity (MW),Active Capacity (MW),Pipeline Capacity (MW),Discontinued Capacity (MW),Status,Owner Name,Owner Stake (%)
+Thermal,46864175ac power plant,Gas,Natural Gas,Europe,Romania,774.3,774.3,,,Active,Acme Oil & Gas Corporation,
+Thermal,e73ddc5a12 power plant,Gas,Natural Gas,Middle East and Africa,Iran (Islamic Republic of Iran),679.18,679.18,,,Active,Acme Oil & Gas Corporation,
+Thermal,08e7c3d6f3 power plant,Gas,Natural Gas,South and Central America,Argentina,801.85,,,,Active,Acme Oil & Gas Corporation,
+Thermal,da41646568 power plant,Oil,Distillate Fuel Oil,North America,United States,4.4,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,bf830a8e26 power plant,Oil,Distillate Fuel Oil,North America,United States,3.78,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,f055d9187e power plant,Coal,Coal,Asia-Pacific,India,41.71,,41.71,,Dormant,Acme Oil & Gas Corporation,
+Thermal,3c1d08ddf2,Coal,Brown Coal,Asia-Pacific,Mongolia,254.925,,254.925,,Permitting,Acme Oil & Gas Corporation,100
+Thermal,dcb4ac5ab5 power plant,Oil,Diesel,South and Central America,Saint Kitts and Nevis,2.05,2.05,,,Active,Acme Oil & Gas Corporation,100
+Thermal,1c0e861898 power plant,Coal,Coal,Asia-Pacific,China,390.96,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,2219091cfa power plant,Coal,Bituminous,Asia-Pacific,China,1486.8,,,,Partially Active,Acme Oil & Gas Corporation,
+Thermal,3d33faa95f power plant,Oil,Diesel,South and Central America,Peru,10.4424,10.4424,,,Active,Acme Oil & Gas Corporation,
+Thermal,4d45c2d73a plant,Gas,Natural Gas,Europe,Spain,2.4656,2.4656,,,Active,Acme Oil & Gas Corporation,100
+Thermal,acb65fc4d1 power plant,Dual-Fuel,Natural Gas,North America,United States,26.95,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,6c411e6d73 power plant,Gas,Natural Gas,Europe,Italy,259.2,259.2,,,Active,Acme Oil & Gas Corporation,
+Thermal,c0a9b76b98 power plant,Coal,Coal,Asia-Pacific,India,2356.2,,2356.2,,Permitting,Acme Oil & Gas Corporation,100
+Thermal,bbfdfb0fde power plant,Gas,Natural Gas,Europe,Spain,0.513,0.513,,,Active,Acme Oil & Gas Corporation,100
+Thermal,80cb1f0157 power plant,Oil,Fuel Oil,South and Central America,Brazil,236.51,,,236.51,Suspended,Acme Oil & Gas Corporation,100
+Thermal,cff9a1f75d,Gas,Natural Gas,Europe,United Kingdom,267,267,,,Active,Acme Oil & Gas Corporation,
+Thermal,3bf1bdfa76 power plant,Oil,Diesel,South and Central America,Brazil,0.6,0.6,,,Active,Acme Oil & Gas Corporation,100
+Thermal,4df570ac9b power plant,Gas,Natural Gas,North America,United States,316.548,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,2efa3b7e7f power plant,Gas,Natural Gas,Asia-Pacific,Bangladesh,28.71,,,,Active,Acme Oil & Gas Corporation,
+Thermal,87f64ea8d5 power plant,Gas,Natural Gas,Asia-Pacific,China,66.75,66.75,,,Active,Acme Oil & Gas Corporation,
+Thermal,e54720de77 plant,Oil,Distillate Fuel Oil,North America,United States,13.11,,,,Active,Acme Oil & Gas Corporation,
+Thermal,b9387bd9d4 power plant,Oil,Diesel,Asia-Pacific,Vietnam,17.286,17.286,,,Active,Acme Oil & Gas Corporation,100
+Thermal,05619258a3 power plant,Gas,Gas,Middle East and Africa,Nigeria,1350,,,1350,Suspended,Acme Oil & Gas Corporation,
+Thermal,436f07fa1e power plant,Gas,Natural Gas,Europe,Turkey,858.6,858.6,,,Active,Acme Oil & Gas Corporation,100
+Thermal,9f59d81b30 power plant,Oil,Diesel,North America,Canada,0.3675,0.3675,,,Active,Acme Oil & Gas Corporation,100
+Thermal,d0c951bb35 power plant,Gas,Gas,South and Central America,Venezuela,627.56,,627.56,,Under Construction,Acme Oil & Gas Corporation,
+Thermal,8029f56ba2 plant,Gas,Natural Gas,North America,United States,0.0138,0.0138,,,Active,Acme Oil & Gas Corporation,100
+Thermal,51c55ce816 power plant,Coal,Coal,Asia-Pacific,India,68,68,,,Active,Acme Oil & Gas Corporation,
+Thermal,0b58cbc49e,Gas,Liquefied Natural Gas,Asia-Pacific,India,229.4,,229.4,,Under Construction,Acme Oil & Gas Corporation,
+Thermal,54ac4c7e30 power plant,Oil,Diesel,South and Central America,Brazil,1.344,1.344,,,Active,Acme Oil & Gas Corporation,100
+Thermal,460dc000ef power plant,Gas,Natural Gas,Europe,Spain,855.93,855.93,,,Active,Acme Oil & Gas Corporation,100
+Thermal,7c56cbe643 power plant,Oil,Diesel,South and Central America,Brazil,0.612,0.612,,,Active,Acme Oil & Gas Corporation,100
+Thermal,552ac69157 power plant,Oil,Distillate Fuel Oil,North America,United States,13.568,,,,Decommissioned,Acme Oil & Gas Corporation,100
+Thermal,00a42c3c5e,Gas,Liquefied Natural Gas,Asia-Pacific,Republic of Korea,,,,,Dormant,Acme Oil & Gas Corporation,
+Thermal,ea72cf174f,Coal,Coal,Europe,Russian Federation,200.8395,,,,Active,Acme Oil & Gas Corporation,
+Thermal,283e9bb79b power plant,Gas,Natural Gas,North America,United States,0.225,0.225,,,Active,Acme Oil & Gas Corporation,100
+Thermal,a79126d027 power plant,Gas,Natural Gas,Middle East and Africa,United Republic Of Tanzania,294,,294,,Dormant,Acme Oil & Gas Corporation,
+Thermal,cca25246af plant,Gas,Natural Gas,Europe,Spain,3.531,3.531,,,Active,Acme Oil & Gas Corporation,
+Thermal,6f63b9a017 power plant,Oil,High Speed Diesel,Asia-Pacific,Bangladesh,146.69424,,,,Temporarily Shutdown,Acme Oil & Gas Corporation,100
+Thermal,692f46d98e power plant,Coal,Coal,Asia-Pacific,Indonesia,19.18,,,,Suspended,Acme Oil & Gas Corporation,100
+Thermal,3eb4cb9f5f plant,Gas,Natural Gas,Europe,Czech Republic,43.8,,,,Partially Active,Acme Oil & Gas Corporation,
+Thermal,8e879fab06 plant,Gas,Gas,Europe,Italy,21,,21,,Permitting,Acme Oil & Gas Corporation,
+Thermal,eaab22a67e power plant,Gas,Natural Gas,Asia-Pacific,Pakistan,13.6482,,,,Active,Acme Oil & Gas Corporation,
+Thermal,73416271a5 plant,Gas,Natural Gas,North America,United States,0.1744,0.1744,,,Active,Acme Oil & Gas Corporation,100
+Thermal,243a90589b plant,Gas,Natural Gas,Europe,Spain,4.368,4.368,,,Active,Acme Oil & Gas Corporation,
+Thermal,0282d6b4e7 power plant,Oil,Diesel,South and Central America,Brazil,0.77,0.77,,,Active,Acme Oil & Gas Corporation,100
+Thermal,3d2e2deed0 plant,Gas,Natural Gas,North America,United States,0.0968,0.0968,,,Active,Acme Oil & Gas Corporation,100
+Thermal,56799a7439,Gas,Natural Gas,Middle East and Africa,United Arab Emirates,839.16,839.16,,,Active,Acme Oil & Gas Corporation,
+Thermal,b03ddc8ca8 power plant,Coal,Lignite,Europe,Germany,45.895,45.895,,,Active,Acme Oil & Gas Corporation,
+Thermal,508b16be82 power plant,Coal,Coal,Europe,Turkey,,,,,Cancelled,Acme Oil & Gas Corporation,10
+Thermal,45d9153967,Gas,Natural Gas,Europe,Spain,2.6784,2.6784,,,Active,Acme Oil & Gas Corporation,
+Thermal,bf7c97fdeb power plant,Gas,Natural Gas,North America,United States,27.448,,,,Decommissioned,Acme Oil & Gas Corporation,100
+Thermal,5d9c17a1e8,Gas,Natural Gas,Asia-Pacific,Pakistan,26.724,,,,Active,Acme Oil & Gas Corporation,
+Thermal,1a1a5180dd plant,Gas,Natural Gas,South and Central America,Brazil,3.52,3.52,,,Active,Acme Oil & Gas Corporation,100
+Thermal,2d3ef460fa power plant,Coal,Coal,Asia-Pacific,China,1768.8,,,1768.8,Suspended,Acme Oil & Gas Corporation,
+Thermal,e124afb7c3 power plant,Gas,Natural Gas,Europe,Turkey,64.9512,64.9512,,,Active,Acme Oil & Gas Corporation,
+Thermal,da252339f4 power plant,Oil,Heavy Fuel Oil,Europe,Jersey,19.2,19.2,,,Active,Acme Oil & Gas Corporation,100
+Thermal,89a5362020 power plant,Gas,Natural Gas,Europe,Germany,291.45,291.45,,,Active,Acme Oil & Gas Corporation,
+Thermal,9be8958620 plant,Gas,Natural Gas,North America,United States,6.258,6.258,,,Active,Acme Oil & Gas Corporation,100
+Thermal,5e966aaa27 power plant,Gas,Natural Gas,Middle East and Africa,Algeria,163.75,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,6ba3143c39 power plant,Gas,Natural Gas,Middle East and Africa,Algeria,295,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,609aad1dcd power plant,Gas,Natural Gas,North America,United States,0.447,0.447,,,Active,Acme Oil & Gas Corporation,100
+Thermal,fef634d037 power plant,Oil,Diesel,Middle East and Africa,Algeria,52,52,,,Active,Acme Oil & Gas Corporation,100
+Thermal,6f821a2a00 power plant,Gas,Natural Gas,Middle East and Africa,Algeria,78.2,78.2,,,Active,Acme Oil & Gas Corporation,
+Thermal,ba251f5ee8 power plant,Gas,Natural Gas,Middle East and Africa,Algeria,98.6,98.6,,,Active,Acme Oil & Gas Corporation,
+Thermal,5c8ad42553 power plant,Oil,Diesel,Asia-Pacific,Philippines,39.05,,39.05,,Permitting,Acme Oil & Gas Corporation,
+Thermal,8230337526 power plant,Gas,Liquefied Natural Gas,Asia-Pacific,Bangladesh,,,,,Announced,Acme Oil & Gas Corporation,
+Thermal,9d355cdc59 plant,Gas,Natural Gas,North America,United States,0.0624,0.0624,,,Active,Acme Oil & Gas Corporation,100
+Thermal,a5aa4c4ca8 power plant,Gas,Natural Gas,North America,United States,0.01,0.01,,,Active,Acme Oil & Gas Corporation,100
+Thermal,1ba920d440,Gas,Natural Gas,North America,United States,0.0228,0.0228,,,Active,Acme Oil & Gas Corporation,100
+Thermal,1cd831653d power plant,Oil,Heavy Fuel Oil,Middle East and Africa,Liberia,31.36,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,c89758f259 plant,Gas,Natural Gas,North America,United States,0.1716,0.1716,,,Active,Acme Oil & Gas Corporation,100
+Thermal,67959c0f05 plant,Gas,Natural Gas,Europe,Spain,5.995,5.995,,,Active,Acme Oil & Gas Corporation,
+Thermal,9c25fbc25f power plant,Coal,Coal,South and Central America,Chile,367.2,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,3c3f71f281 plant,Gas,Natural Gas,North America,United States,,,,,Active,Acme Oil & Gas Corporation,
+Thermal,9c0786cca2 plant,Gas,Natural Gas,North America,United States,,,,,Active,Acme Oil & Gas Corporation,
+Thermal,cfe5d89515 plant,Gas,Natural Gas,North America,United States,0.087,0.087,,,Active,Acme Oil & Gas Corporation,100
+Thermal,fdc65be071 plant,Coal,Coal,Asia-Pacific,China,70.07,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,5559ba2b56 power plant,Coal,Coal,Asia-Pacific,India,10.575,10.575,,,Active,Acme Oil & Gas Corporation,
+Thermal,ec2a518c6a power plant,Gas,Natural Gas,North America,United States,24.66,24.66,,,Active,Acme Oil & Gas Corporation,100
+Thermal,d6187ba4d2 power plant,Coal,Coal,Asia-Pacific,India,13.8,13.8,,,Active,Acme Oil & Gas Corporation,
+Thermal,277c66822e facility,Gas,Natural Gas,North America,United States,869.86,869.86,,,Active,Acme Oil & Gas Corporation,100
+Thermal,e144a4d4ec power plant,Gas,Natural Gas,Asia-Pacific,Taiwan,,,,,Active,Acme Oil & Gas Corporation,50
+Thermal,d0d23df698 power plant,Gas,Natural Gas,Asia-Pacific,Singapore,,,,,Active,Acme Oil & Gas Corporation,30
+Thermal,f8238fc51b power plant,Gas,Natural Gas,Europe,Portugal,,,,,Active,Acme Oil & Gas Corporation,50
+Thermal,06effbeed8 center,Gas,Natural Gas,North America,United States,,,,,Active,Acme Oil & Gas Corporation,25
+Thermal,08a05d5cc9 power plant,Coal,Coal,Asia-Pacific,Philippines,,,,,Dormant,Acme Oil & Gas Corporation,
+Thermal,7a2391c197 power plant,Coal,Coal,Asia-Pacific,Philippines,336,,,,Announced,Acme Oil & Gas Corporation,60
+Thermal,28b7a1f753 power plant,Coal,Coal,Asia-Pacific,Japan,1287,,,,Suspended,Acme Oil & Gas Corporation,
+Thermal,1bf0645288 power plant,Gas,Natural Gas,Asia-Pacific,Japan,141,141,,,Active,Acme Oil & Gas Corporation,100
+Thermal,4da9adcec4 power plant,Gas,Natural Gas,South and Central America,Argentina,37.44,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,f095417474 power plant,Coal,Coal,Asia-Pacific,Indonesia,52.2,,,,Suspended,Acme Oil & Gas Corporation,
+Thermal,0883fec298 power plant,Gas,Natural Gas,Europe,Turkey,67.235,67.235,,,Active,Acme Oil & Gas Corporation,
+Thermal,f0ea6953d1 power plant,Oil,Oil,Asia-Pacific,Thailand,254.125,,,,Decommissioned,Acme Oil & Gas Corporation,100
+Thermal,ba89582050 plant,Gas,Natural Gas,Europe,Spain,18.252,18.252,,,Active,Acme Oil & Gas Corporation,
+Thermal,c3c8c6152a power plant,Oil,Diesel,Asia-Pacific,Thailand,7.2225,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,918085e188 power plant,Oil,Diesel,Asia-Pacific,Thailand,6.4,6.4,,,Active,Acme Oil & Gas Corporation,100
+Thermal,d35801ef2b power plant,Oil,Diesel,Asia-Pacific,Philippines,9.36,9.36,,,Active,Acme Oil & Gas Corporation,100
+Thermal,de941e1ffa power plant,Oil,Diesel,Asia-Pacific,Philippines,2.752,2.752,,,Active,Acme Oil & Gas Corporation,100
+Thermal,b596640a4d power plant,Oil,Diesel,Asia-Pacific,Philippines,9.984,9.984,,,Active,Acme Oil & Gas Corporation,100
+Thermal,07fa41363a power plant,Gas,Natural Gas,North America,United States,36.48,36.48,,,Active,Acme Oil & Gas Corporation,100
+Thermal,709bb8f1d0 power plant,Oil,Distillate Fuel Oil,North America,United States,16.44,16.44,,,Active,Acme Oil & Gas Corporation,100
+Thermal,4bd5d29c2e power plant,Gas,Natural Gas,North America,United States,149.076,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,275b3f1ed9 center,Gas,Natural Gas,North America,United States,340.6,340.6,,,Active,Acme Oil & Gas Corporation,100
+Thermal,80e4401254 center,Gas,Natural Gas,North America,United States,149.615,,,149.615,Decommissioned,Acme Oil & Gas Corporation,100
+Thermal,3dd24d1e81 center,Gas,Natural Gas,North America,United States,33.84,33.84,,,Active,Acme Oil & Gas Corporation,100
+Thermal,79691c4eb7 power plant,Gas,Natural Gas,North America,United States,688.496,,,688.496,Decommissioned,Acme Oil & Gas Corporation,
+Thermal,f93f6ed72d center,Oil,Distillate Fuel Oil,North America,United States,18.2,18.2,,,Active,Acme Oil & Gas Corporation,100
+Thermal,cf72369773 power plant,Coal,Coal,Asia-Pacific,India,7.8,,7.8,,Permitting,Acme Oil & Gas Corporation,
+Thermal,14223f2740 power plant,Oil,Distillate Fuel Oil,North America,United States,10.108,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,bdb6bf50be power plant,Coal,Coal,Asia-Pacific,Malaysia,1239,,,,Active,Acme Oil & Gas Corporation,90
+Thermal,acdf0396ab power plant,Gas,Natural Gas,North America,United States,,,,,Active,Acme Oil & Gas Corporation,23
+Thermal,00dd8b9dc7 plant,Gas,Natural Gas,Europe,Spain,7.2,,,,Active,Acme Oil & Gas Corporation,
+Thermal,75bf5dec14 power plant,Gas,Natural Gas,North America,United States,44.64,44.64,,,Active,Acme Oil & Gas Corporation,
+Thermal,128655fc20 plant,Gas,Natural Gas,North America,United States,5.2895,5.2895,,,Active,Acme Oil & Gas Corporation,
+Thermal,3bef594ed4 plant,Gas,Natural Gas,North America,Canada,8,,,,Active,Acme Oil & Gas Corporation,100
+Thermal,c4b6f34746 power plant,Oil,Gas Oil,Europe,Spain,1.248,1.248,,,Active,Acme Oil & Gas Corporation,100
+Thermal,4a7bbc0e73 power plant,Oil,Diesel,South and Central America,Brazil,0.0594,0.0594,,,Active,Acme Oil & Gas Corporation,100
+Thermal,48443c5d60,Gas,Natural Gas,Asia-Pacific,Uzbekistan,441,,,,Active,Acme Oil & Gas Corporation,
+Thermal,5fece0b373 power plant,Gas,Natural Gas,Asia-Pacific,Uzbekistan,25.38,25.38,,,Active,Acme Oil & Gas Corporation,
+Thermal,737dce2a87 power plant,Gas,Natural Gas,Asia-Pacific,Uzbekistan,1862.5,1862.5,,,Active,Acme Oil & Gas Corporation,100
+Thermal,28fd2772bc,Dual-Fuel,Natural Gas,North America,United States,370,,,370,Cancelled,Acme Oil & Gas Corporation,
+Thermal,992a30f271 plant,Gas,Natural Gas,North America,United States,0.1965,0.1965,,,Active,Dynamis Corporation,100
+Thermal,dbf459de92 power plant,Gas,Gas,Asia-Pacific,India,1953,,,,Dormant,Dynamis Corporation,
+Thermal,7c89119dbe power plant,Gas,Natural Gas,North America,United States,2.7,2.7,,,Active,Dynamis Corporation,100
+Thermal,c7ebe628bf,Gas,Natural Gas,Middle East and Africa,Kenya,395,,395,,Dormant,Dynamis Corporation,
+Thermal,dd643089ed power plant,Oil,Distillate Fuel Oil,North America,United States,1.424,1.424,,,Active,Dynamis Corporation,100
+Thermal,b5d0ea1a6f power plant,Gas,Natural Gas,North America,United States,473.36,473.36,,,Active,Dynamis Corporation,
+Thermal,bf5e5c4909 power plant,Gas,Natural Gas,North America,United States,470,,470,,Announced,Dynamis Corporation,
+Thermal,2fa01498a8 power plant,Gas,Natural Gas,Europe,Slovakia,97.6,97.6,,,Active,Dynamis Corporation,100
+Thermal,9d80026c28 power plant,Oil,Diesel,Asia-Pacific,Philippines,131,,131,,Dormant,Dynamis Corporation,
+Thermal,38d387584b plant,Gas,Natural gas,Europe,Spain,8.9847,8.9847,,,Active,Dynamis Corporation,
+Thermal,8cc3c4cfea station,Gas,Natural Gas,North America,United States,29.1,29.1,,,Active,Dynamis Corporation,
+Thermal,e8e2a32c19 station,Oil,Distillate Fuel Oil,Europe,Germany,245.52,,,,Active,Dynamis Corporation,100
+Thermal,c09b49c046 station,Gas,Natural Gas,Europe,Germany,65.52,,,,Active,Dynamis Corporation,100
+Thermal,9a2fc2ce21 power plant,Coal,Hard Coal,Europe,Germany,1951.72,,,,Active,Dynamis Corporation,100
+Thermal,63b816f65a power plant,Gas,Natural Gas,Europe,Germany,258,258,,,Active,Dynamis Corporation,100
+Thermal,b46f20d9b6 station,Coal,Hard Coal,Asia-Pacific,India,333.04,,,,Active,Dynamis Corporation,100
+Thermal,fdf2b5ea54 power plant,Gas,Gas,Asia-Pacific,India,9.45,,,,Active,Dynamis Corporation,100
+Thermal,e10fb9f1ad power plant,Gas,Gas,Asia-Pacific,India,3.96,,,,Active,Dynamis Corporation,100
+Thermal,d86a7ec341 power plant,Oil,Heavy Fuel Oil,Asia-Pacific,Republic of Korea,1344,,,,Active,Dynamis Corporation,
+Thermal,20b2941a1a power plant,Coal,Bituminous,Asia-Pacific,China,,,,,Active,Dynamis Corporation,30
+Thermal,df1a2aaf91 power plant,Dual-Fuel,Natural Gas,South and Central America,Argentina,53.3,53.3,,,Active,Dynamis Corporation,100
+Thermal,a1b90047a6 power plant,Dual-Fuel,Natural Gas,South and Central America,Argentina,61,61,,,Active,Dynamis Corporation,
+Thermal,9aca256b42 power plant,Gas,Natural Gas,North America,United States,4.784,,,,Active,Dynamis Corporation,100
+Thermal,667338c7da plant,Gas,Gas,Europe,Slovakia,64.8,64.8,,,Active,Dynamis Corporation,
+Thermal,e83b00baee power plant,Gas,Natural Gas,Asia-Pacific,India,150,,150,,Dormant,Dynamis Corporation,
+Thermal,b869bc907f power plant,Coal,Hard Coal,Europe,Germany,81.2,81.2,,,Active,Dynamis Corporation,100
+Thermal,f4e480b4a9 power plant,Gas,Natural Gas,Europe,Germany,87.2,87.2,,,Active,Dynamis Corporation,100
+Thermal,1e4b560e4c power plant,Oil,Diesel,South and Central America,Brazil,,,,,Under Construction,Dynamis Corporation,1
+Thermal,618a95ae86 power plant,Oil,Diesel,South and Central America,Brazil,4.33664,,4.33664,,Under Construction,Dynamis Corporation,1
+Thermal,28eb216e4b power plant,Oil,Diesel,South and Central America,Brazil,,,,,Under Construction,Dynamis Corporation,1
+Thermal,7dec4eabd5 power plant,Oil,Diesel,South and Central America,Brazil,7.12096,,7.12096,,Under Construction,Dynamis Corporation,1
+Thermal,fdf08c44f7 power plant,Gas,Natural Gas,Asia-Pacific,Malaysia,221.072,221.072,,,Active,Dynamis Corporation,100
+Thermal,4965577355 power plant,Gas,Gas,Asia-Pacific,Malaysia,2016,,,2016,Cancelled,Dynamis Corporation,
+Thermal,22403d6a20 power plant,Dual-Fuel,Natural Gas/Extra light fuel oil,Europe,Slovenia,59.4,,59.4,,Permitting,Dynamis Corporation,
+Thermal,283326e665 power plant,Oil,Diesel,South and Central America,Peru,5.559,5.559,,,Active,Dynamis Corporation,
+Thermal,7d8a20990f power plant,Oil,Diesel,South and Central America,Peru,3.06,3.06,,,Active,Dynamis Corporation,
+Thermal,08a05d5cc9 power plant,Coal,Coal,Asia-Pacific,Philippines,198,,198,,Dormant,Dynamis Corporation,
+Thermal,15e442cab4 plant,Gas,Natural Gas,Europe,Spain,1.2875,1.2875,,,Active,Dynamis Corporation,
+Thermal,9633ad32e8 power plant,Coal,Coal,Asia-Pacific,Cambodia,,,81,,Under Construction,Dynamis Corporation,
+Thermal,e0a485032a power plant,Oil,Oil,North America,United States,1.09,1.09,,,Active,Dynamis Corporation,100
+Thermal,209d083f8a plant,Gas,Natural Gas,North America,United States,7.82,,,,Active,Dynamis Corporation,
+Thermal,90f90c0731 plant,Gas,Natural Gas,Europe,Poland,160,,160,,Dormant,Dynamis Corporation,60
+Thermal,26a6c0649b plant,Oil,Fuel Oil,Europe,Spain,12.648,12.648,,,Active,Dynamis Corporation,
+Thermal,536268137b plant,Gas,Natural Gas,North America,United States,,,,,Active,Dynamis Corporation,
+Thermal,b535a47f21 station,Dual-Fuel,Natural Gas,Asia-Pacific,Australia,20.928,20.928,,,Active,Dynamis Corporation,100
+Thermal,6c56606465 plant,Coal,Coal,Europe,Russian Federation,230.75,230.75,,,Active,Dynamis Corporation,
+Thermal,1effd4b78e station,Oil,Diesel,Asia-Pacific,Australia,3.8,,,,Active,Dynamis Corporation,100
+Thermal,e12794f188 power plant,Coal,Coal,Europe,Russian Federation,104.64,104.64,,,Active,Dynamis Corporation,100
+Thermal,a18df1712d power plant,Oil,Diesel,Middle East and Africa,Iraq,32.48,32.48,,,Active,Dynamis Corporation,100
+Thermal,06795231b9 power plant,Oil,Distillate Fuel Oil,North America,United States,9.828,9.828,,,Active,Dynamis Corporation,
+Thermal,e8df5197ef power plant,Gas,Natural Gas,North America,United States,1.785,,,1.785,Decommissioned,Dynamis Corporation,100
+Thermal,da4a25212d power plant,Gas,Natural Gas,North America,United States,36.26,36.26,,,Active,Dynamis Corporation,100
+Thermal,80ec9ecfdb power plant,Oil,Diesel,North America,Puerto Rico,200.2,,,,Active,Dynamis Corporation,100
+Thermal,e7ce9f4dc2 power plant,Coal,Coal,Asia-Pacific,Vietnam,684,,,,Cancelled,Dynamis Corporation,
+Thermal,df6cdccc65 power plant,Oil,Distillate Fuel Oil,North America,United States,14.268,,,,Active,Dynamis Corporation,
+Thermal,a5d9311f5f power plant,Gas,Natural Gas,Europe,Germany,493,,493,,Permitting,Dynamis Corporation,100
+Thermal,640ea44765 power plant,Oil,Diesel,North America,Mexico,20.44,,,,Active,Dynamis Corporation,
+Thermal,de6b9acd0b plant,Gas,Natural Gas,Europe,Netherlands,82.96,,,82.96,Decommissioned,Dynamis Corporation,100
+Thermal,c5af221813 power plant,Oil,Diesel,North America,Canada,1.952,,1.952,,Dormant,Dynamis Corporation,
+Thermal,6247e30c39 power plant,Coal,Subbituminous,North America,United States,345.84,,,,Decommissioned,Dynamis Corporation,
+Thermal,12b03e3e76 power plant,Oil,Diesel,North America,Canada,0.385,,0.385,,Dormant,Dynamis Corporation,
+Thermal,601438894d power plant,Gas,Natural Gas,North America,Mexico,89.01,89.01,,,Active,Dynamis Corporation,
+Thermal,5ada45906b power plant,Gas,Natural Gas,North America,United States,15.87,,,,Active,Dynamis Corporation,100
+Thermal,76882a5e47 power plant,Gas,Natural Gas,North America,United States,7.83,,,,Decommissioned,Dynamis Corporation,100
+Thermal,efcc604e10 plant,Coal,Coal,Asia-Pacific,China,726,,,,Active,Dynamis Corporation,75
+Thermal,4141ae49a4 power plant,Gas,Blast Furnace Gas,Europe,Germany,,,,,Active,Dynamis Corporation,49.9
+Thermal,00460903ed,Coal,Coal,Asia-Pacific,China,1320,,,,Active,Dynamis Corporation,100
+Thermal,89bb2a98ec power plant,Coal,Bituminous,North America,United States,,,,,Decommissioned,Dynamis Corporation,50
+Thermal,c56c3b5be7 power plant,Gas,Natural Gas,Europe,Netherlands,20.2,20.2,,,Active,Dynamis Corporation,
+Thermal,acfdbbb7d4 power plant,Oil,Heavy Furnace Oil,Asia-Pacific,Pakistan,13.064,13.064,,,Active,Dynamis Corporation,
+Thermal,9c0182e83e power plant,Gas,Gas,Asia-Pacific,Brunei Darussalam,69.44,69.44,,,Active,Dynamis Corporation,100
+Thermal,d4f33462b2,Gas,Natural Gas,Europe,Spain,3.3814,3.3814,,,Active,Dynamis Corporation,100
+Thermal,613a7877ff power plant,Oil,Oil,Asia-Pacific,Philippines,10.08,10.08,,,Active,Dynamis Corporation,100
+Thermal,409e780f24 power plant,Coal,Coal,Asia-Pacific,Pakistan,,,,,Suspended,Dynamis Corporation,
+Thermal,cb43e868d8 power plant,Coal,Coal,Europe,Ukraine,256.2,,,,Active,Dynamis Corporation,
+Thermal,8019fbcea2 power plant,Gas,Gas,Europe,Russian Federation,41.16,41.16,,,Active,Dynamis Corporation,100
+Thermal,6ff461b0fe,Gas,Gas,Europe,Russian Federation,154.2,,154.2,,Under Construction,Dynamis Corporation,
+Thermal,b7358a5fa0 power plant,Gas,Natural Gas,Europe,Russian Federation,33.06,33.06,,,Active,Dynamis Corporation,100
+Thermal,29d1670da0 power plant,Coal,Subbituminous,North America,United States,447.67,,,,Active,Dynamis Corporation,
+Thermal,57f8709db9 power plant,Gas,Natural Gas,North America,United States,62.4,62.4,,,Active,Dynamis Corporation,
+Thermal,edb8c0eb3e power plant,Gas,Gas,Europe,United Kingdom,82.56,,82.56,,Announced,Dynamis Corporation,
+Thermal,398b84c222 station,Gas,Natural Gas,South and Central America,Trinidad and Tobago,62.4,,,,Decommissioned,Dynamis Corporation,100
+Thermal,d4bf4d575d power plant,Oil,Heavy Fuel Oil,South and Central America,Peru,109.62,109.62,,,Active,Dynamis Corporation,100
+Thermal,8cb7cbd82f power plant,Coal,Coal,Asia-Pacific,India,,,,,Suspended,Dynamis Corporation,
+Thermal,8547f1c2e9 plant,Gas,Natural Gas,North America,United States,6.596,,,6.596,Decommissioned,Dynamis Corporation,
+Thermal,409e780f24 power plant,Coal,Coal,Asia-Pacific,Pakistan,3880.8,,,,Suspended,Dynamis Corporation,
+Thermal,31eddd39cd power plant,Gas,Natural Gas,Europe,Turkey,1.032,1.032,,,Active,Dynamis Corporation,
+Thermal,fbccd0b99e center,Gas,Natural Gas,North America,United States,0.03,0.03,,,Active,Dynamis Corporation,100
+Thermal,549372db26 plant,Gas,Natural Gas,Europe,Germany,13.5072,13.5072,,,Active,Dynamis Corporation,
+Thermal,8bbf14e86b power plant,Gas,Liquefied Natural Gas,South and Central America,Chile,533.42,,,,Permitting,Dynamis Corporation,100
+Thermal,a8516546bd facility,Gas,Natural Gas,North America,United States,3.18,,,,Active,Dynamis Corporation,
+Thermal,8b36774072 power plant,Oil,Diesel,South and Central America,Saint Kitts and Nevis,25.137,25.137,,,Active,Dynamis Corporation,100
+Thermal,b020b958ec power plant,Gas,Gas,Middle East and Africa,Algeria,1206.66,,,,Partially Active,Dynamis Corporation,
+Thermal,2aaaf6920e,Oil,Distillate Fuel Oil,North America,United States,5.22432,,,,Active,Dynamis Corporation,
+Thermal,74d62c324b power plant,Coal,Coal,Asia-Pacific,Vietnam,435.6,,,,Dormant,Dynamis Corporation,
+Thermal,d995e6c21e,Oil,Diesel,South and Central America,Brazil,85.0707,,,,Active,Dynamis Corporation,100
+Thermal,52c9b827f5 power plant,Gas,Natural Gas,Middle East and Africa,Algeria,1259.6,,1259.6,,Under Construction,Dynamis Corporation,
+Thermal,f698c303a3 power plant,Coal,Lignite,Asia-Pacific,India,19.44,19.44,,,Active,Dynamis Corporation,
+Thermal,4ab136f73a power plant,Oil,Diesel,South and Central America,Brazil,118.584,118.584,,,Active,Dynamis Corporation,100
+Thermal,9944b1cb44 power plant,Gas,Gas,Asia-Pacific,India,422.4,,422.4,,Dormant,Dynamis Corporation,
+Thermal,b59af40a01 power plant,Gas,Natural Gas,South and Central America,Cuba,328.125,328.125,,,Active,Dynamis Corporation,33
+Thermal,2b44181bd4 power plant,Gas,Natural Gas,South and Central America,Cuba,237.405,237.405,,,Active,Dynamis Corporation,33.33
+Thermal,b9e8188e9a power plant,Gas,Gas,Middle East and Africa,United Arab Emirates,,,,,Dormant,Dynamis Corporation,13.33
+Thermal,32ead1c201 plant,Gas,Natural Gas,Europe,Czech Republic,5.08,5.08,,,Active,Dynamis Corporation,
+Thermal,d0c5f18efa station,Coal,Hard Coal,Europe,United Kingdom,507.6,,,507.6,Decommissioned,Dynamis Corporation,100
+Thermal,f5707ac07c plant,Gas,Natural Gas,Europe,Germany,,,,,Active,Dynamis Corporation,50
+Thermal,8cce967634 power plant,Oil,Heavy Fuel Oil,Europe,United Kingdom,1781,,,,Decommissioned,Dynamis Corporation,100
+Thermal,86a8b1f676 power plant,Oil,Heavy Fuel Oil,South and Central America,Jamaica,96.69348,96.69348,,,Active,Dynamis Corporation,100
+Thermal,cdf4bbed3d power plant,Gas,City Gas,Asia-Pacific,Japan,51.84,51.84,,,Active,Dynamis Corporation,
+Thermal,fc6cfbea2b power plant,Dual-Fuel,Natural Gas,Asia-Pacific,Malaysia,219,,,219,Cancelled,Dynamis Corporation,100
+Thermal,41a2d38c33 power plant,Oil,Distillate Fuel Oil,North America,United States,4.08,,,,Active,Dynamis Corporation,100
+Thermal,ce084d7fa7 plant,Gas,Natural Gas,Middle East and Africa,Israel,84.7,,84.7,,Dormant,Dynamis Corporation,100
+Thermal,fca246d399 power plant,Oil,Light Distillate Oil,Asia-Pacific,Cambodia,0.84,,,,Active,Dynamis Corporation,100
+Thermal,a75df358ce,Coal,Anthracite,Asia-Pacific,Vietnam,1153.2,,,,Active,Dynamis Corporation,100
+Thermal,266b9f9f2c center,Gas,Natural Gas,North America,United States,326.37,,,,Active,Dynamis Corporation,100
+Thermal,f2d6ba82fb power plant,Coal,Subbituminous,North America,United States,,,,,Active,Dynamis Corporation,50
+Thermal,a2fb1a671d power plant,Coal,Coal,Asia-Pacific,China,7384,,,,Partially Active,Dynamis Corporation,
+Thermal,7e644a1187 power plant,Coal,Coal,Asia-Pacific,China,,,,,Active,Dynamis Corporation,60
+Thermal,3c3f71f281 plant,Gas,Natural Gas,North America,United States,0.198,0.198,,,Active,Dynamis Corporation,
+Thermal,9c0786cca2 plant,Gas,Natural Gas,North America,United States,0.588,0.588,,,Active,Dynamis Corporation,
+Thermal,18909f552a power plant,Gas,Natural Gas,Middle East and Africa,United Arab Emirates,479.6,,,,Active,Dynamis Corporation,
+Thermal,2593a3e6b3 station,Coal,Brown Coal,Europe,Czech Republic,232.5,,,,Active,Dynamis Corporation,
+Thermal,4764e7a99e power plant,Gas,Natural Gas,South and Central America,Colombia,139.5,,139.5,,Dormant,Dynamis Corporation,
+Thermal,de747eb3c0 station,Coal,Brown Coal,Europe,Czech Republic,805.2,,,,Active,Dynamis Corporation,
+Thermal,749e7c0f7d power plant,Gas,Natural Gas,Europe,Germany,,,,,Active,Dynamis Corporation,33.3
+Thermal,c4f886ef85 power plant,Gas,Gas,Europe,Czech Republic,2.96,2.96,,,Active,Dynamis Corporation,100
+Thermal,86a6c10086 plant,Gas,Gas,Europe,Czech Republic,1.1,1.1,,,Active,Dynamis Corporation,100
+Thermal,cdf094a6c3 power plant,Coal,Brown Coal,Europe,Czech Republic,6.935,,,,Active,Dynamis Corporation,100
+Thermal,a585bde0fc power plant,Coal,Coal,South and Central America,Colombia,496.49,,,496.49,Suspended,Dynamis Corporation,
+Thermal,9bac538b31 power plant,Coal,Coal,Asia-Pacific,China,,,,,Active,Dynamis Corporation,45
+Thermal,90f90c0731 plant,Gas,Natural Gas,Europe,Poland,,,,,Dormant,Dynamis Corporation,20
+Thermal,0e02426611 power plant,Oil,Distillate Fuel Oil,North America,United States,1.696,1.696,,,Active,Dynamis Corporation,100
+Thermal,f2ea33ba15 power plant,Oil,Distillate Fuel Oil,North America,United States,147,147,,,Active,Dynamis Corporation,
+Thermal,31b4bbb61e power plant,Gas,Natural Gas,North America,United States,18.225,,,18.225,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,09888e1e96 power plant,Oil,Heavy Fuel Oil,South and Central America,Honduras,195.202,195.202,,,Active,LexCorp Energy Enterprises,100
+Thermal,aa70562ac6 plant,Gas,Natural Gas,North America,United States,0.425,0.425,,,Active,LexCorp Energy Enterprises,100
+Thermal,eaefca1a1a power plant,Gas,Blast Furnace Gas,Asia-Pacific,China,192,192,,,Active,LexCorp Energy Enterprises,100
+Thermal,ea883df0d1 power plant,Gas,Natural Gas,Asia-Pacific,India,,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,8ea2954693 center,Gas,Natural Gas,North America,United States,1500,,1500,,Permitting,LexCorp Energy Enterprises,100
+Thermal,52604f8c8c plant,Gas,Natural Gas,Europe,Portugal,0.756,0.756,,,Active,LexCorp Energy Enterprises,
+Thermal,02d56b008b power plant,Oil,Diesel,South and Central America,Chile,3.168,3.168,,,Active,LexCorp Energy Enterprises,
+Thermal,27b2b0d5b0 power plant,Oil,Diesel,South and Central America,Chile,0.7387,0.7387,,,Active,LexCorp Energy Enterprises,
+Thermal,ed1cd7c986 power plant,Oil,Fuel Oil,South and Central America,Brazil,22.68,22.68,,,Active,LexCorp Energy Enterprises,100
+Thermal,e0c307b875 plant,Gas,Natural Gas,North America,Canada,182,182,,,Active,LexCorp Energy Enterprises,100
+Thermal,a4deb6b9b4 plant,Gas,Natural Gas,North America,United States,1.312,1.312,,,Active,LexCorp Energy Enterprises,100
+Thermal,a63bd8a43e power plant,Gas,Gas,Asia-Pacific,India,449.88,,,,Active,LexCorp Energy Enterprises,100
+Thermal,9f036aa26e,Coal,Coal,Asia-Pacific,India,495,495,,,Active,LexCorp Energy Enterprises,
+Thermal,688e5a14d2 power plant,Coal,Coal,Asia-Pacific,India,590,,590,,Dormant,LexCorp Energy Enterprises,
+Thermal,5e10698a89 project,Coal,Coal,Asia-Pacific,India,5720,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,cef1ca69a2 power plant,Coal,Coal,Asia-Pacific,India,3511.2,,,,Partially Active,LexCorp Energy Enterprises,50
+Thermal,f8aef22135 power plant,Coal,Coal,Asia-Pacific,India,2040,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,936699b385 power plant,Coal,Coal,Asia-Pacific,India,940,,940,,Dormant,LexCorp Energy Enterprises,
+Thermal,a6b3781197 power plant,Coal,Coal,Asia-Pacific,India,3751.6,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,275429cfb6 station,Coal,Coal,Asia-Pacific,India,4331.6,,,,Active,LexCorp Energy Enterprises,100
+Thermal,eb8604eee4 station,Coal,Coal,Asia-Pacific,India,1333.2,,,,Active,LexCorp Energy Enterprises,
+Thermal,64ddd384c5,Oil,Oil,Asia-Pacific,India,530,,,530,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,ed0c3baca6,Coal,Coal,Asia-Pacific,India,705,,,705,Suspended,LexCorp Energy Enterprises,100
+Thermal,5d047b9190,Coal,Coal,Asia-Pacific,India,,,,,Dormant,LexCorp Energy Enterprises,74
+Thermal,2dd3e0ecd4 power plant,Oil,Distillate Fuel Oil,North America,United States,2.124,2.124,,,Active,LexCorp Energy Enterprises,100
+Thermal,aab719eb26 project,Gas,Natural Gas,North America,United States,212.96,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,10e50bdd71 power plant,Gas,Natural Gas,North America,United States,0.149,0.149,,,Active,LexCorp Energy Enterprises,100
+Thermal,7e44d55677 plant,Gas,Natural Gas,North America,United States,0.5985,0.5985,,,Active,LexCorp Energy Enterprises,100
+Thermal,328f2e5bee power plant,Oil,Distillate Fuel Oil,North America,United States,9.24,,,,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,0cd415286e power plant,Gas,Natural Gas,North America,United States,,,,,Active,LexCorp Energy Enterprises,
+Thermal,574236f191,Coal,Petcoke,Asia-Pacific,India,98.64,,,,Active,LexCorp Energy Enterprises,100
+Thermal,33bcf592c0 project,Coal,Petroleum Coke,Asia-Pacific,India,252,252,,,Active,LexCorp Energy Enterprises,
+Thermal,3050b0b768 power plant,Oil,Oil Shale,Middle East and Africa,Jordan,568.7,,,,Under Construction,LexCorp Energy Enterprises,10
+Thermal,60cc73cf1e,Gas,Natural Gas,Middle East and Africa,Oman,510,510,,,Active,LexCorp Energy Enterprises,29.9
+Thermal,276627fd59 power plant,Gas,Natural Gas,South and Central America,Argentina,84,84,,,Active,LexCorp Energy Enterprises,
+Thermal,f68916fdfa power plant,Coal,Coal,Asia-Pacific,India,85.6,,,,Suspended,LexCorp Energy Enterprises,100
+Thermal,9e32514e9c plant,Gas,Natural Gas,North America,United States,0.0648,0.0648,,,Active,LexCorp Energy Enterprises,100
+Thermal,ea8f422d4e station,Gas,Natural Gas,North America,United States,481.536,,,,Decommissioned,LexCorp Energy Enterprises,
+Thermal,1d69bf044d station,Gas,Natural Gas,North America,United States,755.904,,,,Active,LexCorp Energy Enterprises,
+Thermal,ea93f6a992 power plant,Gas,Natural Gas,North America,United States,133.1,133.1,,,Active,LexCorp Energy Enterprises,
+Thermal,a51c82dd12 station,Coal,Coal,Asia-Pacific,Hong Kong Special Administrative Region of China,4929.6,,,,Active,LexCorp Energy Enterprises,30
+Thermal,4793e32434 power plant,Gas,Natural Gas,North America,Mexico,24.15,24.15,,,Active,LexCorp Energy Enterprises,
+Thermal,3110ff270c plant,Gas,Natural Gas,Europe,Spain,7.85487,7.85487,,,Active,LexCorp Energy Enterprises,
+Thermal,e986274d87,Gas,Natural Gas,Europe,Russian Federation,3603.6,,,,Active,LexCorp Energy Enterprises,100
+Thermal,ccdfce0d50 power plant,Gas,Natural Gas,Europe,Russian Federation,51,,,,Active,LexCorp Energy Enterprises,100
+Thermal,d774b161f1 power plant,Oil,Diesel,South and Central America,Brazil,0.3835,0.3835,,,Active,LexCorp Energy Enterprises,100
+Thermal,1428363f9d power plant,Gas,Natural Gas,Middle East and Africa,Ivory Coast,778.4,,,,Partially Active,LexCorp Energy Enterprises,77
+Thermal,c587253170 plant,Gas,Natural Gas,North America,United States,0.056,0.056,,,Active,LexCorp Energy Enterprises,100
+Thermal,3bf49df642 station,Gas,Natural Gas,Asia-Pacific,Australia,1305,,,,Suspended,LexCorp Energy Enterprises,
+Thermal,14c5343781 power plant,Coal,Coal,Asia-Pacific,China,1764,,,,Active,LexCorp Energy Enterprises,
+Thermal,02e57af6fd power plant,Coal,Coal,Asia-Pacific,China,6336,,,,Partially Active,LexCorp Energy Enterprises,51
+Thermal,4e9c110368 power plant,Coal,Bituminous,Asia-Pacific,China,3144,,,,Active,LexCorp Energy Enterprises,100
+Thermal,06effbeed8 center,Gas,Natural Gas,North America,United States,803.25,803.25,,,Active,LexCorp Energy Enterprises,25
+Thermal,838cf92e8a power plant,Coal,Coal,Asia-Pacific,China,1980,,1980,,Dormant,LexCorp Energy Enterprises,
+Thermal,b6cfb84a55 power plant,Coal,Bituminous,Asia-Pacific,China,903,,,,Active,LexCorp Energy Enterprises,70
+Thermal,a5ef6a3222 power plant,Gas,Natural Gas,Europe,Spain,11.83,11.83,,,Active,LexCorp Energy Enterprises,100
+Thermal,37a13a5566 power plant,Oil,Diesel,South and Central America,Chile,1.8942,1.8942,,,Active,LexCorp Energy Enterprises,
+Thermal,68638fd3e6 plant,Gas,Natural Gas,Europe,Germany,1.3416,1.3416,,,Active,LexCorp Energy Enterprises,100
+Thermal,c70bc19c3f plant,Oil,Fuel Oil,Europe,Spain,6.633,6.633,,,Active,LexCorp Energy Enterprises,
+Thermal,b62dc786f3 plant,Gas,Natural gas,Asia-Pacific,Republic of Korea,374.96,374.96,,,Active,LexCorp Energy Enterprises,100
+Thermal,9618b1a9ad,Gas,Natural Gas,North America,Canada,639.4,,639.4,,Permitting,LexCorp Energy Enterprises,
+Thermal,8cb2a46f3e plant,Gas,Gas,Europe,Poland,124.8,,124.8,,Dormant,LexCorp Energy Enterprises,
+Thermal,59b36579f1 power plant,Coal,Coal,Asia-Pacific,China,1340,,,1340,Suspended,LexCorp Energy Enterprises,
+Thermal,6719fbffe0 power plant,Oil,Diesel,South and Central America,Uruguay,84,,,84,Temporarily Shutdown,LexCorp Energy Enterprises,
+Thermal,f7789a6508 power plant,Gas,Natural Gas,Middle East and Africa,Egypt,60.2,60.2,,,Active,LexCorp Energy Enterprises,
+Thermal,60201a3c5b power plant,Oil,Diesel,Asia-Pacific,Philippines,0.58191,,,,Active,LexCorp Energy Enterprises,100
+Thermal,28dfd02694 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.23407,,,,Active,LexCorp Energy Enterprises,100
+Thermal,f4827310cc power plant,Gas,Gas,South and Central America,Venezuela,129,129,,,Active,LexCorp Energy Enterprises,
+Thermal,a688e876b6 power plant,Coal,Petroleum coke,South and Central America,Venezuela,828,,828,,Dormant,LexCorp Energy Enterprises,
+Thermal,05a0e85a74 power plant,Gas,Natural Gas,South and Central America,Venezuela,18.6,18.6,,,Active,LexCorp Energy Enterprises,
+Thermal,319dd25603 power plant,Oil,Heavy Fuel Oil,Europe,Turkey,9.576,9.576,,,Active,LexCorp Energy Enterprises,
+Thermal,a8c53bc946 power plant,Gas,Associated Petroleum Gas,South and Central America,Venezuela,51.5872,51.5872,,,Active,LexCorp Energy Enterprises,
+Thermal,95db435e37,Oil,Fuel Oil,South and Central America,Brazil,227.685,,,227.685,Suspended,LexCorp Energy Enterprises,100
+Thermal,f150390009 power plant,Gas,Natural Gas,North America,United States,0.1788,0.1788,,,Active,LexCorp Energy Enterprises,100
+Thermal,ab29bfbbde power plant,Oil,Diesel,South and Central America,Peru,1.107,1.107,,,Active,LexCorp Energy Enterprises,
+Thermal,647df7170e plant,Gas,Natural Gas,Europe,Russian Federation,1180,1180,,,Active,LexCorp Energy Enterprises,100
+Thermal,85c60ae97e station,Gas,Natural Gas,North America,United States,789.18,789.18,,,Active,LexCorp Energy Enterprises,
+Thermal,eeac300539 station,Oil,Residual Fuel Oil,North America,United States,166.752,,,,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,a0f8b24e31 power plant,Coal,Coal,Asia-Pacific,China,51,,51,,Dormant,LexCorp Energy Enterprises,
+Thermal,bb2a78c4fa power plant,Oil,Diesel,Middle East and Africa,Iraq,22.05,22.05,,,Active,LexCorp Energy Enterprises,100
+Thermal,7856f1b875 station,Oil,Kerosene,North America,United States,8.892,8.892,,,Active,LexCorp Energy Enterprises,100
+Thermal,4719f8b32a power plant,Oil,Residual Fuel Oil,North America,United States,75.6,,,75.6,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,52e9a624f0 power plant,Gas,Gas,Asia-Pacific,India,93.96,,93.96,,Dormant,LexCorp Energy Enterprises,
+Thermal,1810a9b93e plant,Gas,Natural Gas,North America,United States,2.494,2.494,,,Active,LexCorp Energy Enterprises,
+Thermal,95ad5c6493 plant,Gas,Natural Gas,Europe,Spain,12.39876,,,12.39876,Decommissioned,LexCorp Energy Enterprises,
+Thermal,ab996b1924 power plant,Coal,Coal,South and Central America,Chile,29.5,,,29.5,Suspended,LexCorp Energy Enterprises,100
+Thermal,92691fed7e power plant,Coal,Petroleum Coke,Asia-Pacific,India,290,,290,,Permitting,LexCorp Energy Enterprises,
+Thermal,ea883df0d1 power plant,Gas,Natural Gas,Asia-Pacific,India,936,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,5816808c28,Coal,Coal,Asia-Pacific,China,1368,,,,Active,LexCorp Energy Enterprises,
+Thermal,9ab406b6a9 power plant,Oil,Diesel,Asia-Pacific,Cambodia,0.2814,,,,Active,LexCorp Energy Enterprises,100
+Thermal,f819242657 plant,Gas,Natural Gas,North America,United States,50.6,50.6,,,Active,LexCorp Energy Enterprises,
+Thermal,e2cd88326b plant,Coal,Coal,South and Central America,Brazil,,,,,Dormant,LexCorp Energy Enterprises,99
+Thermal,cd7d812a74 station,Gas,Natural Gas,Asia-Pacific,Australia,48.47,48.47,,,Active,LexCorp Energy Enterprises,100
+Thermal,f29a1ba6ca power plant,Oil,Diesel,Asia-Pacific,Marshall Islands,0.54,0.54,,,Active,LexCorp Energy Enterprises,100
+Thermal,a24d74e7d4 plant,Gas,Natural Gas,Europe,Romania,10.8,,,,Active,LexCorp Energy Enterprises,
+Thermal,ea36924bb0,Coal,Coal,Asia-Pacific,China,28.2,28.2,,,Active,LexCorp Energy Enterprises,100
+Thermal,19a97bdda2 power plant,Gas,Gas,Europe,United Kingdom,11.68,11.68,,,Active,LexCorp Energy Enterprises,
+Thermal,8fd69c0d1b power plant,Oil,Fuel Oil,South and Central America,Brazil,235.77576,235.77576,,,Active,LexCorp Energy Enterprises,100
+Thermal,d827c097b0,Oil,Diesel,Asia-Pacific,Philippines,0.01092,0.01092,,,Active,LexCorp Energy Enterprises,100
+Thermal,8868a1ca17 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.023,0.023,,,Active,LexCorp Energy Enterprises,100
+Thermal,b18b35ab0d power plant,Oil,Diesel,Asia-Pacific,Philippines,0.01404,0.01404,,,Active,LexCorp Energy Enterprises,100
+Thermal,2e15dcc2bb,Oil,Diesel,Asia-Pacific,Philippines,0.01656,0.01656,,,Active,LexCorp Energy Enterprises,100
+Thermal,f5876a7bfc plant,Oil,Diesel,Asia-Pacific,Philippines,0.00984,,,0.00984,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,0278beea0f power plant,Oil,Diesel,Asia-Pacific,Philippines,0.0078,0.0078,,,Active,LexCorp Energy Enterprises,100
+Thermal,a46a955de4 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.00984,0.00984,,,Active,LexCorp Energy Enterprises,100
+Thermal,10d48964d3 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.0069,,,0.0069,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,2eed0480ad power plant,Oil,Diesel,Asia-Pacific,Philippines,0.00366,0.00366,,,Active,LexCorp Energy Enterprises,100
+Thermal,bd9442c2d6 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.0636,0.0636,,,Active,LexCorp Energy Enterprises,100
+Thermal,2a927c7299 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.0294,0.0294,,,Active,LexCorp Energy Enterprises,100
+Thermal,e8cdf9a43e power plant,Oil,Diesel,Asia-Pacific,Philippines,0.00876,0.00876,,,Active,LexCorp Energy Enterprises,100
+Thermal,18b3297ae2 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.00744,0.00744,,,Active,LexCorp Energy Enterprises,100
+Thermal,184b0d43b5 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.0102,0.0102,,,Active,LexCorp Energy Enterprises,100
+Thermal,50f680587a power plant,Oil,Diesel,Asia-Pacific,Philippines,0.0153,0.0153,,,Active,LexCorp Energy Enterprises,100
+Thermal,260000c733 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.2445,0.2445,,,Active,LexCorp Energy Enterprises,100
+Thermal,c2ee085692 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.01152,,,0.01152,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,b3b241a87f plant,Gas,Natural Gas,North America,United States,83,83,,,Active,LexCorp Energy Enterprises,100
+Thermal,0170292bc7 power plant,Oil,Diesel,Asia-Pacific,Philippines,0.1952,0.1952,,,Active,LexCorp Energy Enterprises,
+Thermal,3c189ed0d6 power plant,Gas,Natural Gas,North America,United States,81,81,,,Active,LexCorp Energy Enterprises,100
+Thermal,f3f67a1393 power plant,Coal,Coal,Asia-Pacific,India,390,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,2e49b7ad65 plant,Gas,Natural Gas,Europe,Spain,15.0984,15.0984,,,Active,LexCorp Energy Enterprises,
+Thermal,81e972334b station,Coal,Subbituminous,North America,United States,71.734,71.734,,,Active,LexCorp Energy Enterprises,100
+Thermal,b34f1ded5a power plant,Gas,Natural Gas,Middle East and Africa,United Republic Of Tanzania,119.04,119.04,,,Active,LexCorp Energy Enterprises,
+Thermal,b43333e245 power plant,Oil,Diesel,South and Central America,Brazil,0.0532,0.0532,,,Active,LexCorp Energy Enterprises,100
+Thermal,c85e6dcd38 plant,Gas,Natural Gas,North America,United States,306,306,,,Active,LexCorp Energy Enterprises,
+Thermal,bbe6e51c81 station,Gas,Natural Gas,North America,Canada,569.43,,569.43,,Under Construction,LexCorp Energy Enterprises,100
+Thermal,995e4309e4 power plant,Gas,Natural Gas,Europe,Spain,2.26678,2.26678,,,Active,LexCorp Energy Enterprises,
+Thermal,15a874ccbe power plant,Coal,Coal,Asia-Pacific,China,882,,,,Active,LexCorp Energy Enterprises,
+Thermal,8af4fff1fb plant,Oil,Diesel,Asia-Pacific,India,0.126,0.126,,,Active,LexCorp Energy Enterprises,100
+Thermal,6bc29d94d7 plant,Oil,Diesel,Europe,Spain,2.394,2.394,,,Active,LexCorp Energy Enterprises,
+Thermal,236ab79614 power plant,Coal,Coal,Europe,Austria,229.69,,,,Decommissioned,LexCorp Energy Enterprises,
+Thermal,5d0317a890 plant,Oil,Diesel,Asia-Pacific,India,0.33,0.33,,,Active,LexCorp Energy Enterprises,100
+Thermal,de5f0dd5f2 station,Oil,Diesel,Asia-Pacific,India,0.0365,0.0365,,,Active,LexCorp Energy Enterprises,100
+Thermal,6fb21bdf5f station,Oil,Diesel,Asia-Pacific,India,0.27,0.27,,,Active,LexCorp Energy Enterprises,100
+Thermal,5d42186789 power plant,Oil,Diesel,South and Central America,Brazil,2.9484,2.9484,,,Active,LexCorp Energy Enterprises,100
+Thermal,70fa135a37 power plant,Coal,Coal,South and Central America,Dominican Republic,30.016,30.016,,,Active,LexCorp Energy Enterprises,100
+Thermal,f4aae8e312,Gas,Natural Gas,South and Central America,Brazil,3.63,3.63,,,Active,LexCorp Energy Enterprises,100
+Thermal,1819220cb2 power plant,Oil,Diesel,South and Central America,Brazil,8.41,8.41,,,Active,LexCorp Energy Enterprises,100
+Thermal,3d4a177215 power plant,Oil,Fuel Oil,South and Central America,Dominican Republic,38.61,38.61,,,Active,LexCorp Energy Enterprises,100
+Thermal,d2815b9d10 power plant,Gas,Natural Gas,Asia-Pacific,Pakistan,,35.949,,,Active,LexCorp Energy Enterprises,100
+Thermal,98940bee38,Oil,Diesel,South and Central America,Brazil,2.0774,2.0774,,,Active,LexCorp Energy Enterprises,100
+Thermal,0035c9fd84 power plant,Oil,Diesel,South and Central America,Brazil,38.415,38.415,,,Active,LexCorp Energy Enterprises,100
+Thermal,4816c38e6c power plant,Gas,Gas,Middle East and Africa,Nigeria,,,,,Permitting,LexCorp Energy Enterprises,
+Thermal,cdac01a284 power plant,Gas,Gas,Middle East and Africa,Nigeria,1201.5,,,,Permitting,LexCorp Energy Enterprises,
+Thermal,bd31ec2b05,Oil,Fuel Oil,Middle East and Africa,Nigeria,42,42,,,Active,LexCorp Energy Enterprises,100
+Thermal,7dde77d533,Coal,Coal,Asia-Pacific,China,,,,,Active,LexCorp Energy Enterprises,5
+Thermal,c60753981f power plant,Oil,Distillate Fuel Oil,North America,United States,4.899,,,,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,e89157545f plant,Gas,Natural Gas,Europe,Spain,1.924,1.924,,,Active,LexCorp Energy Enterprises,50
+Thermal,ab308a9d0b power plant,Coal,Bituminous,North America,United States,272.986,,,,Active,LexCorp Energy Enterprises,100
+Thermal,26d917b681 power plant,Oil,Diesel,South and Central America,Peru,0.056,,,0.056,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,65767dfed3 power plant,Oil,Diesel,South and Central America,Brazil,0.2756,0.2756,,,Active,LexCorp Energy Enterprises,100
+Thermal,ecb131f929 power plant,Gas,Gas,Europe,Germany,303.6,,303.6,,Dormant,LexCorp Energy Enterprises,
+Thermal,fbbb5c6895 power plant,Gas,Gas,Middle East and Africa,Iran (Islamic Republic of Iran),,,,,Active,LexCorp Energy Enterprises,99.8
+Thermal,1ed59acf0b power plant,Gas,Gas,Middle East and Africa,Iran (Islamic Republic of Iran),573.3,,573.3,,Under Construction,LexCorp Energy Enterprises,40
+Thermal,79f9af3830 power plant,Oil,Diesel,Middle East and Africa,Iran (Islamic Republic of Iran),19,19,,,Active,LexCorp Energy Enterprises,100
+Thermal,d212f31bdf station,Gas,Natural Gas,North America,Canada,65.7,,,65.7,Decommissioned,LexCorp Energy Enterprises,78
+Thermal,e2b96159bd power plant,Gas,Natural Gas,Europe,Russian Federation,6.72,6.72,,,Active,LexCorp Energy Enterprises,100
+Thermal,13683ed9ff power plant,Gas,Natural Gas,Europe,Russian Federation,1647.2,,,,Active,LexCorp Energy Enterprises,100
+Thermal,c5fd01f4dc power plant,Gas,Gas,Europe,Russian Federation,84.28,84.28,,,Active,LexCorp Energy Enterprises,100
+Thermal,5bccc97da5 power plant,Gas,Gas,Europe,Russian Federation,219.02,219.02,,,Active,LexCorp Energy Enterprises,
+Thermal,89cf15b4f5 power plant,Oil,Diesel,South and Central America,Brazil,0.2346,0.2346,,,Active,LexCorp Energy Enterprises,100
+Thermal,c7a9de4740 power plant,Gas,Natural Gas,North America,Mexico,11.76,11.76,,,Active,LexCorp Energy Enterprises,100
+Thermal,f3b4cfa272 power plant,Gas,Natural Gas,North America,Mexico,3.335,3.335,,,Active,LexCorp Energy Enterprises,100
+Thermal,6e72ba25ae power plant,Oil,Fuel Oil,North America,Mexico,105.75,,,,Active,LexCorp Energy Enterprises,100
+Thermal,55fa0c762e power plant,Gas,Natural Gas,North America,Mexico,469,,,,Active,LexCorp Energy Enterprises,100
+Thermal,00eb54bb68 power plant,Gas,Natural Gas,North America,Mexico,30.24,,,,Active,LexCorp Energy Enterprises,100
+Thermal,dc63092d5e power plant,Oil,Fuel Oil,North America,Mexico,357.39,,,,Active,LexCorp Energy Enterprises,100
+Thermal,64269fc43c power plant,Gas,Natural Gas,North America,Mexico,107.1,,,,Active,LexCorp Energy Enterprises,100
+Thermal,1738de51b5 power plant,Gas,Gas,North America,Mexico,858.33,,858.33,,Dormant,LexCorp Energy Enterprises,
+Thermal,552c146311 power plant,Gas,Natural Gas,North America,Mexico,40.96,40.96,,,Active,LexCorp Energy Enterprises,
+Thermal,66c86a32d0 power plant,Gas,Natural Gas,North America,Mexico,51.84,51.84,,,Active,LexCorp Energy Enterprises,
+Thermal,d113417831 power plant,Oil,Diesel,North America,Mexico,5.928,5.928,,,Active,LexCorp Energy Enterprises,
+Thermal,fe796b7b4b power plant,Coal,Subbituminous,Asia-Pacific,Malaysia,1806,,,,Active,LexCorp Energy Enterprises,100
+Thermal,749e7c0f7d power plant,Gas,Natural Gas,Europe,Germany,,,,,Active,LexCorp Energy Enterprises,33.3
+Thermal,7ee9793d81 power plant,Gas,Natural Gas,Europe,Armenia,1309.8,,,,Active,LexCorp Energy Enterprises,100
+Thermal,2800cda9d8 power plant,Gas,Natural Gas,Europe,Lithuania,2430,,,,Temporarily Shutdown,LexCorp Energy Enterprises,
+Thermal,9f45ac6eef power plant,Gas,Natural Gas,Middle East and Africa,Oman,,,,,Active,LexCorp Energy Enterprises,
+Thermal,763c58421b power plant,Oil,Distillate Fuel Oil,North America,United States,2.754,,,,Active,LexCorp Energy Enterprises,100
+Thermal,699f7c1ed8 plant,Gas,Natural Gas,North America,United States,0.2378,0.2378,,,Active,LexCorp Energy Enterprises,100
+Thermal,627e62021a power plant,Oil,Diesel,South and Central America,Brazil,1.9392,1.9392,,,Active,LexCorp Energy Enterprises,100
+Thermal,65c46b7dc5 plant,Gas,Natural Gas,North America,United States,0.0624,0.0624,,,Active,LexCorp Energy Enterprises,100
+Thermal,39d7d73f13 plant,Gas,Natural Gas,North America,United States,0.294,0.294,,,Active,LexCorp Energy Enterprises,100
+Thermal,af8e24e2e0 center,Gas,Natural Gas,North America,United States,,,,,Active,LexCorp Energy Enterprises,50
+Thermal,b8f5bb8660 plant,Gas,Natural Gas,North America,United States,0.0254,0.0254,,,Active,LexCorp Energy Enterprises,100
+Thermal,6f901b1715 power plant,Gas,Natural Gas,South and Central America,Colombia,28.8,,,,Active,LexCorp Energy Enterprises,100
+Thermal,ac09b36f41 power plant,Oil,Distillate Fuel Oil,North America,United States,2.329,2.329,,,Active,LexCorp Energy Enterprises,100
+Thermal,a18540d400 power plant,Gas,Natural Gas,North America,United States,18.802,,,,Permitting,LexCorp Energy Enterprises,
+Thermal,dd54a90ddd power plant,Coal,Coal,Asia-Pacific,China,1412.4,,,1412.4,Suspended,LexCorp Energy Enterprises,
+Thermal,f1f8d45d23 power plant,Coal,Coal,Asia-Pacific,India,21.92,,,,Active,LexCorp Energy Enterprises,
+Thermal,c607b47136,Coal,Coal,Asia-Pacific,Philippines,66.42,66.42,,,Active,LexCorp Energy Enterprises,100
+Thermal,987208f40e power plant,Gas,Natural Gas,Asia-Pacific,Bangladesh,51.7,,,51.7,Temporarily Shutdown,LexCorp Energy Enterprises,100
+Thermal,b24ece25c5 power plant,Gas,Natural Gas,North America,United States,60.39,60.39,,,Active,LexCorp Energy Enterprises,
+Thermal,34c74151f0 power plant,Gas,Natural Gas,North America,Canada,213.84,213.84,,,Active,LexCorp Energy Enterprises,100
+Thermal,6eb4a0f384 plant,Gas,Natural Gas,North America,United States,10.71,10.71,,,Active,LexCorp Energy Enterprises,100
+Thermal,2ea85949c7 power plant,Oil,Diesel,North America,Canada,3.249,3.249,,,Active,LexCorp Energy Enterprises,100
+Thermal,cdea5d182c power plant,Oil,Diesel,North America,Canada,0.9744,0.9744,,,Active,LexCorp Energy Enterprises,100
+Thermal,a36211a1b2 power plant,Gas,Natural Gas,Middle East and Africa,Iran (Islamic Republic of Iran),696.96,,,,Active,LexCorp Energy Enterprises,
+Thermal,42ef950c48 power plant,Gas,Natural Gas,South and Central America,Brazil,0.089,0.089,,,Active,LexCorp Energy Enterprises,100
+Thermal,58704e45f9 power plant,Oil,Distillate Fuel Oil,North America,United States,2.32,2.32,,,Active,LexCorp Energy Enterprises,100
+Thermal,72c875642d power plant,Oil,Distillate Fuel Oil,North America,United States,1.26,1.26,,,Active,LexCorp Energy Enterprises,100
+Thermal,d360a67de0 power plant,Gas,Natural Gas,Europe,Italy,432,432,,,Active,LexCorp Energy Enterprises,100
+Thermal,42abd07d40 power plant,Oil,Heavy Fuel Oil,Middle East and Africa,Namibia,22.32,22.32,,,Active,LexCorp Energy Enterprises,
+Thermal,671538d0c4 power plant,Gas,Natural Gas,Europe,Bulgaria,43.413,43.413,,,Active,LexCorp Energy Enterprises,100
+Thermal,dc7c694f62 plant,Gas,Natural Gas,Europe,Russian Federation,312,312,,,Active,LexCorp Energy Enterprises,
+Thermal,2a9c9144a0 power plant,Gas,Natural Gas,South and Central America,Argentina,6.51716,6.51716,,,Active,LexCorp Energy Enterprises,
+Thermal,0f0fc384bf,Gas,Natural Gas,Europe,United Kingdom,1750,,,1750,Suspended,LexCorp Energy Enterprises,
+Thermal,9cf150d353 power plant,Gas,Natural Gas,Europe,Ireland,346.5,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,13065ee37a station,Coal,Lignite,Europe,Germany,4380,,,,Active,LexCorp Energy Enterprises,100
+Thermal,fea53d1ec0 power plant,Coal,Coal,Asia-Pacific,China,1314,,,,Active,LexCorp Energy Enterprises,
+Thermal,4f66214379 plant,Gas,Natural Gas,Europe,Spain,3.80457,3.80457,,,Active,LexCorp Energy Enterprises,
+Thermal,05b6df3af3 plant,Oil,Diesel,Europe,Spain,16.2368,16.2368,,,Active,LexCorp Energy Enterprises,100
+Thermal,e4753ab2ce power plant,Gas,Gas,Middle East and Africa,Iraq,510,,,,Under Construction,LexCorp Energy Enterprises,100
+Thermal,7371adc692 power plant,Gas,Natural Gas,Middle East and Africa,Iraq,682.5,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,71d73e7a0e power plant,Gas,Natural Gas,Middle East and Africa,Iraq,2086.102,,2086.102,,Under Construction,LexCorp Energy Enterprises,
+Thermal,db38a0af7b power plant,Gas,Natural Gas,Middle East and Africa,Iraq,515.16,,,,Active,LexCorp Energy Enterprises,100
+Thermal,5d2fff05db station,Coal,Subbituminous,North America,United States,152.4,,,152.4,Decommissioned,LexCorp Energy Enterprises,
+Thermal,786d4a1e0b,Gas,Gas,Middle East and Africa,Iraq,436,,,,Active,LexCorp Energy Enterprises,
+Thermal,25348a25b5 power plant,Gas,Natural Gas,Middle East and Africa,Iraq,1209.6,,,,Suspended,LexCorp Energy Enterprises,100
+Thermal,624391694e,Gas,Natural Gas,Middle East and Africa,Iraq,447,,447,,Dormant,LexCorp Energy Enterprises,
+Thermal,77d41f63e1,Gas,Natural Gas,Middle East and Africa,Iraq,75.761,75.761,,,Active,LexCorp Energy Enterprises,100
+Thermal,730a8c5b89 power plant,Oil,Heavy Fuel Oil,Middle East and Africa,Iraq,57.04,57.04,,,Active,LexCorp Energy Enterprises,100
+Thermal,7a36310257 power plant,Gas,Gas,Middle East and Africa,Iraq,350.28,,350.28,,Permitting,LexCorp Energy Enterprises,
+Thermal,9fcdef5aa2 project,Gas,Natural Gas,Asia-Pacific,Pakistan,123.75,123.75,,,Active,LexCorp Energy Enterprises,100
+Thermal,232160ff6d power plant,Gas,Natural Gas,Asia-Pacific,India,779.45,779.45,,,Active,LexCorp Energy Enterprises,100
+Thermal,004f2a1ba4 power plant,Gas,Liquefied Natural Gas,South and Central America,Jamaica,211.5,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,93fab78734 power plant,Oil,Heavy Fuel Oil,Asia-Pacific,Bangladesh,152.25,152.25,,,Active,LexCorp Energy Enterprises,
+Thermal,875f07ca4e power plant,Gas,Natural Gas,Asia-Pacific,Kazakhstan,234,,,,Permitting,LexCorp Energy Enterprises,
+Thermal,3c90c3278c power plant,Coal,Coal,Asia-Pacific,Kazakhstan,327.18,,327.18,,Dormant,LexCorp Energy Enterprises,
+Thermal,e509e27bff power plant,Gas,Natural Gas,Asia-Pacific,India,342.42,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,6fb7212848 power plant,Dual-Fuel,Natural Gas,South and Central America,Argentina,127.5,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,b9a4d2d136,Gas,Blast Furnace Gas,Europe,Austria,117.15,117.15,,,Active,LexCorp Energy Enterprises,100
+Thermal,d7ebf4c0cd plant,Gas,Natural Gas,North America,United States,0.476,0.476,,,Active,LexCorp Energy Enterprises,100
+Thermal,aff583b45c power plant,Coal,Coal,Asia-Pacific,Philippines,354.75,,,,Partially Active,LexCorp Energy Enterprises,100
+Thermal,1cc5a55b21 plant,Coal,Coal,Europe,Russian Federation,106.92,,,,Active,LexCorp Energy Enterprises,100
+Thermal,f5644009c4 power plant,Gas,Liquefied Natural Gas,Asia-Pacific,Pakistan,216,,216,,Dormant,LexCorp Energy Enterprises,
+Thermal,a0f8b24e31 power plant,Coal,Coal,Asia-Pacific,China,,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,3756be9001,Dual-Fuel,Regasified Liquefied Natural Gas,Asia-Pacific,Pakistan,972,,,,Permitting,LexCorp Energy Enterprises,
+Thermal,3ae11793c0 project,Coal,Coal,Asia-Pacific,India,151.2,,,,Active,LexCorp Energy Enterprises,
+Thermal,de433396b3 power plant,Gas,Natural Gas,Asia-Pacific,Myanmar,,,,,Permitting,LexCorp Energy Enterprises,
+Thermal,237395e551 plant,Gas,Natural Gas,North America,Mexico,51.49,51.49,,,Active,LexCorp Energy Enterprises,
+Thermal,c1ce0f5bb4 power plant,Gas,Natural Gas,North America,Canada,58.8,58.8,,,Active,LexCorp Energy Enterprises,100
+Thermal,df05ab6562 plant,Gas,Natural Gas,North America,United States,61.25,61.25,,,Active,LexCorp Energy Enterprises,100
+Thermal,dfe56656d4 power plant,Gas,Natural Gas,North America,United States,1.111,1.111,,,Active,LexCorp Energy Enterprises,100
+Thermal,b88ba36e56 plant,Gas,Natural Gas,North America,United States,10.388,10.388,,,Active,LexCorp Energy Enterprises,
+Thermal,3847be7f6b power plant,Coal,Coal,Asia-Pacific,India,766.8,,766.8,,Dormant,LexCorp Energy Enterprises,
+Thermal,31776876a1 power plant,Gas,Natural Gas,North America,Mexico,73,73,,,Active,LexCorp Energy Enterprises,
+Thermal,3f93df4c7c power plant,Oil,Light Fuel Oil,Middle East and Africa,Libyan Arab Jamahiriya,696,,,,Active,LexCorp Energy Enterprises,100
+Thermal,148b38cc4f power plant,Oil,Heavy Fuel Oil,Middle East and Africa,Libyan Arab Jamahiriya,146.9,,,,Active,LexCorp Energy Enterprises,100
+Thermal,c0efdfafdf,Gas,Natural Gas,Middle East and Africa,Libyan Arab Jamahiriya,852.8,,,,Partially Active,LexCorp Energy Enterprises,
+Thermal,3c62155abb power plant,Coal,Bituminous,Asia-Pacific,China,2091.6,,,,Active,LexCorp Energy Enterprises,49
+Thermal,156c72dd0b,Oil,Diesel,Asia-Pacific,Pakistan,7.872,7.872,,,Active,LexCorp Energy Enterprises,
+Thermal,33d6270dd5 power plant,Gas,Natural Gas,Middle East and Africa,Libyan Arab Jamahiriya,1265.4,,,,Active,LexCorp Energy Enterprises,
+Thermal,b5e37bde17 power plant,Dual-Fuel,Natural Gas,Middle East and Africa,Libyan Arab Jamahiriya,610.5,,,,Announced,LexCorp Energy Enterprises,
+Thermal,60d8975648 power plant,Gas,Natural Gas,North America,United States,82.908,,,,Active,LexCorp Energy Enterprises,100
+Thermal,49d9f85c50 plant,Gas,Natural Gas,Europe,Spain,0.9568,0.9568,,,Active,LexCorp Energy Enterprises,100
+Thermal,2f448bb858 power plant,Coal,Coal,Asia-Pacific,India,742.5,,,,Suspended,LexCorp Energy Enterprises,100
+Thermal,088c1bd901 power plant,Gas,Gas,Asia-Pacific,India,636,,636,,Dormant,LexCorp Energy Enterprises,
+Thermal,75cdf7e34c,Coal,Coal,Asia-Pacific,Vietnam,858.36,,,,Active,LexCorp Energy Enterprises,100
+Thermal,bbd345d27d station,Coal,Lignite,Europe,Turkey,163.35,,163.35,,Permitting,LexCorp Energy Enterprises,
+Thermal,d157cb7ca9 power plant,Oil,Fuel Oil,South and Central America,Colombia,156.2725,,,,Active,LexCorp Energy Enterprises,
+Thermal,99c29a4213 plant,Coal,Waste Coal,North America,United States,44.88,,,44.88,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,7c3dbb2ef3 plant,Gas,Natural Gas,North America,United States,59.711,59.711,,,Active,LexCorp Energy Enterprises,100
+Thermal,0207747aa8,Coal,Subbituminous,Europe,Russian Federation,470.25,,,,Active,LexCorp Energy Enterprises,100
+Thermal,903a482108 plant,Gas,Natural Gas,North America,Canada,44.428,44.428,,,Active,LexCorp Energy Enterprises,100
+Thermal,a88cb97f96,Coal,Subbituminous,Europe,Russian Federation,375.3,,,,Active,LexCorp Energy Enterprises,100
+Thermal,2350a9972e plant,Gas,Natural Gas,Europe,Spain,0.3813,0.3813,,,Active,LexCorp Energy Enterprises,100
+Thermal,fe97341156 project,Dual-Fuel,Natural Gas,Middle East and Africa,Jordan,,,,,Active,LexCorp Energy Enterprises,36.6
+Thermal,6d796e3508 power plant,Coal,Brown Coal,Europe,Hungary,399.3,,,,Dormant,LexCorp Energy Enterprises,
+Thermal,7f568c9e4a station,Coal,Coal,Asia-Pacific,India,266.4,,,,Decommissioned,LexCorp Energy Enterprises,100
+Thermal,ddd9e4317e,Oil,Heavy Fuel Oil,North America,Bermuda,17.69,17.69,,,Active,Stark Energy Corporation,100
+Thermal,fa927d9031 power plant,Oil,Diesel,South and Central America,Chile,73.4524,,,,Active,Stark Energy Corporation,100
+Thermal,22d03f9c15 station,Oil,Heavy Fuel Oil,Middle East and Africa,Angola,225.944,,,,Partially Active,Stark Energy Corporation,
+Thermal,7084fe4db5 power plant,Oil,Diesel,Middle East and Africa,Angola,5.04,,,,Active,Stark Energy Corporation,
+Thermal,80ba5bc5f6 power plant,Gas,Natural Gas,North America,United States,51.29,,,,Decommissioned,Stark Energy Corporation,100
+Thermal,9bc7c45f05 power plant,Gas,Natural Gas,North America,United States,9.492,,,,Decommissioned,Stark Energy Corporation,100
+Thermal,806629c0ec plant,Gas,Natural Gas,North America,Canada,369.38,369.38,,,Active,Stark Energy Corporation,100
+Thermal,b20f2c31a0 power plant,Dual-Fuel,Diesel,Asia-Pacific,Australia,172.5,172.5,,,Active,Stark Energy Corporation,100
+Thermal,bdc445b33c power plant,Gas,Gas,North America,Canada,1029,,1029,,Dormant,Stark Energy Corporation,
+Thermal,db4cf6820a station,Oil,Diesel,Middle East and Africa,Zambia,0.786,,,,Decommissioned,Stark Energy Corporation,
+Thermal,c8d584c612 station,Oil,Diesel,Middle East and Africa,Zambia,1.98,1.98,,,Active,Stark Energy Corporation,100
+Thermal,a17f7cb743 station,Coal,Coal,Asia-Pacific,Bangladesh,393.7,,393.7,,Permitting,Stark Energy Corporation,
+Thermal,238d8b4fec power plant,Gas,Natural Gas,Asia-Pacific,China,959.4,,,,Active,Stark Energy Corporation,
+Thermal,cfb80aac5a power plant,Coal,Coal,Asia-Pacific,Bangladesh,741.2,,,741.2,Suspended,Stark Energy Corporation,
+Thermal,d177eb8315 station,Gas,Natural Gas,Europe,Russian Federation,22.95,,,,Active,Stark Energy Corporation,100
+Thermal,5fd9f0bbf0 power plant,Coal,Coal,Asia-Pacific,India,699.6,,,,Dormant,Stark Energy Corporation,
+Thermal,82e32036ce power plant,Gas,Natural Gas,North America,United States,,,,,Active,Stark Energy Corporation,
+Thermal,ec10dda863 power plant,Oil,Heavy Fuel Oil,South and Central America,Honduras,28.08,,28.08,,Under Construction,Stark Energy Corporation,
+Thermal,e6440af473 power plant,Gas,Gas,Europe,Germany,1116,,,,Cancelled,Stark Energy Corporation,50
+Thermal,c996445575 plant,Gas,Natural Gas,Middle East and Africa,South Africa,1.33,1.33,,,Active,Stark Energy Corporation,
+Thermal,837ed85010 power plant,Gas,Natural Gas,Middle East and Africa,United Republic Of Tanzania,560,,560,,Dormant,Stark Energy Corporation,
+Thermal,07d5510827 power plant,Coal,Coal,Asia-Pacific,Indonesia,,,,,Under Construction,Stark Energy Corporation,25
+Thermal,6d7db51219 power plant,Oil,Distillate Fuel Oil,North America,United States,6.448,,,,Active,Stark Energy Corporation,100
+Thermal,2ea67272ef facility,Gas,Natural Gas,North America,United States,84,84,,,Active,Stark Energy Corporation,
+Thermal,9c9a6519d2 power plant,Gas,Flue Gas,Asia-Pacific,India,7.2,,,,Active,Stark Energy Corporation,100
+Thermal,79b24852dd power plant,Oil,Diesel,South and Central America,Brazil,1.7575,1.7575,,,Active,Stark Energy Corporation,100
+Thermal,18b5ee2124 power plant,Oil,Fuel Oil,Europe,Portugal,12.224,12.224,,,Active,Stark Energy Corporation,100
+Thermal,a05873bb95 power plant,Oil,Diesel,South and Central America,Peru,0.8364,0.8364,,,Active,Stark Energy Corporation,
+Thermal,ba466f2410 power plant,Oil,Diesel,North America,Canada,0.2116,,0.2116,,Dormant,Stark Energy Corporation,
+Thermal,e442d5bc7c power plant,Gas,Natural Gas,Middle East and Africa,Israel,2.99,,2.99,,Dormant,Stark Energy Corporation,
+Thermal,fa8ddaee69 power plant,Oil,Diesel,North America,Canada,19.32,19.32,,,Active,Stark Energy Corporation,
+Thermal,98077cff5d power plant,Oil,Diesel,North America,Canada,2.25,2.25,,,Active,Stark Energy Corporation,
+Thermal,c1b3a1a09b station,Gas,Natural Gas,North America,Canada,281.3,281.3,,,Active,Stark Energy Corporation,100
+Thermal,1a777d273c power plant,Gas,Natural Gas,Europe,Belgium,745.2,,,,Suspended,Stark Energy Corporation,
+Thermal,f70e0d07d4 power plant,Coal,Hard Coal,Europe,Belgium,144.64,,,144.64,Decommissioned,Stark Energy Corporation,100
+Thermal,7613b579d4 power plant,Oil,Distillate Fuel Oil,North America,United States,12.376,12.376,,,Active,Stark Energy Corporation,
+Thermal,6abdf868a9 power plant,Gas,Natural Gas,Europe,Russian Federation,37.06,,,37.06,Temporarily Shutdown,Stark Energy Corporation,100
+Thermal,d2815b9d10 power plant,Gas,Natural Gas,Asia-Pacific,Pakistan,,33.465,,,Active,Stark Energy Corporation,100
+Thermal,cf97033350 plant,Oil,Distillate Fuel Oil,North America,United States,3.668,,,,Active,Stark Energy Corporation,100
+Thermal,563a9fadd1 power plant,Gas,Natural Gas,Europe,Italy,142.29,,142.29,,Dormant,Stark Energy Corporation,
+Thermal,f1172feefe power plant,Gas,Natural Gas,Europe,Russian Federation,,,,,Active,Stark Energy Corporation,
+Thermal,fd7fb153ec power plant,Oil,Diesel,Asia-Pacific,Cambodia,0.1584,,,,Active,Stark Energy Corporation,100
+Thermal,65483a2d02 plant,Gas,Natural Gas,North America,United States,0.06,0.06,,,Active,Stark Energy Corporation,100
+Thermal,9414f437b2 power plant,Gas,Natural Gas,North America,United States,12.091,,,,Active,Stark Energy Corporation,
+Thermal,e082859dbb plant,Gas,Natural Gas,North America,United States,0.1815,0.1815,,,Active,Stark Energy Corporation,100
+Thermal,69b8e3978a power plant,Gas,Natural Gas,Asia-Pacific,China,738,,,,Active,Stark Energy Corporation,100
+Thermal,f72d547457,Coal,Coal,Asia-Pacific,Vietnam,,,,,Dormant,Stark Energy Corporation,
+Thermal,31611c7a9c power plant,Oil,Distillate Fuel Oil,North America,United States,3.744,,,,Active,Stark Energy Corporation,100
+Thermal,96fbc90a7f plant,Gas,Natural Gas,North America,United States,0.3339,0.3339,,,Active,Stark Energy Corporation,100
+Thermal,a86df0c574 station,Coal,Black Coal,Asia-Pacific,Australia,232.2,,,,Decommissioned,Stark Energy Corporation,100
+Thermal,9843b98b0a power plant,Coal,Bituminous,North America,United States,528.08,,,,Active,Stark Energy Corporation,100
+Thermal,06effbeed8 center,Gas,Natural Gas,North America,United States,,,,,Active,Stark Energy Corporation,25
+Thermal,c63c7a16da,Gas,Blast Furnace Gas,Asia-Pacific,China,359.04,359.04,,,Active,Stark Energy Corporation,100
+Thermal,de433396b3 power plant,Gas,Natural Gas,Asia-Pacific,Myanmar,180.9,,180.9,,Permitting,Stark Energy Corporation,
+Thermal,00a42c3c5e,Gas,Liquefied Natural Gas,Asia-Pacific,Republic of Korea,668.8,,668.8,,Dormant,Stark Energy Corporation,
+Thermal,660f31cbf7 power plant,Gas,Natural Gas,Europe,Spain,0.71,0.71,,,Active,Stark Energy Corporation,100
+Thermal,b6ee3603f9 plant,Gas,Natural Gas,Europe,Romania,162,,,,Active,Stark Energy Corporation,100
+Thermal,63c1acb31f plant,Gas,Gas,Asia-Pacific,Thailand,72.6,72.6,,,Active,Stark Energy Corporation,100
+Thermal,5d5df996de power plant,Oil,Diesel,Asia-Pacific,Philippines,99,99,,,Active,Stark Energy Corporation,20
+Thermal,86aabf88a4,Coal,Coal,Asia-Pacific,Bangladesh,,,,,Permitting,Stark Energy Corporation,20
+Thermal,7d52819170 power plant,Coal,Coal,Asia-Pacific,India,59.76,,,,Active,Stark Energy Corporation,
+Thermal,ae249d957d power plant,Coal,Coal,Asia-Pacific,China,1768.8,,1768.8,,Permitting,Stark Energy Corporation,
+Thermal,d4a816f924 power plant,Oil,Diesel,Middle East and Africa,Cameroon,0.51324,0.51324,,,Active,Stark Energy Corporation,
+Thermal,edf59f2324 power plant,Oil,Diesel,Middle East and Africa,Cameroon,0.05082,0.05082,,,Active,Stark Energy Corporation,
+Thermal,f0e7ed69a2 power plant,Oil,Heavy Fuel Oil,Middle East and Africa,Cameroon,71.82,71.82,,,Active,Stark Energy Corporation,
+Thermal,abe47945d1 power plant,Oil,Distillate Fuel Oil,North America,United States,0.931,0.931,,,Active,Stark Energy Corporation,100
+Thermal,128f5881c1 power plant,Gas,Natural Gas,Middle East and Africa,Cameroon,19.8,19.8,,,Active,Stark Energy Corporation,
+Thermal,66bf81466e plant,Gas,Gas,Asia-Pacific,Japan,13.26,,13.26,,Dormant,Stark Energy Corporation,
+Thermal,ed6e3198c5 power plant,Gas,Natural Gas,Europe,Denmark,44.965,44.965,,,Active,Stark Energy Corporation,
+Thermal,ae92ea2264 station,Coal,Lignite,Europe,Hungary,,,,,Active,Stark Energy Corporation,36.33
+Thermal,1238ec2cdf power plant,Gas,Gas,North America,Canada,1.476,,1.476,,Dormant,Stark Energy Corporation,
+Thermal,c73bff24d9 power plant,Gas,Natural Gas,North America,United States,2.4928,2.4928,,,Active,Stark Energy Corporation,100
+Thermal,942a643633 station,Gas,Gas,Middle East and Africa,Qatar,41.73,41.73,,,Active,Stark Energy Corporation,
+Thermal,5f97514e0d power plant,Coal,Coal,Asia-Pacific,India,108,,,,Suspended,Stark Energy Corporation,100
+Thermal,b9a322afdc plant,Coal,Coal,Europe,Poland,5.28,,,5.28,Temporarily Shutdown,Stark Energy Corporation,
+Thermal,0e7aad330b center,Gas,Natural Gas,North America,United States,531.44,531.44,,,Active,Stark Energy Corporation,100
+Thermal,604b217910 plant,Gas,Coke Oven Gas,Europe,Poland,4.76,4.76,,,Active,Stark Energy Corporation,
+Thermal,795cb693bb power plant,Gas,Gas,Asia-Pacific,Indonesia,19.76,19.76,,,Active,Stark Energy Corporation,
+Thermal,4ebecea52d power plant,Gas,Natural Gas,Europe,Turkey,5.7376,5.7376,,,Active,Stark Energy Corporation,
+Thermal,67577224f4 power plant,Oil,Marine Fuel Oil,Asia-Pacific,Indonesia,39.42,,,,Active,Stark Energy Corporation,
+Thermal,0c9fdfb748 power plant,Gas,Natural Gas,Europe,Germany,17.71,17.71,,,Active,Stark Energy Corporation,
+Thermal,0a401ed79b power plant,Coal,Coal,Asia-Pacific,Cambodia,623,,623,,Permitting,Stark Energy Corporation,
+Thermal,61be1fc437 power plant,Coal,Coal,Asia-Pacific,China,,,,,Permitting,Stark Energy Corporation,
+Thermal,999122f8c5 plant,Gas,Natural Gas,Asia-Pacific,Thailand,147.7368,147.7368,,,Active,Stark Energy Corporation,100
+Thermal,c7beb3138a power plant,Coal,Coal,Asia-Pacific,Japan,,,,,Active,Stark Energy Corporation,65
+Thermal,ab6d536fe9 station,Oil,Furnace Oil,Asia-Pacific,Pakistan,280,280,,,Active,Stark Energy Corporation,100
+Thermal,4ef137d012 station,Gas,Natural Gas,Asia-Pacific,Pakistan,187.2,187.2,,,Active,Stark Energy Corporation,100
+Thermal,950600ce35 power plant,Oil,Distillate Fuel Oil,North America,United States,5.9,5.9,,,Active,Stark Energy Corporation,
+Thermal,27b2df09c3 power plant,Oil,Diesel,South and Central America,Peru,2.409,2.409,,,Active,Stark Energy Corporation,
+Thermal,0bee461d0c power plant,Oil,Diesel,South and Central America,Peru,3.2319,3.2319,,,Active,Stark Energy Corporation,
+Thermal,e96ebec5f2 power plant,Coal,Hard Coal,Europe,Germany,67.84,67.84,,,Active,Stark Energy Corporation,100
+Thermal,0df8545e89 power plant,Gas,Natural Gas,North America,United States,6.9,,,,Active,Stark Energy Corporation,100
+Thermal,c67807dcd1 station,Gas,Natural Gas,Europe,Netherlands,670.64,,,,Decommissioned,Stark Energy Corporation,100
+Thermal,a5a8c3cf74 power plant,Gas,Natural Gas,Europe,Netherlands,1126.4,1126.4,,,Active,Stark Energy Corporation,100
+Thermal,358c623084,Gas,Natural Gas,Europe,Russian Federation,535.198,,,,Active,Stark Energy Corporation,
+Thermal,531a338b59 power plant,Oil,Fuel Oil,Middle East and Africa,Nigeria,24.78,,,,Active,Stark Energy Corporation,
+Thermal,a51c82dd12 station,Coal,Coal,Asia-Pacific,Hong Kong Special Administrative Region of China,,,,,Active,Stark Energy Corporation,70
+Thermal,4867efbd41 plant,Gas,Natural Gas,North America,United States,5.29,5.29,,,Active,Stark Energy Corporation,100
+Thermal,a3ff05f9b4 power plant,Oil,Distillate Fuel Oil,North America,United States,6.24,,,,Active,Stark Energy Corporation,100
+Thermal,bae37020ef plant,Gas,Natural Gas,North America,United States,0.0912,0.0912,,,Active,Stark Energy Corporation,100
+Thermal,8f4224383f power plant,Gas,Gas,Asia-Pacific,India,460,,460,,Dormant,Stark Energy Corporation,
+Thermal,9364634a59 plant,Gas,Natural Gas,Europe,Spain,4.9852,4.9852,,,Active,Stark Energy Corporation,
+Thermal,da2bc876cf power plant,Oil,Distillate Fuel Oil,North America,United States,8.268,,,,Active,Stark Energy Corporation,100
+Thermal,9633ad32e8 power plant,Coal,Coal,Asia-Pacific,Cambodia,,27,,,Active,Stark Energy Corporation,
+Thermal,9633ad32e8 power plant,Coal,Coal,Asia-Pacific,Cambodia,,27,,,Active,Stark Energy Corporation,
+Thermal,e9fb2f74ae plant,Coal,Petroleum Coke,North America,United States,0.0635,0.0635,,,Active,Stark Energy Corporation,100
+Thermal,28b712193e,Coal,Subbituminous,North America,United States,975.8,,,,Decommissioned,Stark Energy Corporation,
+Thermal,b711c0ca00 plant,Gas,Natural Gas,North America,United States,6.399,6.399,,,Active,Stark Energy Corporation,
+Thermal,b41a991c23 plant,Oil,Oil,Asia-Pacific,China,149.28,149.28,,,Active,Stark Energy Corporation,100
+Thermal,55099c035e power plant,Coal,Bituminous,North America,United States,1584.792,,,,Active,Stark Energy Corporation,100
+Thermal,f83d54df45 power plant,Coal,Bituminous,North America,United States,3263.472,,,,Active,Stark Energy Corporation,100
+Thermal,61c39741fd power plant,Oil,Diesel,South and Central America,Brazil,0.1862,0.1862,,,Active,Stark Energy Corporation,100
+Thermal,ed7a4eb787 plant,Oil,Oil,North America,United States,1.518,1.518,,,Active,Stark Energy Corporation,100
+Thermal,13c361531a plant,Gas,Natural Gas,North America,United States,0.0148,0.0148,,,Active,Stark Energy Corporation,100
+Thermal,55e0bba7a1 power plant,Oil,Diesel,Middle East and Africa,Oman,27.72,27.72,,,Active,Stark Energy Corporation,
+Thermal,688baf39c9 power plant,Gas,Natural Gas,Asia-Pacific,China,443.3,,,,Active,Stark Energy Corporation,100
+Thermal,a3f8fa9df4 project,Coal,Coal,Asia-Pacific,China,336,,,,Active,Stark Energy Corporation,100
+Thermal,880e90657f power plant,Oil,Distillate Fuel Oil,North America,United States,1.98,,,,Active,Stark Energy Corporation,100
+Thermal,7baee445f9 power plant,Oil,Distillate Fuel Oil,North America,United States,2.376,,,,Active,Stark Energy Corporation,100
+Thermal,65dc69254a power plant,Oil,Distillate Fuel Oil,North America,United States,1.872,1.872,,,Active,Stark Energy Corporation,100
+Thermal,a8e1cb16c7 power plant,Gas,Natural Gas,South and Central America,Colombia,62.83,,62.83,,Dormant,Stark Energy Corporation,
+Thermal,59f9a1f16d power plant,Oil,Diesel,South and Central America,Brazil,11.124,,,,Active,Stark Energy Corporation,49
+Thermal,39c36494ae power plant,Coal,Coal,Asia-Pacific,China,2499.75,,,,Active,Stark Energy Corporation,55
+Thermal,951ef3ff2e power plant,Coal,Coal,Asia-Pacific,China,1548.16,,,,Active,Stark Energy Corporation,91.8
+Thermal,d1a97f772c power plant,Coal,Coal,Asia-Pacific,China,666.4,,,,Active,Stark Energy Corporation,100
+Thermal,4ba6bf1400 power plant,Coal,Coal,Asia-Pacific,China,945,945,,,Active,Stark Energy Corporation,60
+Thermal,7dde77d533,Coal,Coal,Asia-Pacific,China,,,,,Active,Stark Energy Corporation,60
+Thermal,dcebeb4ab2 power plant,Coal,Coal,Asia-Pacific,China,,812,,,Active,Stark Energy Corporation,88.8
+Thermal,dcebeb4ab2 power plant,Coal,Coal,Asia-Pacific,China,,1577.6,,,Active,Stark Energy Corporation,100
+Thermal,29c9fd420b power plant,Gas,Natural Gas,North America,United States,365.4,,,,Active,Stark Energy Corporation,
+Thermal,c90915cfbf power plant,Coal,Coal,Asia-Pacific,Indonesia,324,,,,Dormant,Stark Energy Corporation,
+Thermal,f6b7484aa7 power plant,Coal,Bituminous,Asia-Pacific,China,3279.18,,,,Partially Active,Stark Energy Corporation,80
+Thermal,bd6e5c70fa plant,Gas,Natural Gas,Asia-Pacific,China,453.74,453.74,,,Active,Stark Energy Corporation,100
+Thermal,8666e6dc77 plant,Coal,Coal,Asia-Pacific,China,637,,,,Active,Stark Energy Corporation,100
+Thermal,cd1fda6524 power plant,Oil,Residual Furnace Oil,Asia-Pacific,Pakistan,81.9,,81.9,,Dormant,Stark Energy Corporation,
+Thermal,af674c7c55 facility,Coal,Waste Coal,North America,United States,50.4,50.4,,,Active,Stark Energy Corporation,
+Thermal,6e3f815e4a power plant,Oil,Diesel,South and Central America,Argentina,1.19112,1.19112,,,Active,Stark Energy Corporation,
+Thermal,92ad6bd004 power plant,Oil,Diesel,South and Central America,Argentina,1.57696,1.57696,,,Active,Stark Energy Corporation,
+Thermal,1e36e6e8c8 power plant,Coal,Coal,Asia-Pacific,China,,560,,,Active,Stark Energy Corporation,
+Thermal,1e36e6e8c8 power plant,Coal,Coal,Asia-Pacific,China,,560,,,Active,Stark Energy Corporation,
+Thermal,60cc73cf1e,Gas,Natural Gas,Middle East and Africa,Oman,,,,,Active,Wonka Energy LTD,
+Thermal,f977fbb666 power plant,Dual-Fuel,Natural Gas,North America,United States,66.048,,,,Active,Wonka Energy LTD,
+Thermal,8118e4f2f1 facility,Gas,Natural Gas,North America,United States,,,,,Under Construction,Wonka Energy LTD,8.9
+Thermal,4496301669 power plant,Gas,Gas,Europe,United Kingdom,6.4,,6.4,,Announced,Wonka Energy LTD,
+Thermal,806f40b03f power plant,Gas,Gas,Europe,United Kingdom,8.4,,8.4,,Announced,Wonka Energy LTD,
+Thermal,c97ff48ba5 plant,Gas,Natural Gas,North America,United States,0.0408,0.0408,,,Active,Wonka Energy LTD,100
+Thermal,79d931d89e power plant,Coal,Coal,Asia-Pacific,China,1212,,,,Active,Wonka Energy LTD,
+Thermal,9e4fb797b6 power plant,Coal,Coal,Asia-Pacific,Bangladesh,1452,,,,Under Construction,Wonka Energy LTD,50
+Thermal,8479691e2e power plant,Oil,Diesel,South and Central America,Brazil,0.0486,0.0486,,,Active,Wonka Energy LTD,100
+Thermal,f5707ac07c plant,Gas,Natural Gas,Europe,Germany,12.32,12.32,,,Active,Wonka Energy LTD,50
+Thermal,8317a3b52a power plant,Gas,Liquefied Natural Gas,Asia-Pacific,Republic of Korea,196.2,,196.2,,Under Construction,Wonka Energy LTD,
+Thermal,b9e8188e9a power plant,Gas,Gas,Middle East and Africa,United Arab Emirates,142.56,,142.56,,Dormant,Wonka Energy LTD,60.01
+Thermal,89ecad68fe power plant,Gas,Natural Gas,North America,United States,14.022,,,,Active,Wonka Energy LTD,100
+Thermal,fada1b484a power plant,Gas,Natural gas,Middle East and Africa,Liberia,64.64,64.64,,,Active,Wonka Energy LTD,100
+Thermal,84b4c8a1c2 power plant,Oil,Diesel,Middle East and Africa,Liberia,6.4,6.4,,,Active,Wonka Energy LTD,100
+Thermal,a96e7d549d power plant,Oil,Diesel Oil,Middle East and Africa,Liberia,3.95,3.95,,,Active,Wonka Energy LTD,100
+Thermal,3af46228e3 power plant,Gas,Natural Gas,North America,Canada,2.34,,2.34,,Dormant,Wonka Energy LTD,
+Thermal,cef1ca69a2 power plant,Coal,Coal,Asia-Pacific,India,,,,,Partially Active,Wonka Energy LTD,50
+Thermal,455646eef1 power plant,Oil,Distillate Fuel Oil,North America,United States,8,8,,,Active,Wonka Energy LTD,
+Thermal,e8af1bd604 power plant,Gas,Natural Gas,Middle East and Africa,Qatar,271.08,271.08,,,Active,Wonka Energy LTD,100
+Thermal,b066a76355 power plant,Coal,Coal,Europe,Georgia,177,,,177,Cancelled,Wonka Energy LTD,
+Thermal,42437cbc34 power plant,Oil,Residual Fuel Oil,North America,United States,92.916,,,,Active,Wonka Energy LTD,100
+Thermal,07395ab0c5 power plant,Oil,Distillate Fuel Oil,North America,United States,12.672,,,,Decommissioned,Wonka Energy LTD,100
+Thermal,0569eece33 power plant,Oil,Distillate Fuel Oil,North America,United States,103.368,,,,Decommissioned,Wonka Energy LTD,
+Thermal,af85cd9316 power plant,Dual-Fuel,Diesel,Europe,Russian Federation,738,,738,,Dormant,Wonka Energy LTD,100
+Thermal,d98b97b9eb power plant,Coal,Coal,Europe,Italy,,,,,Active,Wonka Energy LTD,10
+Thermal,fe5d3de921,Coal,Bituminous,Asia-Pacific,China,876,,,,Active,Wonka Energy LTD,100
+Thermal,66f0c9df2d power plant,Gas,Natural Gas,South and Central America,Colombia,31.16,31.16,,,Active,Wonka Energy LTD,
+Thermal,8155fe7679 plant,Gas,Natural Gas,North America,United States,1.8944,1.8944,,,Active,Wonka Energy LTD,100
+Thermal,0628457b51,Gas,Gas,South and Central America,Colombia,110.26,,,,Partially Active,Wonka Energy LTD,
+Thermal,b6c1b54baa station,Gas,Natural Gas,Europe,Italy,48.6,,,,Active,Wonka Energy LTD,
+Thermal,0eef8682e3 station,Coal,Coal,Asia-Pacific,India,447.3,,,,Active,Wonka Energy LTD,100
+Thermal,b881d52a49 power plant,Gas,Blast Furnace Gas,Europe,Germany,335.4,,,,Active,Wonka Energy LTD,
+Thermal,6140fb5135 power plant,Gas,Permeate Gas,Asia-Pacific,Pakistan,172.42,172.42,,,Active,Wonka Energy LTD,100
+Thermal,2f80955ea9 plant,Gas,Natural Gas,North America,United States,0.2295,0.2295,,,Active,Wonka Energy LTD,100
+Thermal,336fdd34c0 power plant,Oil,Heavy Fuel Oil,Asia-Pacific,Bangladesh,,,,,Under Construction,Wonka Energy LTD,
+Thermal,18bd2a059b power plant,Coal,Syngas,Europe,Italy,,,,,Active,Wonka Energy LTD,51
+Thermal,3d74b1660a power plant,Gas,Natural Gas,Europe,Poland,1.47,,1.47,,Permitting,Wonka Energy LTD,
+Thermal,3050b0b768 power plant,Oil,Oil Shale,Middle East and Africa,Jordan,,,,,Under Construction,Wonka Energy LTD,45
+Thermal,8e00419fe5 power plant,Oil,Fuel Oil,Europe,Sweden,184.8,184.8,,,Active,Wonka Energy LTD,100
+Thermal,2c60b71cbc power plant,Oil,Diesel,South and Central America,Brazil,1.854,1.854,,,Active,Wonka Energy LTD,100
+Thermal,bbaeb8f85e power plant,Coal,Bituminous,Middle East and Africa,Israel,1777.5,,,,Active,Wonka Energy LTD,100
+Thermal,ed80a2bf36 power plant,Oil,Diesel,Middle East and Africa,Israel,37.74,37.74,,,Active,Wonka Energy LTD,
+Thermal,eb26c57d79 power plant,Oil,Diesel,Middle East and Africa,Israel,6.1,,,6.1,Temporarily Shutdown,Wonka Energy LTD,100
+Thermal,bce05e8f01 power plant,Gas,Natural Gas,Middle East and Africa,Iran (Islamic Republic of Iran),936,,,,Active,Wonka Energy LTD,
+Thermal,a7c71b3be6 station,Gas,Natural Gas,Asia-Pacific,Australia,14.5812,14.5812,,,Active,Wonka Energy LTD,100
+Thermal,96fac0b477 power plant,Coal,Coal,Europe,Hungary,264,,,,Decommissioned,Wonka Energy LTD,100
+Thermal,861861be46 power plant,Coal,Coal,Asia-Pacific,Mongolia,294.3,,294.3,,Dormant,Wonka Energy LTD,
+Thermal,90f90c0731 plant,Gas,Natural Gas,Europe,Poland,,,,,Dormant,Wonka Energy LTD,20
+Thermal,0aa018fe2c plant,Oil,Diesel,Europe,Spain,0.8512,0.8512,,,Active,Wonka Energy LTD,
+Thermal,000e15ab5c power plant,Oil,Heavy Fuel Oil,Asia-Pacific,Fiji,34.72,,,,Active,Wonka Energy LTD,
+Thermal,7d8ab4cc01 power plant,Oil,Diesel,South and Central America,Argentina,3.744,3.744,,,Active,Wonka Energy LTD,
+Thermal,df122d9b4e power plant,Oil,Distillate Fuel Oil,North America,United States,46.843,,,,Active,Wonka Energy LTD,100
+Thermal,aa1f248380 plant,Gas,Natural Gas,North America,United States,2.88,2.88,,,Active,Wonka Energy LTD,100
+Thermal,5da146855e power plant,Oil,Distillate Fuel Oil,North America,United States,5.724,5.724,,,Active,Wonka Energy LTD,
+Thermal,ab82bb920f power plant,Oil,Distillate Fuel Oil,North America,United States,10.476,10.476,,,Active,Wonka Energy LTD,
+Thermal,e7fc6b3116 power plant,Oil,Distillate Fuel Oil,North America,United States,10.908,10.908,,,Active,Wonka Energy LTD,
+Thermal,86aabf88a4,Coal,Coal,Asia-Pacific,Bangladesh,1740,,,,Permitting,Wonka Energy LTD,80
+Thermal,499165fcea power plant,Oil,Distillate Fuel Oil,North America,United States,2.43,2.43,,,Active,Wonka Energy LTD,
+Thermal,0355d43678 power plant,Oil,Diesel,South and Central America,Colombia,2.04375,,,,Active,Wonka Energy LTD,100
+Thermal,5c31408bf7 power plant,Gas,Natural Gas,Europe,Turkey,9.9522,9.9522,,,Active,Wonka Energy LTD,
+Thermal,6e7995ab02 plant,Gas,Natural Gas,North America,United States,11.97,11.97,,,Active,Wonka Energy LTD,100
+Thermal,abf1934e6e project,Coal,Coal,Asia-Pacific,India,325,,,325,Suspended,Wonka Energy LTD,100
+Thermal,07bc5af921 power plant,Dual-Fuel,Natural Gas,South and Central America,Argentina,155.8,,,,Active,Wonka Energy LTD,
+Thermal,4ad2509ac2,Gas,Gas,Asia-Pacific,Indonesia,1090.6,,1090.6,,Under Construction,Wonka Energy LTD,
+Thermal,9e710ffc44 power plant,Gas,Natural Gas,Asia-Pacific,China,1386,,,,Active,Wonka Energy LTD,
+Thermal,1e4b560e4c power plant,Oil,Diesel,South and Central America,Brazil,9.81693,,9.81693,,Under Construction,Wonka Energy LTD,99
+Thermal,28eb216e4b power plant,Oil,Diesel,South and Central America,Brazil,0.63,,0.63,,Under Construction,Wonka Energy LTD,99
+Thermal,9062ddef26 project,Oil,Heavy Fuel Oil,Middle East and Africa,Gambia,4.628,,4.628,,Permitting,Wonka Energy LTD,
+Thermal,1907df4f43 power plant,Gas,Natural Gas,Europe,Spain,1.07,1.07,,,Active,Wonka Energy LTD,100
+Thermal,eea4f179f3 power plant,Gas,Natural Gas,South and Central America,Colombia,68.076,,,,Permitting,Wonka Energy LTD,
+Thermal,876ff295f2 station,Gas,Natural Gas,Asia-Pacific,Australia,459,,,,Dormant,Wonka Energy LTD,
+Thermal,96f043b204 power plant,Coal,Coal,Asia-Pacific,Pakistan,104.32,,104.32,,Permitting,Wonka Energy LTD,
+Thermal,f5c218b000 power plant,Coal,Coal,Europe,Czech Republic,203.28,203.28,,,Active,Wonka Energy LTD,
+Thermal,893f1ab704 power plant,Coal,Coal,Asia-Pacific,India,1000,,,,Suspended,Wonka Energy LTD,100
+"Thermal,1fc7ef4ed4 project,Dual-Fuel,""Natural Gas, Diesel"",North America,United States,6.7725,,6.7725,,Announced,Wonka Energy LTD,"
+Thermal,34bb401583 power plant,Coal,Waste Coal,North America,United States,78.4,78.4,,,Active,Wonka Energy LTD,
+Thermal,8601480c44 power plant,Coal,Bituminous,Europe,Poland,128,,,,Decommissioned,Wonka Energy LTD,100
+Thermal,b072286662 power plant,Coal,Coal,Asia-Pacific,China,756,,,,Active,Wonka Energy LTD,
+Thermal,a38446cda1,Coal,Hard Coal,Europe,Poland,85.56,,,85.56,Decommissioned,Wonka Energy LTD,100
+Thermal,1618ce0be2 plant,Gas,Natural Gas,North America,United States,0.042,0.042,,,Active,Wonka Energy LTD,100
+Thermal,6dcbec3dc7 power plant,Oil,Fuel Oil,Asia-Pacific,Japan,16.8,16.8,,,Active,Wonka Energy LTD,
+Thermal,54e77fb878 plant,Oil,Oil,North America,United States,2.16,2.16,,,Active,Wonka Energy LTD,100
+Thermal,8ea4c136c9 power plant,Gas,Natural Gas,North America,United States,707.4,,,,Active,Wonka Energy LTD,
+Thermal,f4f27d526d power plant,Gas,Natural Gas,Asia-Pacific,New Zealand,360,,360,,Permitting,Wonka Energy LTD,
+Thermal,c5541a5e26 power plant,Gas,Natural Gas,North America,United States,13.32,13.32,,,Active,Wonka Energy LTD,100
+Thermal,5ecd6c6727 plant,Oil,Heavy Fuel Oil,North America,Mexico,12.95712,12.95712,,,Active,Wonka Energy LTD,100
+Thermal,fbbb5c6895 power plant,Gas,Gas,Middle East and Africa,Iran (Islamic Republic of Iran),,,,,Active,Wonka Energy LTD,0.1
+Thermal,382012a32f station,Gas,Natural Gas,North America,United States,487.968,,,,Active,Wonka Energy LTD,100
+Thermal,33e89a931f station,Gas,Natural Gas,Middle East and Africa,United Arab Emirates,51.5,51.5,,,Active,Wonka Energy LTD,100
+Thermal,f268acb3d4 plant,Gas,Coke Oven Gas,Asia-Pacific,India,160.8,160.8,,,Active,Wonka Energy LTD,100
+Thermal,cb1cd37b6d station,Gas,Natural Gas,North America,United States,104.272,104.272,,,Active,Wonka Energy LTD,100
+Thermal,48dfa26195 station,Gas,Natural Gas,Middle East and Africa,United Arab Emirates,71.28,71.28,,,Active,Wonka Energy LTD,100
+Thermal,a0a90daf67 power plant,Gas,Natural Gas,Asia-Pacific,India,1680,,,,Dormant,Wonka Energy LTD,
+Thermal,e046c0ecad power plant,Gas,Natural Gas,North America,United States,43.8,,43.8,,Dormant,Wonka Energy LTD,
+Thermal,905584eaa8 station,Gas,Natural Gas,North America,United States,803.6,803.6,,,Active,Wonka Energy LTD,
+Thermal,50bfc3b6a4 station,Oil,Diesel,Asia-Pacific,India,1.387,1.387,,,Active,Wonka Energy LTD,100
+Thermal,267ff9ca2d station,Oil,Diesel,Asia-Pacific,India,1.764,1.764,,,Active,Wonka Energy LTD,100
+Thermal,e49b7da589 power plant,Coal,Subbituminous,North America,United States,16.5,,,16.5,Decommissioned,Wonka Energy LTD,100
+Thermal,fe4834d070 power plant,Gas,Natural Gas,North America,United States,756.976,756.976,,,Active,Wonka Energy LTD,
+Thermal,c1c2fa3047 station,Oil,Diesel,Asia-Pacific,India,0.9875,0.9875,,,Active,Wonka Energy LTD,100
+Thermal,3bc36f31e4 power plant,Gas,Natural Gas,North America,United States,36.4,36.4,,,Active,Wonka Energy LTD,100
+Thermal,1275303912 power plant,Oil,Distillate Fuel Oil,North America,United States,8.7,8.7,,,Active,Wonka Energy LTD,100
+Thermal,c68c1217e7 power plant,Coal,Subbituminous,North America,United States,22.77,,,,Decommissioned,Wonka Energy LTD,100
+Thermal,5a17a59766 station,Oil,Diesel,Asia-Pacific,India,1.764,1.764,,,Active,Wonka Energy LTD,100
+Thermal,899cf0e3f3 power plant,Coal,Bituminous,North America,United States,24.035,,,,Decommissioned,Wonka Energy LTD,100
+Thermal,b6d85e2fc0 power plant,Oil,Distillate Fuel Oil,North America,United States,7.9,7.9,,,Active,Wonka Energy LTD,100
+Thermal,e10e757be9 plant,Gas,Natural Gas,North America,United States,,,,,Active,Wonka Energy LTD,
+Thermal,2f7a44e6cc plant,Gas,Natural Gas,Europe,Spain,4.8048,4.8048,,,Active,Wonka Energy LTD,
+Thermal,8cb7cbd82f power plant,Coal,Coal,Asia-Pacific,India,844.8,,,,Suspended,Wonka Energy LTD,
+Thermal,c5e8f044a4 power plant,Gas,Gas,Europe,Germany,0.245,0.245,,,Active,Wonka Energy LTD,
+Thermal,e9ea6f035d power plant,Coal,Anthracite,Asia-Pacific,China,235,,,,Active,Wonka Energy LTD,100
+Thermal,178afe167f,Coal,Coal,Asia-Pacific,China,2460,,,,Dormant,Wonka Energy LTD,
+Thermal,7e5ee14d10 plant,Gas,Natural Gas,Europe,Spain,15.1227,,,15.1227,Decommissioned,Wonka Energy LTD,100

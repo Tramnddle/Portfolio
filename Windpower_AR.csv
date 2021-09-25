@@ -1,0 +1,938 @@
+Technology,Power Plant Name,Fuel Category,Primary Fuel,Region,Country,Total Capacity (MW),Active Capacity (MW),Pipeline Capacity (MW),Discontinued Capacity (MW),Status,Owner Name,Owner Stake (%)
+Wind,0a06a6eaee,Onshore,,Asia-Pacific,Australia,275.4,,,,Active,Acme Oil & Gas Corporation,
+Wind,6ec476fd7a,Onshore,,Europe,Germany,,1.87,,,Active,Acme Oil & Gas Corporation,
+Wind,9ed2bf4347,Onshore,,Europe,Germany,21.056,,,21.056,Cancelled,Acme Oil & Gas Corporation,
+Wind,3b5fa25e98,Onshore,,South and Central America,Brazil,,,,,Permitting,Acme Oil & Gas Corporation,0.01
+Wind,365f68e616,Onshore,,South and Central America,Brazil,7.392,,7.392,,Permitting,Acme Oil & Gas Corporation,100
+Wind,956101aaf2,Onshore,,South and Central America,Brazil,,,,,Under Construction,Acme Oil & Gas Corporation,0.01
+Wind,6eb2532f97,Onshore,,Europe,Spain,16.7,,,,Active,Acme Oil & Gas Corporation,
+Wind,0637e013b5,Onshore,,Asia-Pacific,India,2.163,2.163,,,Active,Acme Oil & Gas Corporation,
+Wind,9.10E+59,Onshore,,Europe,Spain,16.1,16.1,,,Active,Acme Oil & Gas Corporation,
+Wind,b82216e00a,Onshore,,Asia-Pacific,India,0.5925,0.5925,,,Active,Acme Oil & Gas Corporation,100
+Wind,0e08727d74,Onshore,,Asia-Pacific,India,0.1475,0.1475,,,Active,Acme Oil & Gas Corporation,100
+Wind,8dd2e674f3,Onshore,,Asia-Pacific,India,1.6875,1.6875,,,Active,Acme Oil & Gas Corporation,100
+Wind,86c5f102d5,Onshore,,Asia-Pacific,Japan,,,,,Active,Acme Oil & Gas Corporation,10
+Wind,e272dec90c,Onshore,,Asia-Pacific,India,181.545,,181.545,,Dormant,Acme Oil & Gas Corporation,
+Wind,ad3e8f9229,Onshore,,Asia-Pacific,India,2.34,2.34,,,Active,Acme Oil & Gas Corporation,
+Wind,3dc463de01,Onshore,,Asia-Pacific,India,3.57,,,,Active,Acme Oil & Gas Corporation,
+Wind,0c72f56f1b,Onshore,,Europe,Belgium,17.88,,17.88,,Announced,Acme Oil & Gas Corporation,
+Wind,5b735e85b7 project,Onshore,,North America,United States,0.5865,0.5865,,,Active,Acme Oil & Gas Corporation,
+Wind,d4c5e612fc,Onshore,,Asia-Pacific,India,90.72,,,,Partially Active,Acme Oil & Gas Corporation,
+Wind,8a074aad95,Onshore,,Europe,Russian Federation,15.36,,15.36,,Dormant,Acme Oil & Gas Corporation,
+Wind,f4efaa4134,Onshore,,Europe,Germany,,,,,Partially Active,Acme Oil & Gas Corporation,
+Wind,83172e70fe,Onshore,,Europe,Spain,18.36,18.36,,,Active,Acme Oil & Gas Corporation,100
+Wind,d626991991,Onshore,,Asia-Pacific,India,0.1426,0.1426,,,Active,Acme Oil & Gas Corporation,100
+Wind,b3e41c1c08,Onshore,,Asia-Pacific,India,2.025,2.025,,,Active,Acme Oil & Gas Corporation,100
+Wind,a63133d6c2,Onshore,,Europe,Spain,60.12,60.12,,,Active,Acme Oil & Gas Corporation,
+Wind,bf6f72ce54,Onshore,,Europe,Spain,11.8236,,11.8236,,Permitting,Acme Oil & Gas Corporation,
+Wind,4ab3e450af,Onshore,,Asia-Pacific,India,0.2625,0.2625,,,Active,Acme Oil & Gas Corporation,100
+Wind,16d42e39d8,Onshore,,Asia-Pacific,India,0.33,0.33,,,Active,Acme Oil & Gas Corporation,
+Wind,45c2033b1b,Onshore,,North America,United States,148.074,148.074,,,Active,Acme Oil & Gas Corporation,
+Wind,dafe51cb61,Onshore,,Asia-Pacific,India,12.3,,12.3,,Dormant,Acme Oil & Gas Corporation,
+Wind,d31acce951,Onshore,,Asia-Pacific,India,2.375,2.375,,,Active,Acme Oil & Gas Corporation,
+Wind,73b190e626,Onshore,,Europe,United Kingdom,,,,,Suspended,Acme Oil & Gas Corporation,
+Wind,e1891099b5,Onshore,,North America,United States,113.088,113.088,,,Active,Acme Oil & Gas Corporation,
+Wind,3280890740 project,Onshore,,North America,United States,68.37,,68.37,,Dormant,Acme Oil & Gas Corporation,
+Wind,431d75e080,Onshore Repowered,,Europe,Netherlands,10.395,,,10.395,Decommissioned,Acme Oil & Gas Corporation,49
+Wind,c9f08aad90,Onshore Repowered,,Europe,Netherlands,7.68,7.68,,,Active,Acme Oil & Gas Corporation,49
+Wind,8b4bc92745,Onshore,,Asia-Pacific,India,0.342,0.342,,,Active,Acme Oil & Gas Corporation,100
+Wind,c5b2de110d,Onshore,,Europe,Sweden,103.2,,103.2,,Permitting,Acme Oil & Gas Corporation,
+Wind,b9656939ac,Onshore,,Asia-Pacific,Japan,0.78,0.78,,,Active,Acme Oil & Gas Corporation,
+Wind,46b5d51a24,Onshore,,Europe,Sweden,13.608,13.608,,,Active,Acme Oil & Gas Corporation,100
+Wind,a65113d68b,Onshore,,Europe,Romania,89.7,,,89.7,Cancelled,Acme Oil & Gas Corporation,
+Wind,886f0c5f7f,Onshore,,South and Central America,Brazil,,,,,Active,Acme Oil & Gas Corporation,51
+Wind,deff28cc25 station,Onshore,,Asia-Pacific,Republic of Korea,3.81,3.81,,,Active,Acme Oil & Gas Corporation,100
+Wind,318d976ff3,Onshore,,Middle East and Africa,Jordan,84.645,84.645,,,Active,Acme Oil & Gas Corporation,100
+Wind,417b2cb6d3,Onshore,,Europe,Belgium,2.875,2.875,,,Active,Acme Oil & Gas Corporation,100
+Wind,9aeed7c8e6,Onshore,,North America,United States,190.095,190.095,,,Active,Acme Oil & Gas Corporation,100
+Wind,430f01ba2a,Onshore Repowered,,Europe,Spain,17.325,17.325,,,Active,Acme Oil & Gas Corporation,
+Wind,e160bf359d,Onshore,,Europe,France,43.5,43.5,,,Active,Acme Oil & Gas Corporation,
+Wind,e5247dac30,Onshore,,Asia-Pacific,India,0.462,0.462,,,Active,Acme Oil & Gas Corporation,
+Wind,181471f181,Onshore,,Asia-Pacific,India,0.396,0.396,,,Active,Acme Oil & Gas Corporation,
+Wind,bc503fb978,Onshore,,Europe,Italy,1.15,1.15,,,Active,Acme Oil & Gas Corporation,
+Wind,cbb4ee3f30,Onshore,,South and Central America,Panama,108.15,,108.15,,Dormant,Acme Oil & Gas Corporation,
+Wind,b710ecf931,Onshore,,Europe,France,23.506,23.506,,,Active,Acme Oil & Gas Corporation,
+Wind,ac272f2e9e,Onshore,,Asia-Pacific,China,136.68,,,,Active,Acme Oil & Gas Corporation,70
+Wind,1ab93865ab,Onshore,,Europe,Portugal,10.1,10.1,,,Active,Acme Oil & Gas Corporation,
+Wind,d2b25bd6c3,Onshore,,Asia-Pacific,India,0.4125,0.4125,,,Active,Acme Oil & Gas Corporation,100
+Wind,2150c9ebee,Onshore Repowered,,Europe,Portugal,9.24,9.24,,,Active,Acme Oil & Gas Corporation,
+Wind,85e6bbdc67,Onshore,,Europe,Germany,18.876,18.876,,,Active,Acme Oil & Gas Corporation,
+Wind,c1932d6d12,Onshore,,Europe,United Kingdom,0.5805,,0.5805,,Dormant,Acme Oil & Gas Corporation,
+Wind,46079bc104,Onshore,,Asia-Pacific,India,0.798,0.798,,,Active,Acme Oil & Gas Corporation,100
+Wind,3a05fa7510,Onshore,,Asia-Pacific,India,0.576,0.576,,,Active,Acme Oil & Gas Corporation,100
+Wind,21624f2db9,Onshore,,Europe,France,12.18,12.18,,,Active,Acme Oil & Gas Corporation,
+Wind,99a29e9852,Onshore,,North America,Canada,0.6525,0.6525,,,Active,Acme Oil & Gas Corporation,50
+Wind,235f36244b,Onshore,,Europe,Germany,36.1,36.1,,,Active,Acme Oil & Gas Corporation,12.5
+Wind,5efbf87f86,Onshore,,Asia-Pacific,India,0.1771,0.1771,,,Active,Acme Oil & Gas Corporation,100
+Wind,013cd01136,Onshore,,North America,United States,43.195,,43.195,,Dormant,Acme Oil & Gas Corporation,
+Wind,6b39041f56,Onshore,,Europe,Sweden,4.02,4.02,,,Active,Acme Oil & Gas Corporation,
+Wind,4f5455efea,Onshore,,Asia-Pacific,India,1,1,,,Active,Acme Oil & Gas Corporation,100
+Wind,9960beac56,Onshore,,Europe,United Kingdom,177.138,,,,Partially Active,Acme Oil & Gas Corporation,
+Wind,40323acce0,Onshore,,Europe,United Kingdom,65.28,65.28,,,Active,Acme Oil & Gas Corporation,
+Wind,8828ce2abe,Onshore,,Europe,United Kingdom,45.6,,,45.6,Suspended,Acme Oil & Gas Corporation,
+Wind,51cf40b198,Onshore,,Europe,United Kingdom,6.525,6.525,,,Active,Acme Oil & Gas Corporation,
+Wind,7f17b2eb66,Onshore,,Europe,United Kingdom,21.25,,,21.25,Cancelled,Acme Oil & Gas Corporation,
+Wind,3596498b22,Onshore,,South and Central America,Brazil,,,,,Active,Acme Oil & Gas Corporation,
+Wind,6237ee7482,Onshore,,North America,United States,60.96,,60.96,,Dormant,Acme Oil & Gas Corporation,
+Wind,d26cd27a9d,Onshore,,Europe,Germany,,3.243,,,Active,Acme Oil & Gas Corporation,
+Wind,cb81b89212,Onshore,,Asia-Pacific,China,69.12,69.12,,,Active,Acme Oil & Gas Corporation,
+Wind,ac272f2e9e,Onshore,,Asia-Pacific,China,,,,,Active,Acme Oil & Gas Corporation,30
+Wind,f30bd082a5 project,Onshore,,Asia-Pacific,China,99.18,,,,Under Construction,Acme Oil & Gas Corporation,100
+Wind,b8b4c4c66e,Onshore,,Asia-Pacific,China,17.85,17.85,,,Active,Acme Oil & Gas Corporation,86
+Wind,c6be163dcf,Onshore,,Europe,United Kingdom,8.004,,,8.004,Suspended,Acme Oil & Gas Corporation,
+Wind,3e1f182290,Onshore,,Europe,United Kingdom,12.474,,12.474,,Permitting,Acme Oil & Gas Corporation,
+Wind,6cfa7932ce,Onshore,,Asia-Pacific,India,1.656,1.656,,,Active,Acme Oil & Gas Corporation,100
+Wind,c3645d9c17,Onshore,,Asia-Pacific,India,1.8625,1.8625,,,Active,Acme Oil & Gas Corporation,100
+Wind,c6f7cc3534,Onshore,,Europe,Turkey,40.5,40.5,,,Active,Acme Oil & Gas Corporation,
+Wind,db4814cf77,Onshore,,Asia-Pacific,Australia,,,,,Active,Acme Oil & Gas Corporation,90
+Wind,686a163df4,Onshore,,Asia-Pacific,India,1.635,1.635,,,Active,Acme Oil & Gas Corporation,100
+Wind,5ef168bb6d project,Onshore,,Asia-Pacific,China,47.025,47.025,,,Active,Acme Oil & Gas Corporation,
+Wind,5353131b5e,Onshore,,Asia-Pacific,China,40.5,40.5,,,Active,Acme Oil & Gas Corporation,
+Wind,7ced8f8c9b,Onshore,,Asia-Pacific,China,396,396,,,Active,Acme Oil & Gas Corporation,
+Wind,5dd0aef425,Onshore,,Europe,Sweden,0.2737,0.2737,,,Active,Acme Oil & Gas Corporation,
+Wind,17c488dc56,Onshore,,Europe,Romania,7.918,,,7.918,Cancelled,Acme Oil & Gas Corporation,
+Wind,c6f3c94d1b,Onshore,,Asia-Pacific,India,0.528,0.528,,,Active,Acme Oil & Gas Corporation,
+Wind,a704b12ed8,Onshore,,Europe,Ireland,50.4,,50.4,,Permitting,Acme Oil & Gas Corporation,
+Wind,6bdfcf45c7,Onshore,,Europe,Germany,19.84,19.84,,,Active,Acme Oil & Gas Corporation,100
+Wind,43b7b23a9f,Onshore,,Europe,France,6.4575,6.4575,,,Active,Acme Oil & Gas Corporation,100
+Wind,1c494954f1,Onshore,,Asia-Pacific,China,58.905,58.905,,,Active,Acme Oil & Gas Corporation,55
+Wind,7be0893e6c,Offshore,,Asia-Pacific,China,97.045,,,,Active,Acme Oil & Gas Corporation,
+Wind,a288acdf6a,Onshore,,Asia-Pacific,China,186,,,,Active,Acme Oil & Gas Corporation,
+Wind,2f156286f4,Onshore,,Asia-Pacific,China,61.047,61.047,,,Active,Acme Oil & Gas Corporation,
+Wind,0bbc9952d6,Onshore,,Asia-Pacific,China,49.5,49.5,,,Active,Acme Oil & Gas Corporation,
+Wind,83f98235b9,Onshore,,Europe,Netherlands,16.8,16.8,,,Active,Acme Oil & Gas Corporation,
+Wind,c40f124994,Onshore,,Asia-Pacific,India,0.2275,0.2275,,,Active,Acme Oil & Gas Corporation,
+Wind,c3105a5d7a,Onshore,,Asia-Pacific,India,0.3425,0.3425,,,Active,Acme Oil & Gas Corporation,
+Wind,7cbf95aad9,Onshore,,Europe,Poland,0.071,0.071,,,Active,Acme Oil & Gas Corporation,
+Wind,fa200e23e1,Onshore,,Asia-Pacific,China,42.24,,,,Partially Active,Acme Oil & Gas Corporation,
+Wind,0ccc4a0eee,Onshore,,Asia-Pacific,China,1330,,1330,,Dormant,Acme Oil & Gas Corporation,
+Wind,4abba85db3,Onshore,,Asia-Pacific,China,35.145,,35.145,,Dormant,Acme Oil & Gas Corporation,
+Wind,d5439d1762,Onshore,,Asia-Pacific,China,29.7,29.7,,,Active,Acme Oil & Gas Corporation,
+Wind,4712871723,Onshore,,Asia-Pacific,China,62.865,62.865,,,Active,Acme Oil & Gas Corporation,
+Wind,bc3a31faaf project,Onshore,,Asia-Pacific,China,39.6,39.6,,,Active,Acme Oil & Gas Corporation,
+Wind,909660dfc8,Onshore,,Asia-Pacific,China,39.105,,,,Active,Acme Oil & Gas Corporation,
+Wind,61d18d49ad,Onshore,,Asia-Pacific,China,21.34,21.34,,,Active,Acme Oil & Gas Corporation,
+Wind,ba4f61d3fd,Onshore,,Asia-Pacific,China,26.73,,26.73,,Dormant,Acme Oil & Gas Corporation,
+Wind,f6287784df,Onshore,,Asia-Pacific,China,444,,,,Active,Acme Oil & Gas Corporation,
+Wind,86e0ce339d,Onshore,,Europe,Italy,52.785,,52.785,,Dormant,Acme Oil & Gas Corporation,
+Wind,2fa071d74c,Onshore,,Asia-Pacific,China,142,,,,Under Construction,Acme Oil & Gas Corporation,
+Wind,f62cb764b4,Onshore,,Asia-Pacific,China,73.5,,73.5,,Permitting,Acme Oil & Gas Corporation,
+Wind,c5f007a74a,Onshore,,Europe,Germany,3.63,3.63,,,Active,Acme Oil & Gas Corporation,
+Wind,fe3f11cc3d,Onshore,,Asia-Pacific,India,1.125,1.125,,,Active,Acme Oil & Gas Corporation,
+Wind,480ab37d96,Onshore,,Asia-Pacific,India,1.2,1.2,,,Active,Acme Oil & Gas Corporation,
+Wind,98aa918479,Onshore,,North America,Mexico,91,91,,,Active,Acme Oil & Gas Corporation,
+Wind,07057a9af4,Onshore,,Europe,Spain,,,,,Active,Acme Oil & Gas Corporation,
+Wind,cb263ae45a,Onshore,,Europe,Spain,17.136,17.136,,,Active,Acme Oil & Gas Corporation,100
+Wind,36b9fc094d,Onshore,,North America,Canada,,,,,Active,Acme Oil & Gas Corporation,
+Wind,89ef9a3a87,Onshore,,Europe,France,14.1,14.1,,,Active,Acme Oil & Gas Corporation,
+Wind,087ec9de92,Onshore,,Europe,France,43.84,43.84,,,Active,Acme Oil & Gas Corporation,100
+Wind,a18a70649f,Onshore,,Europe,France,7.04,7.04,,,Active,Acme Oil & Gas Corporation,100
+Wind,ce369b0e87,Onshore,,Europe,France,13.3,,13.3,,Dormant,Acme Oil & Gas Corporation,
+Wind,a8ee968e5f,Onshore,,North America,Canada,62.464,,62.464,,Dormant,Acme Oil & Gas Corporation,
+Wind,eeee355416,Onshore,,Europe,France,7.48,,7.48,,Permitting,Acme Oil & Gas Corporation,
+Wind,41c7018d91,Onshore,,Europe,France,17.28,,17.28,,Permitting,Acme Oil & Gas Corporation,
+Wind,1f606071d6,Onshore,,South and Central America,Uruguay,1.888,,,,Partially Active,Acme Oil & Gas Corporation,
+Wind,05d00ab5b3,Onshore,,Europe,Greece,22.72,22.72,,,Active,Acme Oil & Gas Corporation,
+Wind,00b62a0818,Onshore,,Europe,Greece,29.04,,29.04,,Permitting,Acme Oil & Gas Corporation,
+Wind,c953249a25,Offshore,,North America,United States,1232,,,1232,Cancelled,Acme Oil & Gas Corporation,
+Wind,7823be4c86,Onshore,,Europe,Italy,8.76,8.76,,,Active,Acme Oil & Gas Corporation,
+Wind,349e60136e,Onshore,,Asia-Pacific,China,168.3,,,,Partially Active,Acme Oil & Gas Corporation,
+Wind,d6cc8c5ead,Onshore,,North America,United States,213,,213,,Under Construction,Acme Oil & Gas Corporation,
+Wind,e0b5004da5,Onshore,,Europe,United Kingdom,,,,,Active,Acme Oil & Gas Corporation,50
+Wind,a8b4c66ae5,Onshore,,Europe,United Kingdom,9.18,9.18,,,Active,Acme Oil & Gas Corporation,
+Wind,2778b422ba,Onshore,,Europe,Sweden,0.425,0.425,,,Active,Acme Oil & Gas Corporation,100
+Wind,59b120d80f center,Onshore,,North America,United States,189.63,189.63,,,Active,Acme Oil & Gas Corporation,
+Wind,dc7d7295fc,Onshore,,North America,United States,1230,,,,Permitting,Acme Oil & Gas Corporation,100
+Wind,9548f6dd86,Onshore,,Asia-Pacific,India,1.4625,1.4625,,,Active,Acme Oil & Gas Corporation,100
+Wind,fe89f0ce1f,Onshore,,Europe,Germany,11.256,,11.256,,Under Construction,Acme Oil & Gas Corporation,100
+Wind,4ec0eea049,Onshore,,Europe,France,30.24,,30.24,,Permitting,Acme Oil & Gas Corporation,
+Wind,6c7aad3281,Onshore,,Europe,Poland,47.6,47.6,,,Active,Acme Oil & Gas Corporation,
+Wind,0b1507b06c,Onshore,,Europe,Poland,23.04,23.04,,,Active,Acme Oil & Gas Corporation,
+Wind,887675ecaf,Onshore,,Europe,Poland,57.6,57.6,,,Active,Acme Oil & Gas Corporation,
+Wind,4aa657544b,Onshore,,Europe,Germany,23.2,,,,Active,Acme Oil & Gas Corporation,
+Wind,18dc0bf44e project,Onshore,,North America,United States,115.575,115.575,,,Active,Acme Oil & Gas Corporation,100
+Wind,94343e1dc9,Onshore,,Europe,United Kingdom,7.95,,7.95,,Dormant,Acme Oil & Gas Corporation,
+Wind,3345610725,Onshore,,Europe,Germany,13.728,13.728,,,Active,Acme Oil & Gas Corporation,
+Wind,61dbc2d00d,Onshore,,Europe,Russian Federation,270,,270,,Dormant,Dynamis Corporation,
+Wind,87693ddb99,Onshore,,South and Central America,Brazil,,,,,Suspended,Dynamis Corporation,98
+Wind,14be299d81,Onshore,,North America,Canada,13.44,,13.44,,Permitting,Dynamis Corporation,30
+Wind,127da391a2,Onshore,,Europe,Turkey,128.82,,,,Active,Dynamis Corporation,
+Wind,c6986fec46,Onshore,,Europe,United Kingdom,5.538,5.538,,,Active,Dynamis Corporation,100
+Wind,cf24c192e5,Onshore,,Europe,United Kingdom,,,,,Active,Dynamis Corporation,49
+Wind,60845e020d,Onshore,,South and Central America,Uruguay,61.523,,,,Active,Dynamis Corporation,100
+Wind,1808a1d09d,Onshore,,South and Central America,Argentina,118.5723,,,,Under Construction,Dynamis Corporation,
+Wind,70257daea2,Onshore,,Asia-Pacific,India,0.85,0.85,,,Active,Dynamis Corporation,100
+Wind,5e82a2e918,Onshore,,North America,United States,81.664,81.664,,,Active,Dynamis Corporation,50
+Wind,74b2d54162,Onshore,,Asia-Pacific,China,61.875,61.875,,,Active,Dynamis Corporation,
+Wind,8a8a96017b,Onshore,,Asia-Pacific,India,0.74,0.74,,,Active,Dynamis Corporation,100
+Wind,8f63dd2c34,Offshore,,Europe,Germany,205.2,,205.2,,Dormant,Dynamis Corporation,
+Wind,f73f2c7451,Onshore,,Europe,Finland,3.42,,,3.42,Cancelled,Dynamis Corporation,
+Wind,175ae65a41,Onshore,,Asia-Pacific,India,1.525,,,,Active,Dynamis Corporation,
+Wind,8303f26cc4,Onshore,,Asia-Pacific,Kazakhstan,71,,71,,Permitting,Dynamis Corporation,
+Wind,720a8f27cc,Onshore,,Asia-Pacific,India,3.36,3.36,,,Active,Dynamis Corporation,
+Wind,8213c22bb4,Onshore,,Asia-Pacific,India,0.822,0.822,,,Active,Dynamis Corporation,100
+Wind,8d2af86f35,Onshore,,Asia-Pacific,India,3.87,,,,Active,Dynamis Corporation,100
+Wind,9557c1b07d,Onshore,,North America,United States,171.7272,171.7272,,,Active,Dynamis Corporation,
+Wind,08ec9e9034,Onshore,,North America,United States,611.6766,,,,Active,Dynamis Corporation,
+Wind,06e72a515c,Onshore,,Asia-Pacific,India,2.88,2.88,,,Active,Dynamis Corporation,
+Wind,0903334af6 project,Onshore Repowered,,North America,United States,609.6628,,,,Permitting,Dynamis Corporation,
+Wind,2da776bcaa project,Onshore,,North America,United States,66.528,,66.528,,Permitting,Dynamis Corporation,
+Wind,19ecb280a6,Onshore,,Europe,Italy,0.84,0.84,,,Active,Dynamis Corporation,
+Wind,f1ae6c0257 project,Onshore,,North America,Canada,4.182,4.182,,,Active,Dynamis Corporation,
+Wind,1a1bb88f66,Onshore,,North America,United States,300.3,,,300.3,Suspended,Dynamis Corporation,
+Wind,1a7f9c8349 project,Onshore,,Europe,Austria,,,,,Active,Dynamis Corporation,34
+Wind,6ec476fd7a,Onshore,,Europe,Germany,,11.9,,,Active,Dynamis Corporation,
+Wind,0bea47e3c6,Onshore,,Europe,Turkey,2.85,,,2.85,Cancelled,Dynamis Corporation,
+Wind,d8068177f8,Onshore,,Asia-Pacific,India,0.1196,0.1196,,,Active,Dynamis Corporation,100
+Wind,18b62270bf,Onshore,,Europe,United Kingdom,5.4,,5.4,,Dormant,Dynamis Corporation,
+Wind,d291c37b5b,Onshore,,Middle East and Africa,Jordan,,,,,Active,Dynamis Corporation,19
+Wind,240c4c6cc2,Onshore,,North America,United States,34.44,34.44,,,Active,Dynamis Corporation,51
+Wind,5c18e9ffdc,Onshore,,Asia-Pacific,India,5.94,5.94,,,Active,Dynamis Corporation,100
+Wind,0b9b9814f3,Onshore,,Europe,Bulgaria,6.345,6.345,,,Active,Dynamis Corporation,100
+Wind,84f806eb5f,Onshore,,North America,United States,132,132,,,Active,Dynamis Corporation,51
+Wind,d1d654540e,Onshore,,North America,United States,136.8,,136.8,,Permitting,Dynamis Corporation,
+Wind,b8757f3673,Onshore,,Europe,Germany,2.7145,2.7145,,,Active,Dynamis Corporation,
+Wind,6734605312,Onshore,,Asia-Pacific,India,0.468,0.468,,,Active,Dynamis Corporation,100
+Wind,14be299d81,Onshore,,North America,Canada,,,,,Permitting,Dynamis Corporation,70
+Wind,25b66e6862,Onshore,,Europe,Estonia,,1.296,,,Active,Dynamis Corporation,
+Wind,55353b43b4,Onshore,,Europe,Lithuania,67.5,,67.5,,Permitting,Dynamis Corporation,100
+Wind,dbeff6ceb1,Onshore,,North America,Canada,88.938,88.938,,,Active,Dynamis Corporation,
+Wind,b588de09c5,Onshore,,Europe,Poland,8.22,,8.22,,Dormant,Dynamis Corporation,
+Wind,b98de3da93,Onshore,,South and Central America,Brazil,13.888,13.888,,,Active,Dynamis Corporation,
+Wind,cb8ed11f8b,Onshore,,Asia-Pacific,India,0.4725,0.4725,,,Active,Dynamis Corporation,100
+Wind,ac15542f29,Onshore,,Asia-Pacific,India,0.47,0.47,,,Active,Dynamis Corporation,100
+Wind,cfc54fc596,Onshore,,Europe,Poland,2.22,2.22,,,Active,Dynamis Corporation,
+Wind,dd120530e3,Onshore,,North America,United States,1.215,1.215,,,Active,Dynamis Corporation,
+Wind,0b7a9a3071,Onshore,,Europe,United Kingdom,67.8,,,67.8,Cancelled,Dynamis Corporation,
+Wind,be264aa1d2,Onshore,,Asia-Pacific,India,3.705,,,,Active,Dynamis Corporation,
+Wind,4169a673a4,Onshore,,Europe,United Kingdom,40.572,,,40.572,Suspended,Dynamis Corporation,
+Wind,bc23470ddd,Onshore,,Middle East and Africa,Syrian Arab Republic,53,,53,,Dormant,Dynamis Corporation,
+Wind,5ca57c0958,Onshore,,Europe,Belarus,21,,21,,Permitting,Dynamis Corporation,
+Wind,456b0b5463,Onshore,,Asia-Pacific,India,0.3045,0.3045,,,Active,Dynamis Corporation,100
+Wind,068a97a17a,Onshore,,Asia-Pacific,India,3.75,3.75,,,Active,Dynamis Corporation,100
+Wind,4722b92a06 project,Onshore,,Asia-Pacific,China,42.075,42.075,,,Active,Dynamis Corporation,
+Wind,4c641c7fd1,Onshore,,North America,Canada,118,,118,,Dormant,Dynamis Corporation,
+Wind,f457294585,Onshore,,North America,United States,135.135,,,135.135,Cancelled,Dynamis Corporation,
+Wind,d468c92235 project,Onshore,,North America,United States,73.8,73.8,,,Active,Dynamis Corporation,100
+Wind,a6e3767f0e,Onshore,,North America,United States,62.22,,62.22,,Dormant,Dynamis Corporation,
+Wind,8fe1f0fad9,Onshore,,Europe,Poland,,,,,Active,Dynamis Corporation,
+Wind,ad1b636305,Onshore,,Europe,Poland,,,,,Active,Dynamis Corporation,
+Wind,9ccedec242,Onshore,,North America,United States,278.834,278.834,,,Active,Dynamis Corporation,
+Wind,32a3d9465e,Onshore,,Asia-Pacific,India,1.95,1.95,,,Active,Dynamis Corporation,
+Wind,dc6ae447d6,Onshore,,Asia-Pacific,India,2.289,2.289,,,Active,Dynamis Corporation,
+Wind,4c972636a1,Onshore,,Europe,Poland,,,,,Active,Dynamis Corporation,
+Wind,1f845ca5ea,Onshore,,Europe,Poland,,,,,Active,Dynamis Corporation,
+Wind,6d926525ae,Onshore,,Asia-Pacific,India,1.491,1.491,,,Active,Dynamis Corporation,
+Wind,fae43e131e project,Onshore,,North America,United States,2660,,,2660,Cancelled,Dynamis Corporation,
+Wind,1a49512e28,Onshore,,North America,United States,,,,,Permitting,Dynamis Corporation,
+Wind,6977053caf,Onshore,,Asia-Pacific,India,3.06,3.06,,,Active,Dynamis Corporation,
+Wind,925c8b2a44,Onshore,,South and Central America,Brazil,19.929,19.929,,,Active,Dynamis Corporation,100
+Wind,68ed891205,Onshore,,North America,United States,0.99,0.99,,,Active,Dynamis Corporation,
+Wind,7c9395cac4,Onshore,,Asia-Pacific,Taiwan,60.76,,,,Active,Dynamis Corporation,
+Wind,b1aef8d87b,Onshore,,Asia-Pacific,Taiwan,3.04,3.04,,,Active,Dynamis Corporation,
+Wind,6113fd7c66,Onshore,,North America,United States,406,,,,Dormant,Dynamis Corporation,
+Wind,cef85cb540,Onshore,,Asia-Pacific,Taiwan,2.754,2.754,,,Active,Dynamis Corporation,
+Wind,9eadb5a28f,Onshore,,Asia-Pacific,Taiwan,21.6,,21.6,,Dormant,Dynamis Corporation,
+Wind,14dc0ac39e,Onshore,,Asia-Pacific,Taiwan,13.14,,13.14,,Under Construction,Dynamis Corporation,
+Wind,6f9639b165,Onshore,,North America,Canada,14.7,,14.7,,Under Construction,Dynamis Corporation,
+Wind,f4e35a5e95,Onshore,,Europe,Finland,185,,185,,Permitting,Dynamis Corporation,80
+Wind,d52ad4662e,Onshore,,Europe,France,21.4,21.4,,,Active,Dynamis Corporation,
+Wind,aec3359f14,Onshore,,Europe,France,18,18,,,Active,Dynamis Corporation,
+Wind,b3890ad618,Onshore,,North America,United States,82.77,,82.77,,Dormant,Dynamis Corporation,
+Wind,8d6c7fdfb1,Onshore,,North America,United States,73.8,,73.8,,Dormant,Dynamis Corporation,
+Wind,cb9710f793,Onshore,,Europe,Germany,14,14,,,Active,Dynamis Corporation,90
+Wind,57cef9e45a,Onshore Repowered,,Europe,Netherlands,,,,,Active,Dynamis Corporation,20
+Wind,0eea220d97,Onshore,,Middle East and Africa,Lebanon,48.0975,,48.0975,,Permitting,Dynamis Corporation,
+Wind,7ee686d9ae,Onshore,,Europe,United Kingdom,5.547,,5.547,,Permitting,Dynamis Corporation,
+Wind,0b1df0e2be,Onshore,,Asia-Pacific,India,0.5183,,,,Active,Dynamis Corporation,100
+Wind,6de1d4f145,Onshore,,Asia-Pacific,India,2.25,2.25,,,Active,Dynamis Corporation,100
+Wind,85d1660ec7,Onshore,,Europe,Spain,11.4,11.4,,,Active,Dynamis Corporation,
+Wind,a99873ec29,Onshore,,Asia-Pacific,India,0.72,0.72,,,Active,Dynamis Corporation,100
+Wind,5d3236072f,Onshore,,Asia-Pacific,India,0.752,0.752,,,Active,Dynamis Corporation,100
+Wind,10c6354554,Onshore,,Asia-Pacific,India,0.624,0.624,,,Active,Dynamis Corporation,100
+Wind,d084c18782,Onshore,,Asia-Pacific,India,0.42,0.42,,,Active,Dynamis Corporation,
+Wind,1b4badbb52 project,Onshore,,North America,United States,1081,,,,Dormant,Dynamis Corporation,
+Wind,fabbea7c99,Onshore,,North America,United States,53,,53,,Under Construction,Dynamis Corporation,
+Wind,d1a27bbd9b,Onshore,,Europe,Ireland,20.3775,,,,Active,Dynamis Corporation,
+Wind,44623e54d0,Onshore,,Europe,United Kingdom,,,,,Active,Dynamis Corporation,
+Wind,519c71daba,Onshore Repowered,,Europe,United Kingdom,,,,,Active,Dynamis Corporation,
+Wind,c2866e212e,Onshore,,Asia-Pacific,China,152.958,,,,Active,Dynamis Corporation,
+Wind,032677d8b9,Onshore,,Europe,Netherlands,47.2,,47.2,,Announced,Dynamis Corporation,
+Wind,49a97b796a,Onshore,,Europe,Spain,13.3644,,13.3644,,Permitting,Dynamis Corporation,
+Wind,4c96a8dc43,Onshore,,Asia-Pacific,India,0.774,0.774,,,Active,Dynamis Corporation,
+Wind,bd06e991ee,Onshore Repowered,,Europe,Germany,3.12,3.12,,,Active,Dynamis Corporation,100
+Wind,0f0bca6345,Onshore,,Europe,Greece,20.562,,20.562,,Dormant,Dynamis Corporation,100
+Wind,01f5a354c3,Onshore,,Europe,Germany,4.464,,,,Active,Dynamis Corporation,
+Wind,62f44d130b,Onshore,,Europe,Germany,11.16,,11.16,,Under Construction,Dynamis Corporation,
+Wind,68f6244241,Onshore,,Europe,Ireland,,,,,Active,Dynamis Corporation,50
+Wind,8e825838e1,Onshore,,Europe,Ireland,,,,,Active,Dynamis Corporation,50
+Wind,654afbf68c,Onshore,,Europe,Ireland,26.52,,,,Partially Active,Dynamis Corporation,
+Wind,9f8fdbdc65,Onshore,,Europe,Turkey,36.9,,,36.9,Cancelled,Dynamis Corporation,
+Wind,f926907b3b,Onshore,,Europe,France,35.28,35.28,,,Active,Dynamis Corporation,
+Wind,3cc146dd95,Onshore,,Europe,France,35.904,,,,Active,Dynamis Corporation,
+Wind,13969a3dbf project,Offshore,,Asia-Pacific,Republic of Korea,252,,252,,Announced,Dynamis Corporation,
+Wind,54db404e2d,Offshore,,Europe,Germany,,,,,Active,Dynamis Corporation,25
+Wind,1bc0fcb264,Offshore,,Europe,United Kingdom,,,,,Active,Dynamis Corporation,35
+Wind,50234da976,Onshore,,North America,United States,179.63,179.63,,,Active,Dynamis Corporation,
+Wind,7b86e3a2b4,Onshore,,North America,United States,411,,411,,Permitting,Dynamis Corporation,100
+Wind,3faa6e0c55,Onshore,,North America,United States,171,171,,,Active,Dynamis Corporation,
+Wind,5b46fad23e,Offshore,,Europe,Spain,160,,160,,Announced,Dynamis Corporation,
+Wind,2dce1ea426,Onshore,,Europe,Germany,,26.565,,,Active,Dynamis Corporation,
+Wind,f2e56dbf78,Onshore,,North America,United States,6.3,,,6.3,Decommissioned,Dynamis Corporation,100
+Wind,84a66ae4fd,Onshore,,Asia-Pacific,India,2.166,,,,Active,Dynamis Corporation,100
+Wind,5ba2a8b83f,Onshore,,Asia-Pacific,Kazakhstan,,,26.5,,Dormant,Dynamis Corporation,
+Wind,6f9aa1d7cb,Onshore,,Asia-Pacific,China,43.68,,43.68,,Dormant,Dynamis Corporation,
+Wind,c25936d5d6,Onshore,,Europe,Ireland,55.632,,55.632,,Permitting,Dynamis Corporation,
+Wind,bd04cb1b8d,Onshore,,Asia-Pacific,India,0.728,0.728,,,Active,Dynamis Corporation,100
+Wind,b1ed224a3d,Onshore,,Europe,United Kingdom,2.538,2.538,,,Active,Dynamis Corporation,
+Wind,61aa872a89,Onshore,,Europe,United Kingdom,1.7,1.7,,,Active,Dynamis Corporation,
+Wind,cbca4ef4d6,Onshore,,Europe,Portugal,0.402,0.402,,,Active,Dynamis Corporation,51.66
+Wind,fcc0423f74,Onshore,,Europe,Spain,7.038,7.038,,,Active,Dynamis Corporation,100
+Wind,14e33ad710,Onshore,,Europe,United Kingdom,0.4,0.4,,,Active,Dynamis Corporation,
+Wind,cb5b3451fd,Onshore,,Europe,Bulgaria,17.01,17.01,,,Active,Dynamis Corporation,
+Wind,e572217153,Onshore,,Asia-Pacific,India,1.275,1.275,,,Active,Dynamis Corporation,100
+Wind,b7286a1cd3,Onshore,,Europe,Italy,17.0085,,,,Active,Dynamis Corporation,
+Wind,04ef2ebcc1,Onshore,,Europe,United Kingdom,4.2,4.2,,,Active,Dynamis Corporation,
+Wind,26cfc6c868,Onshore,,Europe,Luxembourg,5.44,5.44,,,Active,Dynamis Corporation,
+Wind,00dee400c3,Onshore,,Asia-Pacific,Pakistan,43,,43,,Permitting,Dynamis Corporation,
+Wind,fa32b668ef,Onshore,,Europe,Hungary,29.646,,,,Partially Active,Dynamis Corporation,
+Wind,c8dd8c457c,Onshore,,Asia-Pacific,India,0.5625,,,,Active,Dynamis Corporation,100
+Wind,7c8125bd7d,Onshore,,Asia-Pacific,India,47.46,,,,Active,Dynamis Corporation,
+Wind,8960eb6f95,Onshore,,Asia-Pacific,India,57.456,,,,Active,Dynamis Corporation,
+Wind,824ca14f91,Onshore,,Asia-Pacific,India,63.504,63.504,,,Active,Dynamis Corporation,
+Wind,b98cd43c91,Onshore,,Asia-Pacific,India,73.26,,,,Active,Dynamis Corporation,
+Wind,11f1702ea3,Onshore,,Europe,Turkey,13,,,13,Cancelled,Dynamis Corporation,
+Wind,90789ebddb project,Onshore,,Europe,Azerbaijan,102.12,,102.12,,Announced,Dynamis Corporation,
+Wind,0d470bcfb7,Onshore,,Asia-Pacific,India,0.69,0.69,,,Active,Dynamis Corporation,100
+Wind,db28237085,Onshore,,South and Central America,Brazil,39.48,,39.48,,Permitting,Dynamis Corporation,
+Wind,7ac2855888,Onshore,,South and Central America,Costa Rica,17.4675,17.4675,,,Active,Dynamis Corporation,
+Wind,2224cc7acb,Onshore,,Europe,Germany,10.416,,10.416,,Dormant,Dynamis Corporation,
+Wind,fb604cceac,Onshore,,Europe,Turkey,30.3,,,30.3,Cancelled,Dynamis Corporation,
+Wind,da1aea5405,Onshore,,Europe,Sweden,1.139,1.139,,,Active,Dynamis Corporation,100
+Wind,1e43c5fa97,Onshore,,Asia-Pacific,India,0.81,,,,Active,Dynamis Corporation,100
+Wind,081d107196,Onshore,,Europe,United Kingdom,57.057,57.057,,,Active,Dynamis Corporation,
+Wind,6a4276f50f,Onshore,,Europe,United Kingdom,0.33,0.33,,,Active,Dynamis Corporation,
+Wind,b70debc577,Onshore,,Europe,United Kingdom,0.2475,0.2475,,,Active,Dynamis Corporation,
+Wind,5eb9a81b3c,Onshore,,Asia-Pacific,India,0.84,0.84,,,Active,Dynamis Corporation,100
+Wind,d006e5dee8,Onshore,,Asia-Pacific,Pakistan,59,59,,,Active,Dynamis Corporation,
+Wind,675f61fbac,Onshore,,South and Central America,Peru,135.36,,135.36,,Dormant,Dynamis Corporation,
+Wind,50f7c61527,Onshore,,Asia-Pacific,India,0.438,0.438,,,Active,Dynamis Corporation,100
+Wind,b51f0e3547,Onshore,,Europe,Turkey,24.4,,,24.4,Cancelled,Dynamis Corporation,
+Wind,9dcfcdee0e,Onshore,,Europe,Turkey,20.7,,,20.7,Cancelled,Dynamis Corporation,
+Wind,891bb8257f,Onshore,,Europe,United Kingdom,11.64,,,11.64,Suspended,Dynamis Corporation,
+Wind,34300a2203,Onshore,,Europe,Ireland,3.186,3.186,,,Active,Dynamis Corporation,
+Wind,3f0a019701,Onshore,,Asia-Pacific,India,9.9,9.9,,,Active,Dynamis Corporation,100
+Wind,8ed56c8408,Onshore,,Asia-Pacific,India,10.71,10.71,,,Active,Dynamis Corporation,100
+Wind,e3c8482e71,Onshore,,Asia-Pacific,India,1.056,1.056,,,Active,Dynamis Corporation,
+Wind,58804eeefc,Onshore,,Asia-Pacific,India,0.39,0.39,,,Active,Dynamis Corporation,100
+Wind,48606fba54 project,Onshore,,North America,United States,4.389,4.389,,,Active,Dynamis Corporation,
+Wind,9f5336f199,Onshore,,Europe,France,5.9,5.9,,,Active,Dynamis Corporation,
+Wind,13114339b9,Onshore,,Asia-Pacific,New Zealand,30,,30,,Permitting,Dynamis Corporation,
+Wind,ee8706e045,Onshore,,North America,United States,214.5,,,214.5,Cancelled,Dynamis Corporation,
+Wind,e93a88f5b9,Onshore,,Europe,Spain,33.32,33.32,,,Active,Dynamis Corporation,50
+Wind,82d855bf3f,Onshore,,Europe,Spain,21.12,21.12,,,Active,Dynamis Corporation,100
+Wind,3fe40dd119,Onshore,,Europe,Spain,25.272,,,,Active,Dynamis Corporation,100
+Wind,980ba2f99b,Onshore,,Europe,Spain,7.08,7.08,,,Active,Dynamis Corporation,100
+Wind,9e4f07132d,Onshore,,Europe,Spain,12.48,12.48,,,Active,Dynamis Corporation,100
+Wind,67b404c57c,Onshore,,Europe,Spain,9.18,9.18,,,Active,Dynamis Corporation,100
+Wind,b90291d0c2,Onshore,,Europe,Spain,28.35,28.35,,,Active,Dynamis Corporation,50
+Wind,38e6f688d0,Onshore,,Europe,Spain,26.235,26.235,,,Active,Dynamis Corporation,50
+Wind,a291bd1a92,Onshore,,Europe,Spain,30.012,30.012,,,Active,Dynamis Corporation,
+Wind,4e253eb382,Onshore,,North America,United States,78,,78,,Dormant,Dynamis Corporation,
+Wind,d8e77f4ee5,Onshore,,Europe,Spain,36.04,36.04,,,Active,Dynamis Corporation,
+Wind,e1f4f3b9d3,Onshore,,Europe,Spain,44.94,44.94,,,Active,Dynamis Corporation,100
+Wind,783fdc8927,Onshore,,Europe,Spain,37.44,37.44,,,Active,Dynamis Corporation,50
+Wind,3734dd4e72,Onshore,,Europe,United Kingdom,0.585,0.585,,,Active,Dynamis Corporation,
+Wind,2e064f6687,Onshore,,Europe,Ireland,62.016,,62.016,,Permitting,Dynamis Corporation,
+Wind,1a7f9c8349 project,Onshore,,Europe,Austria,,10.05,,,Active,Dynamis Corporation,65
+Wind,1a7f9c8349 project,Onshore,,Europe,Austria,,16.08,,,Active,Dynamis Corporation,51
+Wind,1a7f9c8349 project,Onshore,,Europe,Austria,,2.747,,,Active,Dynamis Corporation,100
+Wind,3c349d2e7b,Onshore,,Asia-Pacific,India,0.8775,0.8775,,,Active,Dynamis Corporation,100
+Wind,45f8f95ed8,Onshore,,North America,Canada,24.4,,,,Dormant,Dynamis Corporation,50
+Wind,044c48c11b,Onshore,,North America,Canada,3.348,,,3.348,Cancelled,Dynamis Corporation,
+Wind,fc3230ca5d,Onshore,,Europe,Norway,22.95,,22.95,,Permitting,Dynamis Corporation,
+Wind,0febae9787,Onshore,,Europe,Norway,102.3,,,102.3,Cancelled,Dynamis Corporation,
+Wind,c4d88653bb,Onshore,,Europe,Germany,7.5,,7.5,,Dormant,Dynamis Corporation,100
+Wind,4a2278a4ec,Onshore,,Europe,Germany,,,3.63,,Dormant,Dynamis Corporation,
+Wind,4a2278a4ec,Onshore,,Europe,Germany,,,10.89,,Dormant,Dynamis Corporation,
+Wind,a0596b4b23,Onshore,,Europe,Germany,6.4,6.4,,,Active,Dynamis Corporation,
+Wind,5ebcfa83a2,Onshore,,Asia-Pacific,India,0.8125,0.8125,,,Active,LexCorp Energy Enterprises,
+Wind,2745bddbdc facility,Onshore,,Middle East and Africa,South Africa,166.6,,166.6,,Permitting,LexCorp Energy Enterprises,
+Wind,2553fcd8e1,Onshore,,Asia-Pacific,India,3.78,3.78,,,Active,LexCorp Energy Enterprises,
+Wind,3e92270043,Onshore,,Asia-Pacific,India,1.275,1.275,,,Active,LexCorp Energy Enterprises,
+Wind,7312fe8e7c,Onshore,,Europe,Finland,57.24,57.24,,,Active,LexCorp Energy Enterprises,
+Wind,e2efe733b3,Onshore,,Europe,Finland,27.72,27.72,,,Active,LexCorp Energy Enterprises,
+Wind,a244cd1c84,Onshore,,Europe,United Kingdom,33.75,,,33.75,Suspended,LexCorp Energy Enterprises,
+Wind,3bdb5ef47c,Onshore,,Europe,Germany,15.62,15.62,,,Active,LexCorp Energy Enterprises,100
+Wind,3097c5652f,Onshore,,Europe,Germany,17.78,,,,Active,LexCorp Energy Enterprises,67
+Wind,117c654561,Onshore,,Europe,Germany,14.3,,,,Active,LexCorp Energy Enterprises,67
+Wind,f89a38466b,Onshore,,Asia-Pacific,India,0.744,,,,Active,LexCorp Energy Enterprises,100
+Wind,0fc307d933,Onshore,,South and Central America,Brazil,,,,,Active,LexCorp Energy Enterprises,60
+Wind,495b8d9a5d,Onshore,,South and Central America,Brazil,22.344,22.344,,,Active,LexCorp Energy Enterprises,
+Wind,72b8bf6b5d,Onshore,,South and Central America,Brazil,43.953,,43.953,,Permitting,LexCorp Energy Enterprises,
+Wind,02186aa552,Onshore,,South and Central America,Brazil,26.7,,26.7,,Permitting,LexCorp Energy Enterprises,
+Wind,580218fedf,Offshore,,Europe,Finland,,,,,Cancelled,LexCorp Energy Enterprises,
+Wind,56de976bd8,Onshore,,South and Central America,Brazil,37.8,,37.8,,Dormant,LexCorp Energy Enterprises,
+Wind,d98206d5e9,Onshore,,South and Central America,Brazil,34.9965,,34.9965,,Under Construction,LexCorp Energy Enterprises,100
+Wind,f6149b2b45,Onshore,,South and Central America,Brazil,47.117,,47.117,,Permitting,LexCorp Energy Enterprises,100
+Wind,938cac7f59,Onshore,,South and Central America,Brazil,43.065,,43.065,,Permitting,LexCorp Energy Enterprises,
+Wind,db8a3968f8,Onshore,,South and Central America,Brazil,15.3,,15.3,,Dormant,LexCorp Energy Enterprises,
+Wind,1a7f9c8349 project,Onshore,,Europe,Austria,,,,,Active,LexCorp Energy Enterprises,35
+Wind,1a7f9c8349 project,Onshore,,Europe,Austria,,,,,Active,LexCorp Energy Enterprises,15
+Wind,7ef9a98008,Onshore,,Asia-Pacific,India,0.3289,0.3289,,,Active,LexCorp Energy Enterprises,100
+Wind,a8af60cbb8,Onshore,,Europe,Portugal,7.371,7.371,,,Active,LexCorp Energy Enterprises,100
+Wind,2d6a22e813,Onshore,,Europe,Spain,,,,,Active,LexCorp Energy Enterprises,31
+Wind,f3dec8ba51,Onshore,,Europe,Spain,33.36,33.36,,,Active,LexCorp Energy Enterprises,100
+Wind,cfa86ef691,Onshore,,Europe,Spain,7.524,7.524,,,Active,LexCorp Energy Enterprises,
+Wind,6e8a28f810,Onshore,,Europe,Spain,17.52,17.52,,,Active,LexCorp Energy Enterprises,100
+Wind,aadba2dfdc,Onshore,,Europe,Spain,15.309,,,,Active,LexCorp Energy Enterprises,65
+Wind,ec616d06cb,Onshore,,Europe,Spain,11.5236,11.5236,,,Active,LexCorp Energy Enterprises,50
+Wind,cc61241cd1,Onshore,,Europe,Spain,21.125,21.125,,,Active,LexCorp Energy Enterprises,100
+Wind,27ae6bd200,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,51
+Wind,dd114ade33,Onshore,,Europe,Spain,17.4,17.4,,,Active,LexCorp Energy Enterprises,100
+Wind,a10e9e6ea9,Onshore,,Europe,Spain,36.9,36.9,,,Active,LexCorp Energy Enterprises,100
+Wind,4cef2163cf,Onshore,,North America,United States,104.86,104.86,,,Active,LexCorp Energy Enterprises,
+Wind,b544bfb660,Onshore,,Europe,France,,23.22,,,Active,LexCorp Energy Enterprises,
+Wind,b544bfb660,Onshore,,Europe,France,,15.48,,,Active,LexCorp Energy Enterprises,51
+Wind,bb35378d9f,Onshore,,Europe,Spain,17.52,17.52,,,Active,LexCorp Energy Enterprises,51
+Wind,cd16e8b9c1,Onshore,,Europe,Spain,63.855,63.855,,,Active,LexCorp Energy Enterprises,50
+Wind,612749d467,Onshore,,Middle East and Africa,South Africa,127.323,,127.323,,Under Construction,LexCorp Energy Enterprises,51
+Wind,96c4d84070,Onshore,,Europe,Turkey,37.24,,,,Permitting,LexCorp Energy Enterprises,
+Wind,84dcdfd548,Onshore,,North America,United States,65.016,,65.016,,Under Construction,LexCorp Energy Enterprises,
+Wind,25b66e6862,Onshore,,Europe,Estonia,,0.648,,,Active,LexCorp Energy Enterprises,
+Wind,2b636a4149,Onshore,,Asia-Pacific,India,0.624,0.624,,,Active,LexCorp Energy Enterprises,100
+Wind,8cfa807eeb,Onshore,,Asia-Pacific,India,5.5854,,,,Active,LexCorp Energy Enterprises,100
+Wind,1542e46369,Onshore,,North America,Canada,426.25,,,,Cancelled,LexCorp Energy Enterprises,
+Wind,6b9277b6c5,Onshore,,Asia-Pacific,India,0.6545,0.6545,,,Active,LexCorp Energy Enterprises,
+Wind,ab32ab3648,Onshore,,Europe,Italy,17.4,,17.4,,Permitting,LexCorp Energy Enterprises,
+Wind,9bc7ba5cb6,Onshore,,Europe,United Kingdom,112.608,,,,Active,LexCorp Energy Enterprises,
+Wind,54671c952c,Onshore,,Europe,United Kingdom,96,,,96,Cancelled,LexCorp Energy Enterprises,
+Wind,e45f1f7e78,Onshore,,Europe,Serbia,168.99,,168.99,,Dormant,LexCorp Energy Enterprises,
+Wind,5fa73107e3,Onshore,,Europe,Spain,23.75,,23.75,,Permitting,LexCorp Energy Enterprises,
+Wind,edbb88d833,Onshore,,Asia-Pacific,India,0.275,0.275,,,Active,LexCorp Energy Enterprises,100
+Wind,2920106c9f,Onshore,,Europe,United Kingdom,8.91,,8.91,,Dormant,LexCorp Energy Enterprises,
+Wind,8e67bb633e,Onshore,,Europe,United Kingdom,11.799,,,11.799,Suspended,LexCorp Energy Enterprises,
+Wind,8e49a0b02b,Onshore,,North America,United States,133,,133,,Dormant,LexCorp Energy Enterprises,
+Wind,4c4c4aff15,Onshore,,North America,United States,107,,107,,Dormant,LexCorp Energy Enterprises,
+Wind,c13c32c367 power plant,Onshore,,Asia-Pacific,Japan,,,,,Active,LexCorp Energy Enterprises,
+Wind,1ff320dbb3,Onshore,,Europe,Bosnia and Herzegovina,72.27,,72.27,,Permitting,LexCorp Energy Enterprises,
+Wind,55b08d7007,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,cf515daa8a,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,15c5c1171b,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,add66d6e0a,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,4bf8a01538,Onshore,,Europe,Germany,31.32,31.32,,,Active,LexCorp Energy Enterprises,
+Wind,31dcf3ea76,Onshore,,Asia-Pacific,India,2.45,2.45,,,Active,LexCorp Energy Enterprises,100
+Wind,a4a95df39d,Onshore,,North America,United States,0.6666,0.6666,,,Active,LexCorp Energy Enterprises,100
+Wind,eab902984e,Onshore,,Europe,Austria,2.484,2.484,,,Active,LexCorp Energy Enterprises,
+Wind,84d102d4f2,Onshore,,Europe,Austria,7.56,7.56,,,Active,LexCorp Energy Enterprises,
+Wind,50587c327f,Onshore,,Europe,Austria,3.2,,,,Active,LexCorp Energy Enterprises,
+Wind,00f7fad6ab,Onshore,,Europe,France,10.44,10.44,,,Active,LexCorp Energy Enterprises,
+Wind,a236670683,Onshore,,Europe,Greece,8.046,,8.046,,Permitting,LexCorp Energy Enterprises,
+Wind,1967ed5501,Onshore,,Europe,United Kingdom,3.8,3.8,,,Active,LexCorp Energy Enterprises,
+Wind,7eb64d7080,Onshore,,Europe,Greece,45.57,,45.57,,Permitting,LexCorp Energy Enterprises,
+Wind,afe3b283aa,Onshore,,Asia-Pacific,India,0.1771,0.1771,,,Active,LexCorp Energy Enterprises,100
+Wind,fd786c0051,Onshore,,Europe,Sweden,,,,,Under Construction,LexCorp Energy Enterprises,20
+Wind,0b86b8952a,Onshore,,North America,United States,2.226,2.226,,,Active,LexCorp Energy Enterprises,
+Wind,6cabb45f37,Onshore,,North America,United States,13.959,13.959,,,Active,LexCorp Energy Enterprises,
+Wind,a38e629961,Onshore,,North America,United States,5.775,5.775,,,Active,LexCorp Energy Enterprises,
+Wind,81a7ca472f,Onshore,,Asia-Pacific,India,0.612,0.612,,,Active,LexCorp Energy Enterprises,
+Wind,86c5f102d5,Onshore,,Asia-Pacific,Japan,,,,,Active,LexCorp Energy Enterprises,35
+Wind,baf38c10fd,Onshore,,North America,United States,7.1,7.1,,,Active,LexCorp Energy Enterprises,
+Wind,8e301808b8,Onshore,,Europe,Finland,33.12,,33.12,,Permitting,LexCorp Energy Enterprises,
+Wind,7da7fb9330,Onshore,,Europe,Germany,8.475,8.475,,,Active,LexCorp Energy Enterprises,
+Wind,4e253eb382,Onshore,,North America,United States,,,,,Dormant,LexCorp Energy Enterprises,
+Wind,1604f317ef,Onshore,,Europe,Romania,0.0468,0.0468,,,Active,LexCorp Energy Enterprises,
+Wind,ff4496f935,Onshore,,Asia-Pacific,India,0.35,0.35,,,Active,LexCorp Energy Enterprises,100
+Wind,cd8bd35683,Onshore,,Europe,Spain,19.875,19.875,,,Active,LexCorp Energy Enterprises,
+Wind,2ce64036c6 facility,Onshore,,North America,United States,275.082,,275.082,,Under Construction,LexCorp Energy Enterprises,
+Wind,88863f3235,Onshore,,South and Central America,Brazil,8.976,8.976,,,Active,LexCorp Energy Enterprises,100
+Wind,a8ef7e212c project,Onshore,,Europe,Russian Federation,179.816,,,,Under Construction,LexCorp Energy Enterprises,
+Wind,b387e4af68,Onshore,,South and Central America,Brazil,31.28,31.28,,,Active,LexCorp Energy Enterprises,49
+Wind,1c08c966b0,Onshore,,South and Central America,Brazil,20.23,20.23,,,Active,LexCorp Energy Enterprises,49
+Wind,843bad2ed2,Onshore,,Asia-Pacific,India,1.85,1.85,,,Active,LexCorp Energy Enterprises,
+Wind,3f6b601218,Onshore,,South and Central America,Brazil,39.48,39.48,,,Active,LexCorp Energy Enterprises,100
+Wind,236fac8d16,Onshore,,Asia-Pacific,India,0.552,0.552,,,Active,LexCorp Energy Enterprises,100
+Wind,0765bba395,Onshore,,Asia-Pacific,Australia,34.65,,34.65,,Permitting,LexCorp Energy Enterprises,
+Wind,2747331b24,Onshore,,Asia-Pacific,India,0.822,0.822,,,Active,LexCorp Energy Enterprises,
+Wind,91f1517b80,Onshore,,Asia-Pacific,India,4.726,4.726,,,Active,LexCorp Energy Enterprises,
+Wind,5b694dd46e,Onshore,,Europe,United Kingdom,42,42,,,Active,LexCorp Energy Enterprises,51
+Wind,320f6317d5,Onshore,,Asia-Pacific,India,0.145,0.145,,,Active,LexCorp Energy Enterprises,100
+Wind,285db435b1 project,Onshore,,North America,United States,500,,500,,Dormant,LexCorp Energy Enterprises,
+Wind,1de348b4a8,Onshore,,Europe,Montenegro,,,,,Permitting,LexCorp Energy Enterprises,
+Wind,aae3db0f62,Onshore,,Asia-Pacific,Japan,1.6185,1.6185,,,Active,LexCorp Energy Enterprises,
+Wind,f4e35a5e95,Onshore,,Europe,Finland,,,,,Permitting,LexCorp Energy Enterprises,20
+Wind,cd017c5767,Onshore,,Europe,Finland,61.05,,,,Permitting,LexCorp Energy Enterprises,
+Wind,d1d5deaddb,Onshore,,Asia-Pacific,Japan,0.7155,0.7155,,,Active,LexCorp Energy Enterprises,
+Wind,f0bea86752,Onshore,,North America,Mexico,63.02,,,63.02,Suspended,LexCorp Energy Enterprises,
+Wind,31d135b076,Onshore,,Asia-Pacific,Japan,13.832,13.832,,,Active,LexCorp Energy Enterprises,
+Wind,67c6f6d850 project,Onshore,,North America,Mexico,153.6,,153.6,,Dormant,LexCorp Energy Enterprises,
+Wind,299d2fd5c8,Onshore,,North America,Mexico,88.8,,88.8,,Dormant,LexCorp Energy Enterprises,
+Wind,38ba2f39b6,Onshore,,North America,Mexico,61.2,,61.2,,Dormant,LexCorp Energy Enterprises,
+Wind,ad903bc9f9,Onshore,,South and Central America,Brazil,40.749,,40.749,,Permitting,LexCorp Energy Enterprises,
+Wind,449f5614a0,Onshore,,Europe,Sweden,0.186,0.186,,,Active,LexCorp Energy Enterprises,
+Wind,1bd05a4c18,Onshore,,Asia-Pacific,India,0.2343,0.2343,,,Active,LexCorp Energy Enterprises,100
+Wind,5acdcef38a,Onshore,,Asia-Pacific,Japan,1.035,,,1.035,Decommissioned,LexCorp Energy Enterprises,
+Wind,120824d948,Onshore,,Middle East and Africa,Egypt,110.4,110.4,,,Active,LexCorp Energy Enterprises,
+Wind,b2ea992a20,Offshore,,Asia-Pacific,Japan,,,,,Announced,LexCorp Energy Enterprises,
+Wind,0e2a237ed8,Onshore,,Asia-Pacific,China,185.472,,185.472,,Permitting,LexCorp Energy Enterprises,
+Wind,8dffa26eed,Onshore,,Asia-Pacific,India,3.125,3.125,,,Active,LexCorp Energy Enterprises,100
+Wind,57363d830e,Onshore,,Europe,Spain,0.2925,0.2925,,,Active,LexCorp Energy Enterprises,
+Wind,2e2cddfe64,Onshore,,Europe,Romania,7.107,,7.107,,Dormant,LexCorp Energy Enterprises,
+Wind,805535751f,Onshore,,Europe,Sweden,6.9,6.9,,,Active,LexCorp Energy Enterprises,
+Wind,f73bb46777,Onshore,,Europe,Sweden,8.58,8.58,,,Active,LexCorp Energy Enterprises,
+Wind,7d1a90954c,Onshore,,Europe,Poland,61.5,,,,Permitting,LexCorp Energy Enterprises,
+Wind,4b639fef91,Onshore,,South and Central America,Brazil,19.25,19.25,,,Active,LexCorp Energy Enterprises,100
+Wind,8617091b29,Onshore,,South and Central America,Brazil,11.2,11.2,,,Active,LexCorp Energy Enterprises,100
+Wind,f1669a702d,Onshore,,South and Central America,Brazil,17.8,17.8,,,Active,LexCorp Energy Enterprises,100
+Wind,52e62f687f,Onshore,,South and Central America,Brazil,35.5,35.5,,,Active,LexCorp Energy Enterprises,
+Wind,f19aaa46ea,Onshore,,South and Central America,Brazil,16.1,16.1,,,Active,LexCorp Energy Enterprises,100
+Wind,b6ef436e1c,Onshore,,South and Central America,Brazil,17.523,17.523,,,Active,LexCorp Energy Enterprises,100
+Wind,a3e05dbd93,Onshore,,South and Central America,Brazil,24.231,,24.231,,Permitting,LexCorp Energy Enterprises,
+Wind,63bc2b92d7 project,Onshore,,South and Central America,Brazil,1.596,1.596,,,Active,LexCorp Energy Enterprises,100
+Wind,bad95b97e6,Onshore,,South and Central America,Brazil,21.756,,21.756,,Permitting,LexCorp Energy Enterprises,99.99
+Wind,83544be5be,Onshore,,South and Central America,Argentina,61.0305,61.0305,,,Active,LexCorp Energy Enterprises,
+Wind,6d0a53dc76,Onshore,,Asia-Pacific,India,0.3225,0.3225,,,Active,LexCorp Energy Enterprises,
+Wind,60d18e39b8,Onshore,,Asia-Pacific,India,0.36,0.36,,,Active,LexCorp Energy Enterprises,
+Wind,81bb9a1841,Onshore,,Asia-Pacific,India,0.705,0.705,,,Active,LexCorp Energy Enterprises,
+Wind,9f06b9a348,Onshore,,Middle East and Africa,Namibia,31.5,,31.5,,Permitting,LexCorp Energy Enterprises,
+Wind,261dedfc53,Onshore,,South and Central America,Brazil,33.75,,33.75,,Permitting,LexCorp Energy Enterprises,
+Wind,171c13dc7f,Onshore,,Europe,Sweden,0.744,0.744,,,Active,LexCorp Energy Enterprises,
+Wind,89f4821b5c,Onshore,,Asia-Pacific,India,0.5004,0.5004,,,Active,LexCorp Energy Enterprises,100
+Wind,90bda17728 power plant,Onshore,,Asia-Pacific,China,,,,,Decommissioned,LexCorp Energy Enterprises,55
+Wind,6.87E+15,Onshore,,Asia-Pacific,China,25.245,,,,Partially Active,LexCorp Energy Enterprises,
+Wind,71a1ee203a project,Onshore,,Asia-Pacific,India,262.5,,262.5,,Permitting,LexCorp Energy Enterprises,
+Wind,1f927775a1,Onshore,,North America,United States,581.025,,,,Active,LexCorp Energy Enterprises,100
+Wind,69453b7024,Onshore,,Asia-Pacific,India,1.425,1.425,,,Active,LexCorp Energy Enterprises,100
+Wind,d5e6721b05,Onshore,,North America,United States,,,,,Active,LexCorp Energy Enterprises,50
+Wind,d5e6721b05,Onshore,,North America,United States,,164.3936,,,Active,LexCorp Energy Enterprises,100
+Wind,d5e6721b05,Onshore,,North America,United States,,,153.7336,,Dormant,LexCorp Energy Enterprises,
+Wind,26eacc36d7,Onshore,,Asia-Pacific,Mongolia,183,,,,Partially Active,LexCorp Energy Enterprises,
+Wind,6de777b6e6,Onshore,,North America,United States,266,,266,,Announced,LexCorp Energy Enterprises,
+Wind,1292bbf30a,Onshore,,Asia-Pacific,India,1.455,1.455,,,Active,LexCorp Energy Enterprises,100
+Wind,f669a123ff,Onshore,,Europe,Turkey,159.6,,,159.6,Cancelled,LexCorp Energy Enterprises,
+Wind,deb6bfa33d,Onshore,,Europe,Finland,1.16,1.16,,,Active,LexCorp Energy Enterprises,
+Wind,6249f0c130,Onshore,,Europe,Spain,,,,,Active,LexCorp Energy Enterprises,
+Wind,d4020288bc,Onshore,,Asia-Pacific,India,15.54,,,,Active,LexCorp Energy Enterprises,100
+Wind,ce810fa623,Onshore,,Asia-Pacific,India,74.5,74.5,,,Active,LexCorp Energy Enterprises,
+Wind,33abd4183d,Onshore,,Asia-Pacific,India,2.475,2.475,,,Active,LexCorp Energy Enterprises,100
+Wind,3d4200b77f,Onshore,,Asia-Pacific,India,1.5125,1.5125,,,Active,LexCorp Energy Enterprises,100
+Wind,dc3f28a926 project,Onshore,,Asia-Pacific,Philippines,133.5,,133.5,,Permitting,LexCorp Energy Enterprises,
+Wind,1fcab4772b,Onshore,,Europe,Sweden,0.2737,0.2737,,,Active,LexCorp Energy Enterprises,
+Wind,5be9fcd2a1,Onshore,,Asia-Pacific,India,1.608,1.608,,,Active,LexCorp Energy Enterprises,
+Wind,98aa918479,Onshore,,North America,Mexico,,,,,Active,LexCorp Energy Enterprises,
+Wind,68fe5444e0,Onshore,,Europe,Serbia,,,,,Permitting,LexCorp Energy Enterprises,50
+Wind,b6f2302f28,Onshore,,South and Central America,Brazil,49.56,,49.56,,Permitting,LexCorp Energy Enterprises,100
+Wind,cf24c192e5,Onshore,,Europe,United Kingdom,47.656,47.656,,,Active,LexCorp Energy Enterprises,51
+Wind,a9a092f236,Onshore,,Asia-Pacific,India,2.205,,,,Active,LexCorp Energy Enterprises,100
+Wind,dba7afc88d,Onshore,,Europe,United Kingdom,6.9,6.9,,,Active,LexCorp Energy Enterprises,
+Wind,9ae0aac847,Onshore,,Asia-Pacific,India,0.784,0.784,,,Active,LexCorp Energy Enterprises,
+Wind,23175009b3,Onshore,,Asia-Pacific,India,1.064,1.064,,,Active,LexCorp Energy Enterprises,100
+Wind,454af6b053,Onshore Repowered,,North America,United States,28.67,,28.67,,Under Construction,LexCorp Energy Enterprises,60
+Wind,cba4498fe4 project,Onshore,,North America,United States,490,,,490,Cancelled,LexCorp Energy Enterprises,
+Wind,5decadb0a7,Onshore,,Europe,Sweden,0.765,0.765,,,Active,LexCorp Energy Enterprises,
+Wind,46b9ccdc44,Onshore,,Asia-Pacific,India,0.2275,0.2275,,,Active,LexCorp Energy Enterprises,100
+Wind,995733fc39,Onshore,,South and Central America,Panama,144,,144,,Dormant,LexCorp Energy Enterprises,
+Wind,fa3ba96b57,Onshore,,North America,United States,,,61.446,,Permitting,LexCorp Energy Enterprises,
+Wind,fa3ba96b57,Onshore,,North America,United States,,,119.504,,Permitting,LexCorp Energy Enterprises,
+Wind,f5c978c195,Onshore,,South and Central America,Brazil,11.3128,11.3128,,,Active,LexCorp Energy Enterprises,99.99
+Wind,9196c6a47e,Onshore,,South and Central America,Brazil,10.2925,10.2925,,,Active,LexCorp Energy Enterprises,99.99
+Wind,886f0c5f7f,Onshore,,South and Central America,Brazil,17.7,17.7,,,Active,LexCorp Energy Enterprises,49
+Wind,f9da3f7379,Onshore,,South and Central America,Brazil,17.76,,17.76,,Permitting,LexCorp Energy Enterprises,
+Wind,9f720c7c8e,Onshore,,Asia-Pacific,India,1.56,1.56,,,Active,LexCorp Energy Enterprises,100
+Wind,69891dd389,Onshore,,Europe,Sweden,0.666,0.666,,,Active,LexCorp Energy Enterprises,100
+Wind,71358ce5b9,Onshore,,Asia-Pacific,India,0.52,0.52,,,Active,LexCorp Energy Enterprises,100
+Wind,e1c14970ef,Onshore,,North America,United States,0.123,0.123,,,Active,LexCorp Energy Enterprises,
+Wind,18599bd6f5,Onshore,,Asia-Pacific,India,0.468,0.468,,,Active,LexCorp Energy Enterprises,
+Wind,f941e1b73e,Onshore,,Europe,France,9.6,,,,Active,LexCorp Energy Enterprises,
+Wind,9cf9aefc39,Onshore,,Europe,Poland,14.924,14.924,,,Active,LexCorp Energy Enterprises,
+Wind,3fca82e53d,Onshore,,Europe,France,13.338,,,,Permitting,LexCorp Energy Enterprises,
+Wind,0f756cff2b,Onshore,,Asia-Pacific,Taiwan,23.115,,23.115,,Dormant,LexCorp Energy Enterprises,
+Wind,7a0ca1d633,Onshore,,Asia-Pacific,India,0.31,0.31,,,Active,LexCorp Energy Enterprises,100
+Wind,44623e54d0,Onshore,,Europe,United Kingdom,7.08,7.08,,,Active,LexCorp Energy Enterprises,
+Wind,519c71daba,Onshore Repowered,,Europe,United Kingdom,13.277,13.277,,,Active,LexCorp Energy Enterprises,
+Wind,73ccb318db,Onshore,,Asia-Pacific,India,0.66,,,,Active,LexCorp Energy Enterprises,100
+Wind,41881c63e8,Onshore,,Asia-Pacific,India,0.8325,0.8325,,,Active,LexCorp Energy Enterprises,
+Wind,42e4569eda,Onshore,,Europe,United Kingdom,32.5,,32.5,,Under Construction,LexCorp Energy Enterprises,100
+Wind,b9125b34b7,Onshore,,Asia-Pacific,India,14.76,14.76,,,Active,LexCorp Energy Enterprises,
+Wind,5f91eb8b38,Onshore,,Asia-Pacific,India,247.5,,247.5,,Permitting,LexCorp Energy Enterprises,
+Wind,16ba179ab9,Onshore,,North America,United States,13.524,13.524,,,Active,LexCorp Energy Enterprises,99
+Wind,e29984a750 project,Onshore,,Asia-Pacific,India,39.33,,,,Partially Active,LexCorp Energy Enterprises,
+Wind,0dc3c838b7,Onshore Repowered,,North America,United States,138.46,138.46,,,Active,LexCorp Energy Enterprises,
+Wind,195478bf92,Onshore,,Asia-Pacific,India,0.649,0.649,,,Active,LexCorp Energy Enterprises,100
+Wind,3e66c010ae,Onshore,,North America,United States,,,,,Active,LexCorp Energy Enterprises,
+Wind,f045e299a3,Onshore,,Asia-Pacific,India,0.5625,0.5625,,,Active,LexCorp Energy Enterprises,100
+Wind,91006b49bb,Onshore,,Asia-Pacific,India,0.915,0.915,,,Active,LexCorp Energy Enterprises,100
+Wind,2377d4d3c9,Onshore,,Asia-Pacific,India,0.837,0.837,,,Active,LexCorp Energy Enterprises,100
+Wind,bda9c0f619,Onshore,,North America,United States,0.059,0.059,,,Active,LexCorp Energy Enterprises,
+Wind,4df9e01ee8,Onshore,,Asia-Pacific,India,1.584,,,,Active,LexCorp Energy Enterprises,100
+Wind,c1f96c8917,Onshore,,Asia-Pacific,Australia,0.6,0.6,,,Active,LexCorp Energy Enterprises,100
+Wind,b62b614bfc,Onshore,,Europe,Finland,24.552,,24.552,,Permitting,LexCorp Energy Enterprises,
+Wind,ecc0acb79a,Onshore,,Asia-Pacific,India,0.2205,0.2205,,,Active,LexCorp Energy Enterprises,100
+Wind,273c662025,Onshore,,Asia-Pacific,Vanuatu,3.68225,,,,Active,LexCorp Energy Enterprises,
+Wind,d856b81f45,Onshore,,Asia-Pacific,India,0.765,0.765,,,Active,LexCorp Energy Enterprises,
+Wind,bb92717934,Offshore,,Europe,Greece,311.04,,311.04,,Dormant,LexCorp Energy Enterprises,
+Wind,2b4015d0fe,Onshore,,South and Central America,Argentina,165.648,,165.648,,Under Construction,LexCorp Energy Enterprises,
+Wind,f0298e7159,Onshore,,North America,United States,52.26,52.26,,,Active,LexCorp Energy Enterprises,100
+Wind,b94240c933,Onshore,,Europe,Turkey,96.6,,,,Active,LexCorp Energy Enterprises,
+Wind,6399e3a747,Onshore,,Asia-Pacific,India,0.174,0.174,,,Active,LexCorp Energy Enterprises,100
+Wind,89236ce78b,Onshore,,Europe,Italy,2.88,2.88,,,Active,LexCorp Energy Enterprises,
+Wind,94cce03784,Onshore,,Asia-Pacific,India,8.32,,,,Active,LexCorp Energy Enterprises,
+Wind,5112dd047d,Onshore,,Europe,Germany,14.364,,14.364,,Dormant,LexCorp Energy Enterprises,
+Wind,a866570081 facility,Onshore,,North America,United States,137.697,,,,Active,LexCorp Energy Enterprises,100
+Wind,6f0e8abe70,Onshore,,North America,United States,44.955,44.955,,,Active,LexCorp Energy Enterprises,100
+Wind,6869d34aac,Onshore,,North America,United States,78.375,78.375,,,Active,LexCorp Energy Enterprises,100
+Wind,3850d36624,Onshore,,North America,United States,267.072,267.072,,,Active,LexCorp Energy Enterprises,100
+Wind,2ac7371928,Onshore,,North America,United States,181.374,,,,Active,LexCorp Energy Enterprises,100
+Wind,40b9c00317,Onshore,,North America,United States,88.2,88.2,,,Active,LexCorp Energy Enterprises,100
+Wind,993f6b10ca,Onshore,,North America,United States,64.35,64.35,,,Active,LexCorp Energy Enterprises,
+Wind,66e6644f0f,Onshore,,North America,United States,144.878,,,,Active,LexCorp Energy Enterprises,100
+Wind,a428092619,Onshore,,North America,United States,215.1072,,,,Active,LexCorp Energy Enterprises,
+Wind,ab7b16b366 project,Onshore,,North America,United States,158,,158,,Dormant,LexCorp Energy Enterprises,
+Wind,4c5424d74c,Onshore,,North America,United States,195.0065,,,,Active,LexCorp Energy Enterprises,
+Wind,735d781c84,Onshore,,North America,United States,33,,33,,Permitting,LexCorp Energy Enterprises,
+Wind,0752b0b2e1,Onshore,,North America,United States,107.8004,107.8004,,,Active,LexCorp Energy Enterprises,
+Wind,a36ca372c3,Onshore,,North America,United States,198,,,198,Suspended,LexCorp Energy Enterprises,
+Wind,de4de5b0f0,Onshore,,North America,United States,0.52,,,,Active,LexCorp Energy Enterprises,
+Wind,b23d9fbbde,Onshore,,Asia-Pacific,India,11.64,,,,Active,LexCorp Energy Enterprises,100
+Wind,7f0c6a90ee,Onshore,,Asia-Pacific,India,0.741,0.741,,,Active,LexCorp Energy Enterprises,100
+Wind,55b08d7007,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,cf515daa8a,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,15c5c1171b,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,add66d6e0a,Onshore,,Europe,France,,,,,Active,LexCorp Energy Enterprises,40
+Wind,f94e788d9c,Onshore,,Europe,Spain,,,,,Under Construction,LexCorp Energy Enterprises,25
+Wind,5ccae562fd,Offshore,,Europe,Sweden,,,,,Permitting,LexCorp Energy Enterprises,
+Wind,21a1ef04a0,Onshore,,Europe,Turkey,45.75,,,,Active,LexCorp Energy Enterprises,
+Wind,c0e19c3785,Onshore,,Asia-Pacific,India,1.112,1.112,,,Active,LexCorp Energy Enterprises,
+Wind,9117808e3f,Onshore,,Europe,Portugal,,26.4,,,Active,LexCorp Energy Enterprises,75
+Wind,9117808e3f,Onshore,,Europe,Portugal,,19.404,,,Active,LexCorp Energy Enterprises,75
+Wind,9117808e3f,Onshore,,Europe,Portugal,,26.4,,,Active,LexCorp Energy Enterprises,75
+Wind,9117808e3f,Onshore,,Europe,Portugal,,33.264,,,Active,LexCorp Energy Enterprises,75
+Wind,9117808e3f,Onshore,,Europe,Portugal,,19.404,,,Active,LexCorp Energy Enterprises,75
+Wind,25b20d9033,Onshore,,Europe,Spain,2.7054,2.7054,,,Active,LexCorp Energy Enterprises,100
+Wind,138700bbc7,Onshore,,Europe,Sweden,0.4,0.4,,,Active,LexCorp Energy Enterprises,
+Wind,e3e901707d,Onshore,,Asia-Pacific,India,0.9,0.9,,,Active,LexCorp Energy Enterprises,100
+Wind,fa0fc683b2,Onshore,,Asia-Pacific,India,0.3625,0.3625,,,Active,LexCorp Energy Enterprises,100
+Wind,83eebfa721,Onshore,,Asia-Pacific,India,0.3312,0.3312,,,Active,LexCorp Energy Enterprises,100
+Wind,86abb2afb2,Onshore,,Europe,Spain,246,,,246,Cancelled,LexCorp Energy Enterprises,70
+Wind,19cfd23cfd,Onshore,,Europe,Spain,11.52,,,11.52,Cancelled,LexCorp Energy Enterprises,100
+Wind,f18bdaec44,Onshore,,Asia-Pacific,India,0.798,0.798,,,Active,LexCorp Energy Enterprises,
+Wind,f7631ee437,Onshore,,Europe,Turkey,24.9,24.9,,,Active,LexCorp Energy Enterprises,
+Wind,70336e9475,Onshore Repowered,,Europe,Netherlands,11.97,,,,Active,LexCorp Energy Enterprises,
+Wind,c2df7983c6,Onshore,,Asia-Pacific,Philippines,0.594,0.594,,,Active,LexCorp Energy Enterprises,
+Wind,e8cd621295,Onshore,,North America,United States,6.8145,6.8145,,,Active,LexCorp Energy Enterprises,100
+Wind,72e7d30284,Onshore,,North America,United States,57,,57,,Dormant,LexCorp Energy Enterprises,
+Wind,9034ea85cb,Onshore,,Asia-Pacific,India,2.9068,2.9068,,,Active,LexCorp Energy Enterprises,100
+Wind,c1d77a89e7,Onshore,,North America,United States,0.684,0.684,,,Active,LexCorp Energy Enterprises,
+Wind,2891e8f237,Onshore,,Europe,Italy,18.576,18.576,,,Active,LexCorp Energy Enterprises,100
+Wind,d8e55aee66,Onshore,,Europe,Spain,9.7284,9.7284,,,Active,LexCorp Energy Enterprises,
+Wind,cfa86ef691,Onshore,,Europe,Spain,,,,,Active,LexCorp Energy Enterprises,
+Wind,528ebccb7e,Onshore,,Europe,Spain,21.4,21.4,,,Active,LexCorp Energy Enterprises,
+Wind,74d6b62bf1,Onshore,,North America,United States,0.33,0.33,,,Active,LexCorp Energy Enterprises,
+Wind,d47c77b61f,Onshore,,Europe,Spain,6.555,,6.555,,Permitting,LexCorp Energy Enterprises,
+Wind,21c33f0c05,Onshore,,Europe,Spain,45.78,45.78,,,Active,LexCorp Energy Enterprises,
+Wind,61808c728a,Onshore,,Europe,Spain,46.683,,,,Active,LexCorp Energy Enterprises,
+Wind,f010e46037,Onshore,,Europe,Turkey,39.6,,39.6,,Under Construction,Stark Energy Corporation,
+Wind,b310c63865,Onshore,,North America,Canada,12.546,,12.546,,Dormant,Stark Energy Corporation,
+Wind,66ab5d42b3,Onshore,,Asia-Pacific,India,4.326,4.326,,,Active,Stark Energy Corporation,100
+Wind,9f1fadfcd9,Onshore,,Europe,Sweden,107.25,,107.25,,Permitting,Stark Energy Corporation,
+Wind,9bf47bc84d,Onshore,,Asia-Pacific,India,0.456,0.456,,,Active,Stark Energy Corporation,100
+Wind,b7e9ff95a7,Onshore,,Europe,Germany,9.9,9.9,,,Active,Stark Energy Corporation,
+Wind,f3a8a36def,Onshore,,Europe,Greece,30.256,,30.256,,Permitting,Stark Energy Corporation,
+Wind,249a3af747,Onshore,,Europe,Germany,13.42,,,,Permitting,Stark Energy Corporation,
+Wind,26e6b1b1c6,Onshore,,Europe,Greece,24.876,,,,Active,Stark Energy Corporation,
+Wind,f25f880dcb,Onshore,,North America,Canada,88.8,,88.8,,Dormant,Stark Energy Corporation,
+Wind,b35260fd96,Onshore,,Europe,Sweden,5.4,5.4,,,Active,Stark Energy Corporation,
+Wind,e7c7dd95b8,Onshore,,Europe,United Kingdom,26.169,26.169,,,Active,Stark Energy Corporation,
+Wind,b255510afd,Onshore,,Asia-Pacific,India,0.33,0.33,,,Active,Stark Energy Corporation,100
+Wind,63765e3604,Onshore,,Europe,Portugal,25.2,25.2,,,Active,Stark Energy Corporation,
+Wind,99320fc110,Onshore,,Asia-Pacific,India,3.408,3.408,,,Active,Stark Energy Corporation,100
+Wind,5a74cd233e,Onshore,,Asia-Pacific,India,0.616,0.616,,,Active,Stark Energy Corporation,100
+Wind,cf1dd9754f,Onshore,,Asia-Pacific,India,1.125,1.125,,,Active,Stark Energy Corporation,
+Wind,bc0cb6ce51,Onshore,,Europe,Turkey,78.408,,,78.408,Cancelled,Stark Energy Corporation,
+Wind,d5032357d9,Onshore Repowered,,Europe,France,37.1175,,37.1175,,Under Construction,Stark Energy Corporation,
+Wind,36b84345ee,Onshore,,Europe,France,9.6,9.6,,,Active,Stark Energy Corporation,
+Wind,c1f226d00b,Onshore,,Europe,Turkey,,,,,Active,Stark Energy Corporation,1
+Wind,f43abe0ed7,Onshore,,Asia-Pacific,India,15.795,15.795,,,Active,Stark Energy Corporation,
+Wind,a113acaa67,Onshore Repowered,,Europe,United Kingdom,15.66,15.66,,,Active,Stark Energy Corporation,
+Wind,f82bdaf888,Onshore,,North America,United States,35,35,,,Active,Stark Energy Corporation,
+Wind,108122c674,Onshore,,Europe,Sweden,13.2,,,13.2,Suspended,Stark Energy Corporation,
+Wind,240c4c6cc2,Onshore,,North America,United States,,,,,Active,Stark Energy Corporation,
+Wind,84f806eb5f,Onshore,,North America,United States,,,,,Active,Stark Energy Corporation,
+Wind,fdb1c68361,Onshore,,Europe,Germany,,10.152,,,Active,Stark Energy Corporation,
+Wind,fdb1c68361,Onshore,,Europe,Germany,,2.484,,,Active,Stark Energy Corporation,
+Wind,40be49366f,Onshore,,Asia-Pacific,India,1.344,1.344,,,Active,Stark Energy Corporation,100
+Wind,3618206a2c,Onshore,,Europe,United Kingdom,0.1925,0.1925,,,Active,Stark Energy Corporation,
+Wind,477da3d94d,Onshore Repowered,,Europe,Germany,2.848,,2.848,,Dormant,Stark Energy Corporation,
+Wind,fc370721e2,Onshore,,North America,Canada,,,,,Active,Stark Energy Corporation,40
+Wind,5931f54624,Onshore,,North America,Canada,,,,,Active,Stark Energy Corporation,40
+Wind,1ca0819da4,Onshore,,Asia-Pacific,India,0.486,0.486,,,Active,Stark Energy Corporation,100
+Wind,14d3379399,Onshore,,Asia-Pacific,India,0.702,0.702,,,Active,Stark Energy Corporation,100
+Wind,68451fe832,Onshore,,Europe,United Kingdom,34.96,34.96,,,Active,Stark Energy Corporation,
+Wind,b8e95784a6,Onshore,,Asia-Pacific,India,8.56,8.56,,,Active,Stark Energy Corporation,100
+Wind,28cbd9972f,Onshore,,Asia-Pacific,India,1.175,1.175,,,Active,Stark Energy Corporation,100
+Wind,0f2f254456,Onshore,,North America,Canada,6.4,6.4,,,Active,Stark Energy Corporation,
+Wind,9c3702ac6a,Onshore,,Europe,France,9.76,9.76,,,Active,Stark Energy Corporation,
+Wind,dbd7b8fd81,Onshore,,Asia-Pacific,India,2.325,,,,Active,Stark Energy Corporation,100
+Wind,706842f761,Onshore,,Europe,Poland,27.234,27.234,,,Active,Stark Energy Corporation,100
+Wind,39a64edb5c,Onshore,,Europe,Italy,26.65,,,,Partially Active,Stark Energy Corporation,50
+Wind,f1ddc34ccb,Onshore,,Europe,Italy,50.32,50.32,,,Active,Stark Energy Corporation,100
+Wind,555b2e097e,Onshore,,Asia-Pacific,India,1.7125,1.7125,,,Active,Stark Energy Corporation,100
+Wind,84b263066f,Onshore,,Asia-Pacific,China,67.5,,67.5,,Dormant,Stark Energy Corporation,60
+Wind,c4b2ab23c1,Onshore,,Asia-Pacific,India,102.616,,,,Active,Stark Energy Corporation,
+Wind,1d1ed9c25c,Offshore,,North America,United States,595,,,595,Cancelled,Stark Energy Corporation,
+Wind,4bcde52e7f,Onshore,,Asia-Pacific,India,27.36,27.36,,,Active,Stark Energy Corporation,
+Wind,0a45029b2e,Onshore,,North America,United States,29.4,,,29.4,Cancelled,Stark Energy Corporation,
+Wind,335599a614 project,Onshore,,North America,United States,19.872,19.872,,,Active,Stark Energy Corporation,100
+Wind,0e12c07a6c project,Onshore,,North America,United States,11.385,11.385,,,Active,Stark Energy Corporation,100
+Wind,1e48378b67 project,Onshore,,North America,United States,22.8,,,22.8,Suspended,Stark Energy Corporation,
+Wind,55589655f9,Onshore,,North America,United States,40.5,,,40.5,Suspended,Stark Energy Corporation,
+Wind,db4814cf77,Onshore,,Asia-Pacific,Australia,130.296,,,,Active,Stark Energy Corporation,10
+Wind,11dbe84551,Onshore,,Europe,Estonia,,,,,Active,Stark Energy Corporation,80
+Wind,7d42f73527,Onshore,,Asia-Pacific,India,0.1702,0.1702,,,Active,Stark Energy Corporation,100
+Wind,5ab9b0381f project,Onshore,,Asia-Pacific,China,46.53,,,,Active,Stark Energy Corporation,
+Wind,0ef68ecdcc,Onshore,,Europe,France,32.1,32.1,,,Active,Stark Energy Corporation,
+Wind,5b7f33ce35,Onshore,,South and Central America,Brazil,43.2,43.2,,,Active,Stark Energy Corporation,49
+Wind,ebf2fde592,Onshore,,Europe,France,42.471,,42.471,,Permitting,Stark Energy Corporation,
+Wind,1c4ab2333b,Onshore,,Europe,France,10.24,,,,Permitting,Stark Energy Corporation,
+Wind,410c152a8f,Offshore,,Europe,United Kingdom,518.4,518.4,,,Active,Stark Energy Corporation,10
+Wind,f3d56f0be2,Offshore,,Europe,United Kingdom,1056.72,,,,Partially Active,Stark Energy Corporation,40
+Wind,3236b75cff,Onshore,,Europe,Ukraine,25.9505,,,,Active,Stark Energy Corporation,
+Wind,ac4bee6b98,Onshore,,Asia-Pacific,India,0.625,0.625,,,Active,Stark Energy Corporation,100
+Wind,78bdc0e535,Onshore,,Europe,Ukraine,94.5,,94.5,,Under Construction,Stark Energy Corporation,
+Wind,a40c589861,Onshore,,North America,United States,26.4,,,,Active,Stark Energy Corporation,
+Wind,abd82b0fde,Onshore,,Asia-Pacific,India,0.825,0.825,,,Active,Stark Energy Corporation,
+Wind,06a551cd46,Onshore,,Asia-Pacific,India,3.5,,3.5,,Dormant,Stark Energy Corporation,
+Wind,2c38dbb655,Onshore,,Europe,Czech Republic,6.6,,6.6,,Dormant,Stark Energy Corporation,
+Wind,3756319265,Onshore,,Middle East and Africa,South Africa,439.56,,439.56,,Permitting,Stark Energy Corporation,
+Wind,e96e027fba project,Onshore,,Middle East and Africa,South Africa,58.5,,58.5,,Dormant,Stark Energy Corporation,
+Wind,2cd6b72e5b,Onshore,,North America,United States,39.5,,,39.5,Cancelled,Stark Energy Corporation,
+Wind,b39faffc50,Onshore,,North America,United States,124.5,,124.5,,Announced,Stark Energy Corporation,
+Wind,088f23f279 project,Onshore,,North America,United States,403.788,,403.788,,Permitting,Stark Energy Corporation,
+Wind,236c165ddd,Onshore,,North America,United States,270,,270,,Permitting,Stark Energy Corporation,
+Wind,fc8ba6adf9,Onshore,,Asia-Pacific,China,8.85,8.85,,,Active,Stark Energy Corporation,
+Wind,07fbdb4124,Onshore,,Europe,Turkey,47.6,,,47.6,Cancelled,Stark Energy Corporation,
+Wind,806810e9ef project,Onshore,,Asia-Pacific,Vietnam,7.83,,7.83,,Under Construction,Stark Energy Corporation,
+Wind,520f7a9f44 power plant,Onshore,,Europe,Turkey,7.99,,,,Active,Stark Energy Corporation,
+Wind,c61e1419c8,Onshore,,Asia-Pacific,China,60.885,,,,Active,Stark Energy Corporation,
+Wind,325a17b00c,Onshore,,North America,United States,8,,8,,Under Construction,Stark Energy Corporation,
+Wind,d860734bd2,Onshore,,Europe,Sweden,1.365,1.365,,,Active,Stark Energy Corporation,100
+Wind,2e1cfaf2a0,Onshore,,North America,United States,4.026,4.026,,,Active,Stark Energy Corporation,100
+Wind,aaf1d4c05c,Onshore,,Europe,Sweden,0.7735,0.7735,,,Active,Stark Energy Corporation,100
+Wind,39d5b430f5,Onshore,,Asia-Pacific,India,0.3325,0.3325,,,Active,Stark Energy Corporation,100
+Wind,74b11a2dbd,Onshore,,North America,United States,76.5,76.5,,,Active,Stark Energy Corporation,
+Wind,136261ff3a,Onshore,,North America,United States,,236,,,Active,Stark Energy Corporation,100
+Wind,136261ff3a,Onshore,,North America,United States,,236,,,Active,Stark Energy Corporation,100
+Wind,136261ff3a,Onshore,,North America,United States,,,236,,Announced,Stark Energy Corporation,
+Wind,bea3e89cf5,Onshore,,Europe,Italy,17.612,17.612,,,Active,Stark Energy Corporation,
+Wind,790ab1a857,Onshore,,Middle East and Africa,Jordan,25.9,,,25.9,Suspended,Stark Energy Corporation,
+Wind,7e94302d13,Onshore,,Europe,Ireland,21.896,21.896,,,Active,Stark Energy Corporation,
+Wind,c055afccc7,Onshore,,Asia-Pacific,India,60.984,,,,Active,Stark Energy Corporation,
+Wind,936f69f300,Onshore,,Europe,Spain,17.85,,17.85,,Permitting,Stark Energy Corporation,
+Wind,ee2bde7b5c,Onshore,,Europe,United Kingdom,6.42,6.42,,,Active,Stark Energy Corporation,100
+Wind,19a8249e69,Onshore,,Asia-Pacific,Japan,2.235,2.235,,,Active,Stark Energy Corporation,
+Wind,f532f23413,Onshore,,Asia-Pacific,Japan,9.63,9.63,,,Active,Stark Energy Corporation,
+Wind,d200ffe672,Onshore,,Europe,Turkey,20.25,20.25,,,Active,Stark Energy Corporation,100
+Wind,dc214fef9a,Onshore,,South and Central America,Brazil,87.78,,87.78,,Dormant,Stark Energy Corporation,
+Wind,b6ad071ff8,Onshore,,Asia-Pacific,India,1.23,1.23,,,Active,Stark Energy Corporation,100
+Wind,fcda8aede5,Onshore,,Asia-Pacific,China,47.52,,47.52,,Dormant,Stark Energy Corporation,
+Wind,05f4da4437,Onshore,,Asia-Pacific,China,40.095,,40.095,,Dormant,Stark Energy Corporation,
+Wind,3a0ec3ed1f,Onshore,,Europe,United Kingdom,2.976,,,2.976,Suspended,Stark Energy Corporation,
+Wind,f0ce1f6a2f,Onshore,,Asia-Pacific,India,1.5,1.5,,,Active,Stark Energy Corporation,100
+Wind,ce9580ba09,Onshore,,Europe,Sweden,96.48,,,,Active,Stark Energy Corporation,
+Wind,6f86b6c084,Onshore,,Europe,Germany,8.94,8.94,,,Active,Stark Energy Corporation,
+Wind,d8b11a5b0e,Onshore,,Europe,Sweden,17.29,,17.29,,Permitting,Stark Energy Corporation,
+Wind,c1f226d00b,Onshore,,Europe,Turkey,28.9575,28.9575,,,Active,Stark Energy Corporation,96
+Wind,2024f97c04,Onshore,,Asia-Pacific,India,1.785,1.785,,,Active,Stark Energy Corporation,
+Wind,59b352f023,Offshore,,Asia-Pacific,Japan,514.71,,514.71,,Announced,Stark Energy Corporation,
+Wind,2d6a22e813,Onshore,,Europe,Spain,13.7808,13.7808,,,Active,Stark Energy Corporation,30
+Wind,0c182a887a,Onshore,,Europe,Spain,11.84,,,,Active,Stark Energy Corporation,100
+Wind,78d413e1b1,Onshore,,Europe,Poland,32.98,,,,Permitting,Stark Energy Corporation,65
+Wind,ccce423ba1,Onshore,,Europe,Germany,,,,,Active,Stark Energy Corporation,51
+Wind,04a956288c,Onshore,,Asia-Pacific,India,1.14,,,,Active,Stark Energy Corporation,100
+Wind,9ddfb9ffd5 project,Onshore,,Asia-Pacific,Pakistan,39.6,39.6,,,Active,Stark Energy Corporation,
+Wind,a0cee45236,Onshore,,Asia-Pacific,India,1.02,1.02,,,Active,Stark Energy Corporation,
+Wind,7343cfa59a,Onshore,,Europe,Italy,26.04,,26.04,,Dormant,Stark Energy Corporation,
+Wind,925dbce1e2 project,Onshore,,South and Central America,Honduras,41.5,,41.5,,Dormant,Stark Energy Corporation,
+Wind,17b61b64e4 project,Onshore,,South and Central America,Honduras,16.95,,16.95,,Dormant,Stark Energy Corporation,
+Wind,82904756f4,Onshore,,Europe,Belgium,1.548,1.548,,,Active,Stark Energy Corporation,100
+Wind,dec053f5e2,Onshore,,Middle East and Africa,Namibia,52.5,,,52.5,Cancelled,Stark Energy Corporation,
+Wind,21168ed22c,Onshore,,Asia-Pacific,India,26.208,26.208,,,Active,Stark Energy Corporation,
+Wind,df6940ca81,Onshore,,South and Central America,Brazil,,,,,Active,Stark Energy Corporation,49
+Wind,5a5dd682f3,Onshore,,South and Central America,Brazil,21.45,,21.45,,Under Construction,Stark Energy Corporation,49
+Wind,e1ade89e5f,Onshore,,South and Central America,Brazil,22.5,,22.5,,Under Construction,Stark Energy Corporation,49
+Wind,a413099147,Onshore,,Europe,France,10.488,10.488,,,Active,Stark Energy Corporation,
+Wind,792da369ba,Onshore,,Asia-Pacific,India,106.56,,,,Active,Stark Energy Corporation,
+Wind,c31d2f9736,Onshore,,South and Central America,Brazil,16.75,,16.75,,Under Construction,Stark Energy Corporation,90
+Wind,fff2110f33,Onshore,,Asia-Pacific,India,25.74,25.74,,,Active,Stark Energy Corporation,
+Wind,0559b21879,Onshore,,South and Central America,Brazil,36,,36,,Permitting,Stark Energy Corporation,100
+Wind,bd91787027,Onshore,,Asia-Pacific,India,35,35,,,Active,Stark Energy Corporation,
+Wind,ff742d86dd,Onshore,,Asia-Pacific,India,177.072,,177.072,,Permitting,Stark Energy Corporation,
+Wind,b6025a0c89,Onshore,,Asia-Pacific,India,48.888,48.888,,,Active,Stark Energy Corporation,
+Wind,03384bd309,Onshore,,South and Central America,Brazil,43.8,,43.8,,Permitting,Stark Energy Corporation,
+Wind,30f2a2de21,Onshore,,Asia-Pacific,India,0.92,0.92,,,Active,Stark Energy Corporation,100
+Wind,5d8a701b35,Onshore,,North America,Canada,4.305,4.305,,,Active,Stark Energy Corporation,
+Wind,2c155f57ea,Onshore,,Asia-Pacific,India,0.28,0.28,,,Active,Stark Energy Corporation,
+Wind,50844a686a,Onshore,,Asia-Pacific,Myanmar,,,,,Dormant,Stark Energy Corporation,
+Wind,a0ee1ec3e9,Onshore,,Asia-Pacific,Myanmar,,,,,Dormant,Stark Energy Corporation,
+Wind,4fee6c1fd4,Onshore,,Asia-Pacific,Republic of Korea,20,20,,,Active,Stark Energy Corporation,
+Wind,6e1291f935,Onshore,,South and Central America,Ecuador,4.275,,,,Partially Active,Stark Energy Corporation,
+Wind,3526f18457,Onshore,,Asia-Pacific,India,8.883,8.883,,,Active,Stark Energy Corporation,
+Wind,97a56c5dbe,Onshore,,Asia-Pacific,India,1.08,1.08,,,Active,Stark Energy Corporation,100
+Wind,84c03c88f0,Onshore,,Europe,Finland,7.2,7.2,,,Active,Stark Energy Corporation,
+Wind,bbf275dac3,Onshore,,Europe,Finland,21.2,,,21.2,Cancelled,Stark Energy Corporation,
+Wind,d89d4bb7bc,Onshore,,Asia-Pacific,India,0.357,0.357,,,Active,Stark Energy Corporation,100
+Wind,c6994784cb,Onshore,,Asia-Pacific,India,0.705,0.705,,,Active,Stark Energy Corporation,100
+Wind,65b7de03db,Onshore,,Asia-Pacific,India,2.07,2.07,,,Active,Stark Energy Corporation,100
+Wind,e669335471,Onshore,,Europe,Romania,385.44,,,,Partially Active,Stark Energy Corporation,15
+Wind,483866becb,Onshore,,Asia-Pacific,India,3.6,3.6,,,Active,Stark Energy Corporation,100
+Wind,31632a23ec,Onshore,,Asia-Pacific,India,3.225,,,,Active,Stark Energy Corporation,100
+Wind,0d2a865d9c,Onshore,,Asia-Pacific,India,0.828,0.828,,,Active,Stark Energy Corporation,100
+Wind,53db65ed15,Onshore Repowered,,Middle East and Africa,Israel,15.065,,15.065,,Dormant,Stark Energy Corporation,
+Wind,4c1dbaafd8,Onshore,,North America,United States,134,,134,,Dormant,Stark Energy Corporation,
+Wind,f4fa4af347,Onshore,,Asia-Pacific,India,0.7375,0.7375,,,Active,Stark Energy Corporation,
+Wind,85c261ddb9,Onshore,,Asia-Pacific,India,1.26,1.26,,,Active,Stark Energy Corporation,100
+Wind,3198326740,Onshore,,North America,United States,,,,,Active,Stark Energy Corporation,49.9
+Wind,74a4f4218e,Onshore,,Europe,Turkey,45.2,,,,Permitting,Stark Energy Corporation,
+Wind,07057a9af4,Onshore,,Europe,Spain,6.435,6.435,,,Active,Stark Energy Corporation,50
+Wind,ffe58de43f,Onshore,,Asia-Pacific,Vietnam,31.5,,31.5,,Dormant,Stark Energy Corporation,
+Wind,1835fcca0d,Onshore Repowered,,Europe,Netherlands,5.355,,,5.355,Decommissioned,Wonka Energy LTD,
+Wind,66c5d59e8a,Onshore,,Europe,Italy,27.36,27.36,,,Active,Wonka Energy LTD,
+Wind,7e6f913a34,Onshore,,Asia-Pacific,India,34,,34,,Dormant,Wonka Energy LTD,
+Wind,8937359934,Onshore,,Europe,Spain,5.31,,5.31,,Dormant,Wonka Energy LTD,
+Wind,22699476ca,Onshore,,Europe,Spain,28.0665,,28.0665,,Permitting,Wonka Energy LTD,100
+Wind,ab1ba10e8f,Onshore,,Middle East and Africa,Djibouti,44.25,,44.25,,Permitting,Wonka Energy LTD,
+Wind,b11f53012c,Onshore,,Europe,Hungary,2.34,2.34,,,Active,Wonka Energy LTD,
+Wind,00184f0d5e,Onshore,,Asia-Pacific,India,0.912,0.912,,,Active,Wonka Energy LTD,100
+Wind,7bb0702511,Onshore,,Europe,Sweden,87.285,87.285,,,Active,Wonka Energy LTD,100
+Wind,0ea6620b51,Onshore,,South and Central America,Argentina,40.32,40.32,,,Active,Wonka Energy LTD,
+Wind,aeeafcdb41,Onshore,,Asia-Pacific,India,0.85,0.85,,,Active,Wonka Energy LTD,100
+Wind,49a8864cbb,Onshore,,Asia-Pacific,India,4.1,4.1,,,Active,Wonka Energy LTD,
+Wind,7422b6a0e1,Onshore,,Asia-Pacific,China,58,,58,,Permitting,Wonka Energy LTD,
+Wind,990bbed4cb,Offshore,,Europe,Norway,255,,,255,Suspended,Wonka Energy LTD,25
+Wind,251a3934b5 plant,Onshore,,Europe,United Kingdom,0.325,0.325,,,Active,Wonka Energy LTD,
+Wind,1bc0fcb264,Offshore,,Europe,United Kingdom,,,,,Active,Wonka Energy LTD,35
+Wind,ed9b0d1b9a,Onshore,,Asia-Pacific,China,84,84,,,Active,Wonka Energy LTD,
+Wind,4a84b5e590,Onshore,,Europe,Sweden,0.4026,0.4026,,,Active,Wonka Energy LTD,
+Wind,2e92c5b4d6,Onshore,,Europe,Spain,71.136,,71.136,,Under Construction,Wonka Energy LTD,
+Wind,51cd705ade project,Onshore,,Europe,Spain,48.7942,,48.7942,,Permitting,Wonka Energy LTD,
+Wind,f94e788d9c,Onshore,,Europe,Spain,,,,,Under Construction,Wonka Energy LTD,9
+Wind,4cac4eb311,Onshore,,Asia-Pacific,India,0.378,0.378,,,Active,Wonka Energy LTD,100
+Wind,4e0eee9642,Onshore,,Europe,Turkey,35.2,35.2,,,Active,Wonka Energy LTD,
+Wind,7c60a8ae83,Onshore,,Asia-Pacific,India,0.31,0.31,,,Active,Wonka Energy LTD,100
+Wind,fe1dcee8ce project,Onshore,,North America,Canada,34.83,,,34.83,Suspended,Wonka Energy LTD,
+Wind,f21592336b,Onshore,,Asia-Pacific,India,0.8775,0.8775,,,Active,Wonka Energy LTD,100
+Wind,8bbe66eb08,Onshore,,Asia-Pacific,India,0.3625,0.3625,,,Active,Wonka Energy LTD,
+Wind,7f782ce859,Onshore,,Asia-Pacific,India,0.3605,0.3605,,,Active,Wonka Energy LTD,100
+Wind,4e51c3dbb9,Onshore,,Asia-Pacific,India,0.648,0.648,,,Active,Wonka Energy LTD,100
+Wind,d45585a94e,Onshore,,Europe,Finland,23.75,,23.75,,Permitting,Wonka Energy LTD,
+Wind,9b8560d78b,Onshore,,Asia-Pacific,India,1.01,1.01,,,Active,Wonka Energy LTD,100
+Wind,d65cac2392,Onshore,,Asia-Pacific,India,2.73,2.73,,,Active,Wonka Energy LTD,100
+Wind,b9fc8caf2f,Onshore,,North America,United States,199.5,,199.5,,Dormant,Wonka Energy LTD,
+Wind,94a6dfa5a7,Onshore,,Asia-Pacific,India,0.696,0.696,,,Active,Wonka Energy LTD,100
+Wind,580218fedf,Offshore,,Europe,Finland,,,,,Cancelled,Wonka Energy LTD,
+Wind,eee4d8ba9f,Onshore,,Asia-Pacific,India,30.24,,,,Partially Active,Wonka Energy LTD,
+Wind,2a0d6f6dc6,Onshore,,Asia-Pacific,India,34.32,34.32,,,Active,Wonka Energy LTD,
+Wind,9bda1e8257,Onshore,,Asia-Pacific,India,41.958,,,,Active,Wonka Energy LTD,
+Wind,8023a701b1,Onshore,,Asia-Pacific,India,0.504,0.504,,,Active,Wonka Energy LTD,100
+Wind,aa9a2843c6,Onshore,,Asia-Pacific,India,0.882,0.882,,,Active,Wonka Energy LTD,100
+Wind,4356824f64,Onshore,,Asia-Pacific,India,1.221,1.221,,,Active,Wonka Energy LTD,
+Wind,36b9fc094d,Onshore,,North America,Canada,,52.44,,,Active,Wonka Energy LTD,100
+Wind,8d01699b09,Onshore,,North America,United States,1.071,,1.071,,Dormant,Wonka Energy LTD,
+Wind,c76d9cef77,Onshore,,Europe,Germany,19.95,,,,Active,Wonka Energy LTD,
+Wind,2e3f2ffaae,Onshore,,Asia-Pacific,India,0.32,0.32,,,Active,Wonka Energy LTD,100
+Wind,e5cf71439d,Onshore,,Europe,Sweden,0.1575,0.1575,,,Active,Wonka Energy LTD,
+Wind,7f9909ad90,Onshore,,Asia-Pacific,India,0.786,0.786,,,Active,Wonka Energy LTD,100
+Wind,49a32ce441,Onshore,,Asia-Pacific,Australia,45,,,45,Cancelled,Wonka Energy LTD,
+Wind,2070ae9c52,Onshore,,Europe,Turkey,45.9,,,45.9,Cancelled,Wonka Energy LTD,
+Wind,e817293016,Onshore,,Asia-Pacific,India,0.2622,0.2622,,,Active,Wonka Energy LTD,100
+Wind,eb4c59ba5b,Onshore,,Asia-Pacific,India,0.65,0.65,,,Active,Wonka Energy LTD,100
+Wind,612749d467,Onshore,,Middle East and Africa,South Africa,,,,,Under Construction,Wonka Energy LTD,35
+Wind,bde5b967d8,Onshore,,Europe,Spain,42.525,42.525,,,Active,Wonka Energy LTD,
+Wind,b0981daf36,Onshore,,Europe,Spain,2.5615,2.5615,,,Active,Wonka Energy LTD,
+Wind,d2ed03800b,Onshore,,Europe,Spain,2.62,,2.62,,Permitting,Wonka Energy LTD,
+Wind,a6d80ddb96 project,Onshore,,Europe,Spain,15.708,,15.708,,Under Construction,Wonka Energy LTD,
+Wind,fe4329c808 project,Onshore,,Europe,Spain,56.232,,56.232,,Under Construction,Wonka Energy LTD,
+Wind,6a28f64ac7 project,Onshore,,Europe,Spain,34.056,,34.056,,Under Construction,Wonka Energy LTD,
+Wind,81989f1ba1 project,Onshore,,Europe,Spain,36.608,,36.608,,Announced,Wonka Energy LTD,
+Wind,4cd0236377,Onshore,,Europe,Spain,1.41,,1.41,,Permitting,Wonka Energy LTD,
+Wind,6e24bb10cd,Onshore,,Europe,Finland,0.288,0.288,,,Active,Wonka Energy LTD,100
+Wind,6e767c76cc,Onshore,,Asia-Pacific,India,0.138,0.138,,,Active,Wonka Energy LTD,100
+Wind,e016886b63,Onshore,,South and Central America,Brazil,16.92,,16.92,,Under Construction,Wonka Energy LTD,100
+Wind,956101aaf2,Onshore,,South and Central America,Brazil,66.024,,,,Under Construction,Wonka Energy LTD,99.99
+Wind,8391ea5786,Onshore,,Europe,United Kingdom,58.5,,58.5,,Permitting,Wonka Energy LTD,
+Wind,299728766,Onshore,,Asia-Pacific,India,5.805,5.805,,,Active,Wonka Energy LTD,
+Wind,2428f1e343,Onshore,,North America,United States,25.9,,25.9,,Dormant,Wonka Energy LTD,
+Wind,3ac59d3f6c,Onshore,,Middle East and Africa,Tunisia,34.8,,34.8,,Permitting,Wonka Energy LTD,
+Wind,1e3f8f7def,Onshore,,Europe,Sweden,139.08,,139.08,,Under Construction,Wonka Energy LTD,
+Wind,18b4c7c59f project,Onshore,,North America,United States,8.7,,,,Active,Wonka Energy LTD,100
+Wind,da1f28d188,Onshore,,Asia-Pacific,India,0.768,0.768,,,Active,Wonka Energy LTD,
+Wind,82c9bb8758,Onshore,,Asia-Pacific,India,0.4515,0.4515,,,Active,Wonka Energy LTD,100
+Wind,8d4cfb22be,Onshore,,Asia-Pacific,India,1.41,1.41,,,Active,Wonka Energy LTD,
+Wind,b10ce886ec,Onshore,,Asia-Pacific,New Zealand,1.5075,1.5075,,,Active,Wonka Energy LTD,
+Wind,8363bb0493,Onshore,,Asia-Pacific,India,4.425,4.425,,,Active,Wonka Energy LTD,100
+Wind,9c9faad673,Onshore,,South and Central America,Brazil,27.4,27.4,,,Active,Wonka Energy LTD,100
+Wind,e33c28c38b,Onshore,,South and Central America,Brazil,13.8,13.8,,,Active,Wonka Energy LTD,100
+Wind,7ae780ee72,Onshore,,South and Central America,Brazil,19.596,19.596,,,Active,Wonka Energy LTD,100
+Wind,3dce94ca60 power plant,Onshore,,Europe,Georgia,13.95,,13.95,,Announced,Wonka Energy LTD,
+Wind,54d748f1d5,Onshore,,South and Central America,Brazil,36.96,36.96,,,Active,Wonka Energy LTD,100
+Wind,4e96d8282c project,Onshore,,North America,United States,54.432,,54.432,,Permitting,Wonka Energy LTD,100
+Wind,a91002aac7,Onshore,,Asia-Pacific,India,0.276,0.276,,,Active,Wonka Energy LTD,100
+Wind,b76cb83cce project,Onshore,,North America,United States,13.68,13.68,,,Active,Wonka Energy LTD,
+Wind,637fdb5344,Onshore,,Europe,Ireland,7.854,7.854,,,Active,Wonka Energy LTD,
+Wind,2d856e0acc,Onshore,,Europe,Ireland,88.2,,,,Active,Wonka Energy LTD,
+Wind,0fc307d933,Onshore,,South and Central America,Brazil,19.992,,,,Active,Wonka Energy LTD,40
+Wind,efb3f091bf,Onshore,,Asia-Pacific,India,102.789,,,,Active,Wonka Energy LTD,3.38
+Wind,d291c37b5b,Onshore,,Middle East and Africa,Jordan,,,,,Active,Wonka Energy LTD,50
+Wind,a331f677af,Onshore,,Europe,Italy,0.112,,0.112,,Dormant,Wonka Energy LTD,
+Wind,01cf303ad9,Onshore,,North America,United States,3.81,3.81,,,Active,Wonka Energy LTD,
+Wind,d6f62f5a67,Onshore,,Europe,Portugal,17.82,,,,Active,Wonka Energy LTD,
+Wind,327141571a,Onshore,,Asia-Pacific,India,5.445,5.445,,,Active,Wonka Energy LTD,100
+Wind,5a92d6cff0,Onshore,,Europe,Hungary,1.184,1.184,,,Active,Wonka Energy LTD,
+Wind,671a79bce3,Onshore,,Europe,Finland,38.88,,,38.88,Cancelled,Wonka Energy LTD,
+Wind,eabdff20fb,Onshore,,Europe,Finland,24.84,,24.84,,Permitting,Wonka Energy LTD,
+Wind,933a68bcb7 power plant,Onshore,,Europe,Ukraine,32.9868,,32.9868,,Permitting,Wonka Energy LTD,100
+Wind,085a096daa,Onshore,,Europe,Germany,3.1,3.1,,,Active,Wonka Energy LTD,15
+Wind,ae7b8d8274,Onshore,,Europe,Finland,125.46,,125.46,,Permitting,Wonka Energy LTD,
+Wind,e285068f18,Onshore,,Europe,Finland,34.2,,,34.2,Suspended,Wonka Energy LTD,
+Wind,e7706cae77,Onshore,,Europe,Finland,39.204,39.204,,,Active,Wonka Energy LTD,
+Wind,d3af0666dd,Onshore,,Europe,France,5.36,5.36,,,Active,Wonka Energy LTD,
+Wind,0f5e744cf8,Onshore,,North America,United States,14.382,14.382,,,Active,Wonka Energy LTD,
+Wind,857ac59784,Onshore,,Asia-Pacific,India,0.2065,0.2065,,,Active,Wonka Energy LTD,100
+Wind,c9d33f1361,Onshore,,Europe,Spain,42.3,42.3,,,Active,Wonka Energy LTD,
+Wind,f2d84a57b3 project,Onshore,,North America,United States,47.5,,47.5,,Permitting,Wonka Energy LTD,
+Wind,8ce12081a0,Offshore,,Europe,United Kingdom,384,384,,,Active,Wonka Energy LTD,100
+Wind,d5cc21cde3,Onshore,,Asia-Pacific,India,1.0115,1.0115,,,Active,Wonka Energy LTD,100
+Wind,3451dc93e7,Onshore,,Asia-Pacific,Vietnam,35.4,,,,Dormant,Wonka Energy LTD,
+Wind,d80dc0a75c,Onshore,,North America,Canada,4.615,4.615,,,Active,Wonka Energy LTD,100
+Wind,44195e6cc9,Onshore,,North America,United States,94.245,94.245,,,Active,Wonka Energy LTD,
+Wind,cc7b2ca27c,Onshore,,Asia-Pacific,Australia,130.56,130.56,,,Active,Wonka Energy LTD,
+Wind,0b261f774d,Onshore,,Europe,Portugal,2.92,2.92,,,Active,Wonka Energy LTD,
+Wind,7b81d0d3af project,Onshore,,North America,Canada,,57.27,,,Active,Wonka Energy LTD,100
+Wind,7b81d0d3af project,Onshore,,North America,Canada,,,33.2,,Permitting,Wonka Energy LTD,
+Wind,d26ea38904,Onshore,,North America,Mexico,89.76,89.76,,,Active,Wonka Energy LTD,
+Wind,1f3f0e270b,Onshore,,Europe,France,17.38,,,,Active,Wonka Energy LTD,
+Wind,cf4a67d139,Onshore,,Europe,Italy,35.2,35.2,,,Active,Wonka Energy LTD,
+Wind,ca543c273a,Onshore,,North America,United States,1.8,1.8,,,Active,Wonka Energy LTD,
+Wind,16ca7f4e2c,Onshore,,Asia-Pacific,India,116.22,116.22,,,Active,Wonka Energy LTD,
+Wind,a07a4bdade,Onshore,,North America,United States,61.2,,,,Active,Wonka Energy LTD,100
+Wind,54db404e2d,Offshore,,Europe,Germany,259.29,259.29,,,Active,Wonka Energy LTD,25
+Wind,0fe92a3892 center,Onshore,,Asia-Pacific,Japan,1.89,1.89,,,Active,Wonka Energy LTD,
+Wind,d9682ebf06,Onshore,,Middle East and Africa,Israel,7.0125,7.0125,,,Active,Wonka Energy LTD,100
+Wind,6022f304ba,Onshore,,Europe,United Kingdom,6.2525,6.2525,,,Active,Wonka Energy LTD,25
+Wind,fd786c0051,Onshore,,Europe,Sweden,110.22,,110.22,,Under Construction,Wonka Energy LTD,80
+Wind,14e3c2bd4e,Onshore,,Asia-Pacific,India,2.289,2.289,,,Active,Wonka Energy LTD,
+Wind,ef3f09eeaa,Onshore,,North America,Canada,138.6,,138.6,,Dormant,Wonka Energy LTD,
+Wind,7f3da5f012,Onshore,,Asia-Pacific,India,1.1385,1.1385,,,Active,Wonka Energy LTD,100
+Wind,88d90138a3,Onshore,,North America,United States,0.14025,0.14025,,,Active,Wonka Energy LTD,
+Wind,f5fbef34bb,Onshore,,Europe,France,18.81,18.81,,,Active,Wonka Energy LTD,50
+Wind,53fcfa8e5d,Onshore,,Europe,France,9.24,9.24,,,Active,Wonka Energy LTD,
+Wind,709c8d5b56,Onshore,,Europe,United Kingdom,25.97,,,25.97,Cancelled,Wonka Energy LTD,
+Wind,a643b442fc,Onshore,,Asia-Pacific,India,2.4225,2.4225,,,Active,Wonka Energy LTD,
+Wind,1b15d2d043,Onshore,,Europe,United Kingdom,406.35,,406.35,,Permitting,Wonka Energy LTD,
+Wind,3102460222,Onshore,,Europe,United Kingdom,10.5,10.5,,,Active,Wonka Energy LTD,100
+Wind,b093a9f3ca,Onshore,,Asia-Pacific,India,0.24,0.24,,,Active,Wonka Energy LTD,100
+Wind,5f0ec037b6,Onshore,,Asia-Pacific,China,,,,,Suspended,Wonka Energy LTD,51
+Wind,10ae36656c,Onshore,,Asia-Pacific,India,0.26775,0.26775,,,Active,Wonka Energy LTD,
+Wind,95be7f8561,Onshore,,Asia-Pacific,India,26.18,26.18,,,Active,Wonka Energy LTD,
+Wind,4af4dce3ec,Onshore,,Asia-Pacific,India,34.75,34.75,,,Active,Wonka Energy LTD,
+Wind,50aad03bc1,Onshore,,North America,United States,441.04,,441.04,,Permitting,Wonka Energy LTD,
